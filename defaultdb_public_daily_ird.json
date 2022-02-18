@@ -1,0 +1,5154 @@
+[
+  {
+    "id": "67978ded-90de-44ea-a09d-94966842d069",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-25",
+    "infected": 1113,
+    "recovered": 682,
+    "deceased": 7
+  },
+  {
+    "id": "d03293f3-1d0f-4e35-b041-6171284f25c7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-29",
+    "infected": 1962,
+    "recovered": 1436,
+    "deceased": 7
+  },
+  {
+    "id": "ed012011-980a-4e29-ae69-dc17d4081832",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-12",
+    "infected": 1621,
+    "recovered": 1205,
+    "deceased": 14
+  },
+  {
+    "id": "aedb6e33-8a2a-4922-84c4-d057e6f25b4b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-29",
+    "infected": 910,
+    "recovered": 729,
+    "deceased": 5
+  },
+  {
+    "id": "28add34e-1345-4668-bb29-3f12500a26c7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-22",
+    "infected": 719,
+    "recovered": 689,
+    "deceased": 11
+  },
+  {
+    "id": "5d74e2c3-d389-4076-b467-18b634bc859f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-03",
+    "infected": 5230,
+    "recovered": 5643,
+    "deceased": 24
+  },
+  {
+    "id": "cd4ff73b-70c6-480c-b8a7-b3d9dec0be1c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-27",
+    "infected": 1031,
+    "recovered": 701,
+    "deceased": 6
+  },
+  {
+    "id": "dda6d0f9-8d8c-4070-a660-636c9e18c1ce",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-30",
+    "infected": 1257,
+    "recovered": 746,
+    "deceased": 8
+  },
+  {
+    "id": "bc110d41-5e51-43f9-bf1c-2c9667aa6e36",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-15",
+    "infected": 625,
+    "recovered": 981,
+    "deceased": 9
+  },
+  {
+    "id": "99a6b95d-88d0-4718-a492-a17a7247f545",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-03",
+    "infected": 846,
+    "recovered": 678,
+    "deceased": 27
+  },
+  {
+    "id": "beb2090b-4fe3-423d-88f2-15a8762c5ae2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-08",
+    "infected": 3754,
+    "recovered": 5140,
+    "deceased": 49
+  },
+  {
+    "id": "a927aa8a-1d67-42ef-8c48-3c84ef8b3dd7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-08",
+    "infected": 3529,
+    "recovered": 1400,
+    "deceased": 21
+  },
+  {
+    "id": "acb5d57f-7a58-43a6-8aa2-e2bc26ab4bf6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-15",
+    "infected": 5540,
+    "recovered": 2328,
+    "deceased": 17
+  },
+  {
+    "id": "3a194f8a-b90c-4926-b894-82172e1c96d3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-18",
+    "infected": 5344,
+    "recovered": 2844,
+    "deceased": 20
+  },
+  {
+    "id": "624c34c4-ad01-419c-8c11-e391e4db744e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-22",
+    "infected": 7023,
+    "recovered": 3472,
+    "deceased": 26
+  },
+  {
+    "id": "ca63dadc-9ea1-492e-a6a7-9eef1720b153",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-10",
+    "infected": 1695,
+    "recovered": 1430,
+    "deceased": 15
+  },
+  {
+    "id": "702b1916-3c5e-4a4c-82d8-57f05102e8de",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-27",
+    "infected": 2068,
+    "recovered": 1510,
+    "deceased": 11
+  },
+  {
+    "id": "da45122d-b02b-4126-8826-58ca8846b265",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-06",
+    "infected": 2180,
+    "recovered": 2383,
+    "deceased": 13
+  },
+  {
+    "id": "29bd28e7-8cb6-4987-9772-7caff33f2d17",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-10",
+    "infected": 4162,
+    "recovered": 1877,
+    "deceased": 11
+  },
+  {
+    "id": "65362749-424f-49fe-99bd-6a3051a80f6d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-29",
+    "infected": 644,
+    "recovered": 1509,
+    "deceased": 19
+  },
+  {
+    "id": "82f8567e-0b39-4e36-8a0a-765b023b1e03",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-05",
+    "infected": 8236,
+    "recovered": 2999,
+    "deceased": 24
+  },
+  {
+    "id": "af6fdfcd-f7b9-4833-9e79-6e1a989c196a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-28",
+    "infected": 2128,
+    "recovered": 1669,
+    "deceased": 8
+  },
+  {
+    "id": "eebb6ddf-e8ac-4a08-900a-6d250acd7808",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-04",
+    "infected": 2622,
+    "recovered": 1261,
+    "deceased": 12
+  },
+  {
+    "id": "1046378b-1b4a-42b1-9324-f54ebff17940",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-18",
+    "infected": 921,
+    "recovered": 5085,
+    "deceased": 33
+  },
+  {
+    "id": "1a78c539-26a7-4227-941c-650f1bcefd4a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-26",
+    "infected": 884,
+    "recovered": 1111,
+    "deceased": 29
+  },
+  {
+    "id": "e900fee9-2c95-4cbb-af35-699439583603",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-23",
+    "infected": 849,
+    "recovered": 1961,
+    "deceased": 25
+  },
+  {
+    "id": "c3892091-72f1-4fb3-9415-b446c01133cb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-24",
+    "infected": 857,
+    "recovered": 554,
+    "deceased": 6
+  },
+  {
+    "id": "19d6b3ee-b2dd-463a-b870-7a290557d6df",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-18",
+    "infected": 1648,
+    "recovered": 1310,
+    "deceased": 12
+  },
+  {
+    "id": "f41cb1f6-d1b0-46f2-9aa7-2e5aa0d18ce4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-01",
+    "infected": 7732,
+    "recovered": 6021,
+    "deceased": 48
+  },
+  {
+    "id": "024bea26-0c01-445e-872f-4eac1e1a0347",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-25",
+    "infected": 1962,
+    "recovered": 2592,
+    "deceased": 18
+  },
+  {
+    "id": "65395fa8-bce6-4e3f-a9b2-1581a55068b2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-06",
+    "infected": 1677,
+    "recovered": 1974,
+    "deceased": 9
+  },
+  {
+    "id": "cd3674d0-8d7b-42ed-924f-bbab9010b1e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-04",
+    "infected": 1725,
+    "recovered": 1848,
+    "deceased": 11
+  },
+  {
+    "id": "5747b404-c3df-4260-ba2d-f4d979d13882",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-08",
+    "infected": 762,
+    "recovered": 688,
+    "deceased": 14
+  },
+  {
+    "id": "a64d7900-f047-4e1e-92af-2800d7167684",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-04",
+    "infected": 2937,
+    "recovered": 8416,
+    "deceased": 39
+  },
+  {
+    "id": "91e2bfee-abab-4fa1-afb5-8085540e898b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-01",
+    "infected": 2252,
+    "recovered": 1098,
+    "deceased": 15
+  },
+  {
+    "id": "94e7f206-eb5a-4c53-8c57-7a81831c3d28",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-16",
+    "infected": 1046,
+    "recovered": 2187,
+    "deceased": 17
+  },
+  {
+    "id": "360beb1d-b25c-4a0f-89f9-03ebbb8e4611",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-21",
+    "infected": 3868,
+    "recovered": 4591,
+    "deceased": 30
+  },
+  {
+    "id": "943d90e1-e70e-41a7-8f81-f1b270f943bf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-28",
+    "infected": 1159,
+    "recovered": 2236,
+    "deceased": 26
+  },
+  {
+    "id": "965788e5-254b-42c2-aaac-87cdc811456a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-02",
+    "infected": 713,
+    "recovered": 2672,
+    "deceased": 11
+  },
+  {
+    "id": "fecc35de-999f-431c-9443-4756e977e5b0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-20",
+    "infected": 1497,
+    "recovered": 1397,
+    "deceased": 13
+  },
+  {
+    "id": "81bbe73e-a9bf-4cc7-bfaf-84d4df4c4f5c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-11",
+    "infected": 1646,
+    "recovered": 7572,
+    "deceased": 45
+  },
+  {
+    "id": "173da737-fe84-41fb-98be-17e81186767a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-02",
+    "infected": 788,
+    "recovered": 766,
+    "deceased": 17
+  },
+  {
+    "id": "8663cbc1-42be-4aa3-b8c0-f8ae58f80bdb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-02",
+    "infected": 1587,
+    "recovered": 852,
+    "deceased": 5
+  },
+  {
+    "id": "50b4a8ca-f37a-44b3-8166-84f3bcce1815",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-16",
+    "infected": 2853,
+    "recovered": 1637,
+    "deceased": 14
+  },
+  {
+    "id": "8fa18109-9cf2-4051-8cf6-c0d48dc371f4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-30",
+    "infected": 681,
+    "recovered": 1051,
+    "deceased": 12
+  },
+  {
+    "id": "aa575dc8-d538-433d-b3a3-cbd3c1cda1c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-14",
+    "infected": 292,
+    "recovered": 428,
+    "deceased": 12
+  },
+  {
+    "id": "7818b3b0-1422-4d36-bf72-a4ad55ae6b56",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-15",
+    "infected": 8427,
+    "recovered": 8084,
+    "deceased": 51
+  },
+  {
+    "id": "81ccbda6-fb3c-42cb-9fe3-59e84b0a4cab",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-21",
+    "infected": 422,
+    "recovered": 453,
+    "deceased": 12
+  },
+  {
+    "id": "33d2dcfd-617b-42af-9c32-7f0910630d74",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-19",
+    "infected": 8622,
+    "recovered": 5534,
+    "deceased": 46
+  },
+  {
+    "id": "86dcc872-121f-4120-be24-9c6502b860c8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-19",
+    "infected": 1516,
+    "recovered": 2307,
+    "deceased": 29
+  },
+  {
+    "id": "26be6e38-54e1-4f83-9331-8159b3558638",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-26",
+    "infected": 5882,
+    "recovered": 2502,
+    "deceased": 30
+  },
+  {
+    "id": "2bc73fd7-ea6f-4c26-b4e1-a4ab97da0569",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-14",
+    "infected": 1394,
+    "recovered": 1047,
+    "deceased": 12
+  },
+  {
+    "id": "82ec95cb-047b-4b06-b26b-58db53ed8993",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-07",
+    "infected": 212,
+    "recovered": 584,
+    "deceased": 8
+  },
+  {
+    "id": "a51ad1f1-5548-4bf3-8d44-940eb52cf37b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-05",
+    "infected": 5721,
+    "recovered": 7133,
+    "deceased": 28
+  },
+  {
+    "id": "e77321c6-5e18-4541-b048-f3b4d2f0e8a8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-10",
+    "infected": 675,
+    "recovered": 590,
+    "deceased": 10
+  },
+  {
+    "id": "883e2652-055f-44d8-8166-d5f2d36bf8d6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-21",
+    "infected": 7270,
+    "recovered": 10097,
+    "deceased": 48
+  },
+  {
+    "id": "0ea072dc-6360-477e-ab10-3cd409140465",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-12",
+    "infected": 3169,
+    "recovered": 5693,
+    "deceased": 34
+  },
+  {
+    "id": "bf160e75-7b58-4a31-b53b-dcf187aeea77",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-23",
+    "infected": 7126,
+    "recovered": 3790,
+    "deceased": 24
+  },
+  {
+    "id": "c4d15de7-e8d4-4614-9759-42e8e40a0779",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-18",
+    "infected": 795,
+    "recovered": 808,
+    "deceased": 7
+  },
+  {
+    "id": "3455b857-7225-44b8-ac9c-814b0069b22b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-20",
+    "infected": 3093,
+    "recovered": 2604,
+    "deceased": 19
+  },
+  {
+    "id": "1cd6b30c-e718-45bd-8d0f-c6f9efcfc948",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-11",
+    "infected": 763,
+    "recovered": 810,
+    "deceased": 7
+  },
+  {
+    "id": "3c5db07f-98f7-4254-9b02-8bbeb6cb1bad",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-13",
+    "infected": 3175,
+    "recovered": 3245,
+    "deceased": 19
+  },
+  {
+    "id": "e53b0eb8-f6e4-4e6a-b1af-33c6048ca867",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-12",
+    "infected": 1296,
+    "recovered": 928,
+    "deceased": 15
+  },
+  {
+    "id": "a51caf28-258c-4d29-9fbf-53e4becc5735",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-14",
+    "infected": 2314,
+    "recovered": 1276,
+    "deceased": 11
+  },
+  {
+    "id": "0ae65259-d90a-456e-86d2-ed8a43868175",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-07",
+    "infected": 7643,
+    "recovered": 5926,
+    "deceased": 45
+  },
+  {
+    "id": "d1217520-463f-4269-9416-782f6385f85f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-09",
+    "infected": 5156,
+    "recovered": 3121,
+    "deceased": 21
+  },
+  {
+    "id": "c29486f0-e0c2-4cc2-b909-6dfdc96544c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-25",
+    "infected": 8731,
+    "recovered": 5673,
+    "deceased": 61
+  },
+  {
+    "id": "3272420f-5d75-4dbd-ac6f-04089200631f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-06",
+    "infected": 691,
+    "recovered": 724,
+    "deceased": 15
+  },
+  {
+    "id": "277e3953-4e04-490d-8a6b-268a09f6a9cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-31",
+    "infected": 5226,
+    "recovered": 10196,
+    "deceased": 51
+  },
+  {
+    "id": "bf13be8d-e393-4433-99c4-e91ac18f6531",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-21",
+    "infected": 1172,
+    "recovered": 3165,
+    "deceased": 23
+  },
+  {
+    "id": "d1571068-b036-4199-9621-d91ce9bcf344",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-11",
+    "infected": 9712,
+    "recovered": 4897,
+    "deceased": 30
+  },
+  {
+    "id": "f9364e53-f414-4bd4-a4cb-41637226cc24",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-15",
+    "infected": 1612,
+    "recovered": 5790,
+    "deceased": 34
+  },
+  {
+    "id": "28f71460-94ba-42a6-8c71-0e5b3def61e7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-22",
+    "infected": 4377,
+    "recovered": 1639,
+    "deceased": 13
+  },
+  {
+    "id": "4d5f3bb2-72e6-49e7-83c9-5cc4c9905c50",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-04",
+    "infected": 1516,
+    "recovered": 870,
+    "deceased": 10
+  },
+  {
+    "id": "564d3274-7b39-49ee-ab00-120fe9bac12c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-13",
+    "infected": 9470,
+    "recovered": 8086,
+    "deceased": 56
+  },
+  {
+    "id": "3b1e6c86-91a0-4ec1-91cf-d39c740a63e2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-18",
+    "infected": 2792,
+    "recovered": 1577,
+    "deceased": 18
+  },
+  {
+    "id": "05074f2f-adb0-47bc-b6d3-68529be38e5e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-17",
+    "infected": 5648,
+    "recovered": 11029,
+    "deceased": 57
+  },
+  {
+    "id": "14d06618-cc8c-4f1d-92d5-ebe4bd0f5a81",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-06",
+    "infected": 1364,
+    "recovered": 1419,
+    "deceased": 7
+  },
+  {
+    "id": "67cc8b27-1ce5-4830-b1aa-67caafb7e92e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-08",
+    "infected": 1768,
+    "recovered": 905,
+    "deceased": 13
+  },
+  {
+    "id": "1c5762c0-6adc-4b42-847d-c967cfcee11b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-24",
+    "infected": 4055,
+    "recovered": 2903,
+    "deceased": 15
+  },
+  {
+    "id": "0507f366-1711-46ec-9d38-6c93b868280c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-02",
+    "infected": 8010,
+    "recovered": 4454,
+    "deceased": 61
+  },
+  {
+    "id": "63d59702-2e4d-4743-a2e9-a8c19dbd0f0c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-26",
+    "infected": 2659,
+    "recovered": 1837,
+    "deceased": 23
+  },
+  {
+    "id": "76495503-b5ad-4e49-91f4-676792e4bd4c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-10",
+    "infected": 2006,
+    "recovered": 1456,
+    "deceased": 12
+  },
+  {
+    "id": "1589abba-7a35-4c76-b737-8107535dde21",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-04",
+    "infected": 7240,
+    "recovered": 8221,
+    "deceased": 49
+  },
+  {
+    "id": "341c10ea-84df-4e42-8fb6-f54638651a8a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-28",
+    "infected": 5519,
+    "recovered": 2506,
+    "deceased": 34
+  },
+  {
+    "id": "5a9e8814-3602-47a1-9586-13e95723e424",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-06",
+    "infected": 2657,
+    "recovered": 3074,
+    "deceased": 53
+  },
+  {
+    "id": "85d5d682-9f66-49b9-a467-1b7b6142c890",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-30",
+    "infected": 5868,
+    "recovered": 3709,
+    "deceased": 15
+  },
+  {
+    "id": "5be14345-afcb-440f-bda5-a58428e6e42d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-23",
+    "infected": 2448,
+    "recovered": 4217,
+    "deceased": 52
+  },
+  {
+    "id": "045b5b23-b738-462a-93ab-0b1fcbe21fb3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-27",
+    "infected": 7725,
+    "recovered": 8763,
+    "deceased": 62
+  },
+  {
+    "id": "9d7e7604-4e29-4cf1-a408-3a51d29b21c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-29",
+    "infected": 6756,
+    "recovered": 7612,
+    "deceased": 44
+  },
+  {
+    "id": "7fcf16f0-f4bc-4dd5-b6b4-5317f4a2d778",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-08",
+    "infected": 7838,
+    "recovered": 5063,
+    "deceased": 30
+  },
+  {
+    "id": "453ae563-a7b0-4138-b28f-b7dacb7639be",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-01",
+    "infected": 6022,
+    "recovered": 3509,
+    "deceased": 38
+  },
+  {
+    "id": "46e56dcd-5693-4697-a0fd-e20f40b4cd26",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-16",
+    "infected": 4568,
+    "recovered": 3876,
+    "deceased": 43
+  },
+  {
+    "id": "05e2e5e5-0849-4833-90de-c5f1523c2bb8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-22",
+    "infected": 4809,
+    "recovered": 3743,
+    "deceased": 16
+  },
+  {
+    "id": "4bdc471f-be8d-4822-af86-5cf316e12340",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-16",
+    "infected": 1563,
+    "recovered": 2256,
+    "deceased": 16
+  },
+  {
+    "id": "47e59ceb-0128-4311-b037-fbae89b7b6b6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-26",
+    "infected": 3813,
+    "recovered": 3777,
+    "deceased": 22
+  },
+  {
+    "id": "fef39270-cba6-4762-b409-e36c5852e5e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-12",
+    "infected": 4638,
+    "recovered": 7287,
+    "deceased": 40
+  },
+  {
+    "id": "821de5f3-1f25-4174-8652-63f7fd9719a7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-09",
+    "infected": 3120,
+    "recovered": 2935,
+    "deceased": 16
+  },
+  {
+    "id": "d793c92e-172b-4c75-86a3-56f781d5bb6a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-26",
+    "infected": 93,
+    "recovered": 147,
+    "deceased": 3
+  },
+  {
+    "id": "2f207222-ac5c-4568-b843-6251d2e95ac5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-29",
+    "infected": 363,
+    "recovered": 1472,
+    "deceased": 9
+  },
+  {
+    "id": "8b674121-7ea6-4602-a00c-ee457ddcdc3b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-11",
+    "infected": 1818,
+    "recovered": 1060,
+    "deceased": 11
+  },
+  {
+    "id": "1fab00c5-bfb6-4b5b-b902-ff8757b337cd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-26",
+    "infected": 1951,
+    "recovered": 2433,
+    "deceased": 11
+  },
+  {
+    "id": "93f93240-274c-4477-b639-95ec97142845",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-06",
+    "infected": 4723,
+    "recovered": 6786,
+    "deceased": 40
+  },
+  {
+    "id": "f4f5aa90-74e9-4f8f-98de-f3a629000326",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-09",
+    "infected": 2963,
+    "recovered": 5400,
+    "deceased": 41
+  },
+  {
+    "id": "2d77c0c2-3245-4c3c-a6a3-f5bbe09f5a3b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-09",
+    "infected": 923,
+    "recovered": 2421,
+    "deceased": 7
+  },
+  {
+    "id": "4a87f91c-51a2-4ce8-9022-795b1f68bc20",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-20",
+    "infected": 1891,
+    "recovered": 635,
+    "deceased": 9
+  },
+  {
+    "id": "2cf21545-a185-434e-b4fd-cafcba8adbd5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-03",
+    "infected": 1803,
+    "recovered": 1961,
+    "deceased": 15
+  },
+  {
+    "id": "97d1c7ae-c8d9-481a-ad92-d12b4befb84e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-13",
+    "infected": 1644,
+    "recovered": 1420,
+    "deceased": 17
+  },
+  {
+    "id": "fb7f0bd3-673a-4f9a-ba4a-ba6186aeb32a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-23",
+    "infected": 1986,
+    "recovered": 6944,
+    "deceased": 14
+  },
+  {
+    "id": "5d0610ac-5ca5-4573-9c2e-ca60065f74f4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-21",
+    "infected": 2003,
+    "recovered": 659,
+    "deceased": 9
+  },
+  {
+    "id": "69a60590-c882-4471-baf1-614b1dfa6dac",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-24",
+    "infected": 8235,
+    "recovered": 4570,
+    "deceased": 31
+  },
+  {
+    "id": "a9a41258-7e0a-4b98-9c4b-7a73dc0067af",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-13",
+    "infected": 2335,
+    "recovered": 6136,
+    "deceased": 38
+  },
+  {
+    "id": "d8fb6c99-139f-4eca-835c-939e30b71613",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-05",
+    "infected": 1691,
+    "recovered": 1621,
+    "deceased": 10
+  },
+  {
+    "id": "28276f92-7775-4e25-8756-4ecbacaebacd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-07",
+    "infected": 1753,
+    "recovered": 1378,
+    "deceased": 10
+  },
+  {
+    "id": "ed9b0307-a178-4ab7-a40e-95f7c9428521",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-09",
+    "infected": 3995,
+    "recovered": 1544,
+    "deceased": 16
+  },
+  {
+    "id": "19718891-25ed-4e96-954a-cacfdcf2e598",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-21",
+    "infected": 1487,
+    "recovered": 1599,
+    "deceased": 12
+  },
+  {
+    "id": "f00cb23b-c8df-4c66-a2c3-cf8100902c6c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-19",
+    "infected": 1645,
+    "recovered": 1518,
+    "deceased": 13
+  },
+  {
+    "id": "f42be308-c505-468f-9bfa-31fcf54124c2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-24",
+    "infected": 1832,
+    "recovered": 1529,
+    "deceased": 6
+  },
+  {
+    "id": "14ff6dcc-e4b7-4c8b-b15b-71ab8b88513a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-22",
+    "infected": 1032,
+    "recovered": 2969,
+    "deceased": 28
+  },
+  {
+    "id": "7091d960-c19a-48c5-b26f-51790362359b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-13",
+    "infected": 37,
+    "recovered": 182,
+    "deceased": 3
+  },
+  {
+    "id": "19aba54c-0e70-4c79-9950-3554d97d59d5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-14",
+    "infected": 22,
+    "recovered": 251,
+    "deceased": 2
+  },
+  {
+    "id": "7f7c442a-482d-4b5b-914c-1ea283b69482",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-15",
+    "infected": 12,
+    "recovered": 235,
+    "deceased": 0
+  },
+  {
+    "id": "63963ff7-9454-4440-887b-ecbed2131679",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-16",
+    "infected": 5,
+    "recovered": 67,
+    "deceased": 3
+  },
+  {
+    "id": "6803fe05-8307-45fb-b561-b0dc9157e015",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-17",
+    "infected": 15,
+    "recovered": 139,
+    "deceased": 4
+  },
+  {
+    "id": "d0d238be-5e70-4e6d-8357-64b834b1fee3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-18",
+    "infected": 27,
+    "recovered": 296,
+    "deceased": 3
+  },
+  {
+    "id": "c5c6b906-f67e-4a0d-b54f-7f6e22b4c1ad",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-19",
+    "infected": 22,
+    "recovered": 198,
+    "deceased": 2
+  },
+  {
+    "id": "7b80a436-ca71-408a-a862-3e7ff1078fd6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-20",
+    "infected": 15,
+    "recovered": 127,
+    "deceased": 1
+  },
+  {
+    "id": "a4868418-677b-4498-a418-88e245e6a1c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-21",
+    "infected": 17,
+    "recovered": 211,
+    "deceased": 0
+  },
+  {
+    "id": "2a475837-ae9c-4275-83e8-d061e203ccc8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-22",
+    "infected": 20,
+    "recovered": 171,
+    "deceased": 0
+  },
+  {
+    "id": "95a9166b-43f0-4d34-ae23-d1074c82a97b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-24",
+    "infected": 246,
+    "recovered": 1208,
+    "deceased": 28
+  },
+  {
+    "id": "2fd69894-939f-4b80-b6f8-3040e489fe5f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-23",
+    "infected": 5,
+    "recovered": 37,
+    "deceased": 0
+  },
+  {
+    "id": "b5ef1267-2fb0-4d2f-98ee-5e40489d5d07",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-24",
+    "infected": 13,
+    "recovered": 119,
+    "deceased": 1
+  },
+  {
+    "id": "578e36cd-d177-40c4-af38-01c0ea8163be",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-25",
+    "infected": 22,
+    "recovered": 188,
+    "deceased": 2
+  },
+  {
+    "id": "7d4ead48-33f6-4b5b-8979-4446ae4bf30d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-26",
+    "infected": 50,
+    "recovered": 95,
+    "deceased": 0
+  },
+  {
+    "id": "491e702e-9962-4127-8da7-073e28d31e97",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-27",
+    "infected": 40,
+    "recovered": 104,
+    "deceased": 2
+  },
+  {
+    "id": "c43cd5d1-8b8c-467d-813d-07140c6a7ec2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-28",
+    "infected": 77,
+    "recovered": 152,
+    "deceased": 1
+  },
+  {
+    "id": "855ab82f-3f58-4151-8c24-e064079493f3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-29",
+    "infected": 113,
+    "recovered": 42,
+    "deceased": 0
+  },
+  {
+    "id": "94ecaf97-1946-4569-b00b-6b50a4fae677",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-30",
+    "infected": 28,
+    "recovered": 34,
+    "deceased": 0
+  },
+  {
+    "id": "105245f7-40f4-4387-87c4-ac7b327ed052",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-31",
+    "infected": 88,
+    "recovered": 61,
+    "deceased": 0
+  },
+  {
+    "id": "1bfa4e07-2abf-4ad6-bf06-3fc2cf71b01c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-01",
+    "infected": 100,
+    "recovered": 112,
+    "deceased": 3
+  },
+  {
+    "id": "5b8a8288-0538-40a9-abaa-a52e99b47d25",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-02",
+    "infected": 121,
+    "recovered": 50,
+    "deceased": 2
+  },
+  {
+    "id": "700028a5-a135-4eda-9478-8b583f64be0a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-03",
+    "infected": 96,
+    "recovered": 43,
+    "deceased": 1
+  },
+  {
+    "id": "9efd5353-f107-44cc-bdd1-6f246ab6e74e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-04",
+    "infected": 141,
+    "recovered": 68,
+    "deceased": 0
+  },
+  {
+    "id": "eba2b3c6-8131-44fa-94d0-267a8da21cac",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-05",
+    "infected": 124,
+    "recovered": 41,
+    "deceased": 1
+  },
+  {
+    "id": "3c7cb4f8-090c-47c3-8d6f-0a902554064e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-06",
+    "infected": 78,
+    "recovered": 41,
+    "deceased": 4
+  },
+  {
+    "id": "6a7b31eb-c76f-44b4-8d39-199fa6192a02",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-07",
+    "infected": 140,
+    "recovered": 58,
+    "deceased": 2
+  },
+  {
+    "id": "bd9ec662-9153-4cab-8715-4991ebf9b1c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-08",
+    "infected": 179,
+    "recovered": 44,
+    "deceased": 0
+  },
+  {
+    "id": "b4d3758f-c003-4a4e-988b-00ebaf3ef418",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-09",
+    "infected": 172,
+    "recovered": 49,
+    "deceased": 1
+  },
+  {
+    "id": "951e8428-32c8-4a61-9a3d-b0f288dc006d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-10",
+    "infected": 238,
+    "recovered": 77,
+    "deceased": 1
+  },
+  {
+    "id": "9a012170-2083-4588-aedb-95fd8fd3722d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-23",
+    "infected": 968,
+    "recovered": 2153,
+    "deceased": 13
+  },
+  {
+    "id": "a5248bd7-cecb-4ebb-9cc3-47d3130dd398",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-11",
+    "infected": 191,
+    "recovered": 82,
+    "deceased": 0
+  },
+  {
+    "id": "3c90b3df-a06f-4f13-b833-121ee2f8bec7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-12",
+    "infected": 183,
+    "recovered": 72,
+    "deceased": 0
+  },
+  {
+    "id": "1c3bd6fa-2ba1-48e8-a65f-b530d10707b7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-13",
+    "infected": 149,
+    "recovered": 51,
+    "deceased": 1
+  },
+  {
+    "id": "f06de154-11d1-4214-a18b-5725ff1402bf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-14",
+    "infected": 136,
+    "recovered": 40,
+    "deceased": 2
+  },
+  {
+    "id": "ac1b4b73-475f-4e44-9ac9-f08f021f60f3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-15",
+    "infected": 198,
+    "recovered": 73,
+    "deceased": 0
+  },
+  {
+    "id": "3284f796-cb11-43fa-bc38-8c93912d7486",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-16",
+    "infected": 297,
+    "recovered": 40,
+    "deceased": 1
+  },
+  {
+    "id": "b92b563d-6e09-4e9e-826f-6f7c0a81709a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-17",
+    "infected": 269,
+    "recovered": 58,
+    "deceased": 0
+  },
+  {
+    "id": "410833dc-f769-4f51-958b-1c2adc5ffadf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-18",
+    "infected": 303,
+    "recovered": 78,
+    "deceased": 0
+  },
+  {
+    "id": "352dda85-a3a9-4367-bbad-bd9bf7fbeae1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-19",
+    "infected": 307,
+    "recovered": 70,
+    "deceased": 1
+  },
+  {
+    "id": "673ebe93-9c6a-4518-9ce0-457f0b78d0f4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-20",
+    "infected": 157,
+    "recovered": 58,
+    "deceased": 1
+  },
+  {
+    "id": "b4fd729f-f2be-40f4-b45e-1003f5983077",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-21",
+    "infected": 171,
+    "recovered": 43,
+    "deceased": 0
+  },
+  {
+    "id": "023287de-a70a-4fa7-8cb7-f4b1de3afe45",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-22",
+    "infected": 342,
+    "recovered": 91,
+    "deceased": 1
+  },
+  {
+    "id": "3d8d74cf-4f31-4d36-8442-efc965eeb512",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-23",
+    "infected": 447,
+    "recovered": 122,
+    "deceased": 1
+  },
+  {
+    "id": "2293e0bc-f580-4b80-a97c-7d9ceded68b7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-24",
+    "infected": 485,
+    "recovered": 61,
+    "deceased": 0
+  },
+  {
+    "id": "127017dd-0833-49f9-bd90-750d21f4e464",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-25",
+    "infected": 512,
+    "recovered": 127,
+    "deceased": 4
+  },
+  {
+    "id": "9764c614-1112-44d7-ae3d-af5c380fe163",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-26",
+    "infected": 462,
+    "recovered": 128,
+    "deceased": 3
+  },
+  {
+    "id": "56392979-057a-4ce7-b027-c510ce344d95",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-27",
+    "infected": 398,
+    "recovered": 88,
+    "deceased": 3
+  },
+  {
+    "id": "a9dfa47c-7f87-4560-9c5a-79b735288680",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-14",
+    "infected": 1603,
+    "recovered": 312,
+    "deceased": 5
+  },
+  {
+    "id": "6e4a9fb8-9e56-4fcb-a136-b23b9d292075",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-02",
+    "infected": 3193,
+    "recovered": 1521,
+    "deceased": 14
+  },
+  {
+    "id": "0364c840-30fd-481e-8a8a-db9bf57fec14",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-16",
+    "infected": 1931,
+    "recovered": 489,
+    "deceased": 9
+  },
+  {
+    "id": "3d7764d2-4581-4224-865d-0a99b68c4e0f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-18",
+    "infected": 1442,
+    "recovered": 542,
+    "deceased": 7
+  },
+  {
+    "id": "0ac10fbd-7ea2-4eed-8146-fa7c061f858b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-07",
+    "infected": 3390,
+    "recovered": 1519,
+    "deceased": 16
+  },
+  {
+    "id": "ecb7d089-cf85-45af-8247-f67cbc6cb36e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-28",
+    "infected": 1831,
+    "recovered": 1914,
+    "deceased": 12
+  },
+  {
+    "id": "7eb6b3f6-90a7-494c-a7aa-3e34fea2f6c5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-26",
+    "infected": 1044,
+    "recovered": 2719,
+    "deceased": 11
+  },
+  {
+    "id": "b5bbaa7e-d3ab-414b-83e7-1cfed44d664b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-31",
+    "infected": 228,
+    "recovered": 794,
+    "deceased": 25
+  },
+  {
+    "id": "3d59e5b3-e931-4d61-8013-813e7bf7f4d7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-30",
+    "infected": 1790,
+    "recovered": 1763,
+    "deceased": 13
+  },
+  {
+    "id": "b82c47b0-e675-4209-9f1a-bc1656f81d08",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-05",
+    "infected": 1505,
+    "recovered": 808,
+    "deceased": 15
+  },
+  {
+    "id": "86869447-a961-4106-9561-93813716609d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-16",
+    "infected": 4582,
+    "recovered": 2439,
+    "deceased": 27
+  },
+  {
+    "id": "90e908f3-6c36-470e-baac-bbc63d9764e2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-11",
+    "infected": 3979,
+    "recovered": 1783,
+    "deceased": 22
+  },
+  {
+    "id": "0c5f116e-e6a3-4b15-a12e-086e46fc334c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-14",
+    "infected": 4805,
+    "recovered": 2329,
+    "deceased": 19
+  },
+  {
+    "id": "e2072b5f-94bb-44be-b2ba-d14ae2899a55",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-15",
+    "infected": 775,
+    "recovered": 597,
+    "deceased": 10
+  },
+  {
+    "id": "650b6c64-6dbc-4789-898b-b0320b550a2e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-08",
+    "infected": 534,
+    "recovered": 977,
+    "deceased": 7
+  },
+  {
+    "id": "4959ac74-d007-4b7d-abde-84b21e2139a6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-30",
+    "infected": 1103,
+    "recovered": 2332,
+    "deceased": 15
+  },
+  {
+    "id": "d6e31156-ceef-44ca-9026-6cefe6bf9124",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-19",
+    "infected": 3810,
+    "recovered": 1440,
+    "deceased": 26
+  },
+  {
+    "id": "11c40af2-34d2-40a9-baa0-2680e26217dd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-02",
+    "infected": 7058,
+    "recovered": 5945,
+    "deceased": 28
+  },
+  {
+    "id": "b701831e-95be-43a6-8f6c-8cb128c5f208",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-16",
+    "infected": 873,
+    "recovered": 670,
+    "deceased": 7
+  },
+  {
+    "id": "422db3db-f926-4a42-83d6-60a09d92a314",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-29",
+    "infected": 4993,
+    "recovered": 5734,
+    "deceased": 39
+  },
+  {
+    "id": "5c09dede-6a1a-4773-b805-139de64e7156",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-16",
+    "infected": 1501,
+    "recovered": 3850,
+    "deceased": 34
+  },
+  {
+    "id": "6bfe45ef-a36f-4152-83d2-59a37b9ce724",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-20",
+    "infected": 1192,
+    "recovered": 1741,
+    "deceased": 22
+  },
+  {
+    "id": "73a55b5a-0bcb-4524-974d-b8d77d5a6aa3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-27",
+    "infected": 3415,
+    "recovered": 5660,
+    "deceased": 27
+  },
+  {
+    "id": "979139d5-b2f7-4bbc-a683-adefb4a8b93a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-27",
+    "infected": 888,
+    "recovered": 887,
+    "deceased": 28
+  },
+  {
+    "id": "ad303f82-2469-431c-9501-419b4c908796",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-22",
+    "infected": 763,
+    "recovered": 1019,
+    "deceased": 17
+  },
+  {
+    "id": "e8869049-e40c-4956-9cd9-41c0cf171bc5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-04",
+    "infected": 768,
+    "recovered": 956,
+    "deceased": 18
+  },
+  {
+    "id": "e7ba62da-3598-401e-8aee-5e76431cbae8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-12",
+    "infected": 836,
+    "recovered": 885,
+    "deceased": 11
+  },
+  {
+    "id": "4974ea92-15de-46e3-aa6d-94ba2cc427a0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-19",
+    "infected": 771,
+    "recovered": 759,
+    "deceased": 8
+  },
+  {
+    "id": "4595e45d-8990-4c37-9c6d-d326590626c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-28",
+    "infected": 582,
+    "recovered": 425,
+    "deceased": 10
+  },
+  {
+    "id": "4423311f-a5ef-4c5b-a70e-40322a8945cf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-25",
+    "infected": 1079,
+    "recovered": 855,
+    "deceased": 5
+  },
+  {
+    "id": "30a54893-7ce2-4c0d-8c85-865f185063b1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-10",
+    "infected": 2833,
+    "recovered": 4637,
+    "deceased": 17
+  },
+  {
+    "id": "c1ac6ca7-a667-4064-87dd-cd5c64690c56",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-17",
+    "infected": 1529,
+    "recovered": 3649,
+    "deceased": 14
+  },
+  {
+    "id": "6b728e43-aabf-49ff-9d51-9cd88936875f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-13",
+    "infected": 783,
+    "recovered": 2048,
+    "deceased": 16
+  },
+  {
+    "id": "f766574c-a06f-4e75-925d-b2bbc71b5ac1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-17",
+    "infected": 83,
+    "recovered": 215,
+    "deceased": 6
+  },
+  {
+    "id": "c40e66aa-1b9f-4dfe-93f2-de867a813588",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-12",
+    "infected": 1244,
+    "recovered": 342,
+    "deceased": 6
+  },
+  {
+    "id": "49d40c92-2d84-46ff-826e-a2ebe74a1194",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-13",
+    "infected": 1716,
+    "recovered": 410,
+    "deceased": 3
+  },
+  {
+    "id": "fe80e3f9-8b9d-4641-9b93-12ae2063f27e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-15",
+    "infected": 1879,
+    "recovered": 386,
+    "deceased": 5
+  },
+  {
+    "id": "51c46df7-6942-42a5-b893-387757125382",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-17",
+    "infected": 1601,
+    "recovered": 504,
+    "deceased": 10
+  },
+  {
+    "id": "6b5ce1f2-11f3-41b4-84eb-8541cbe4214b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-17",
+    "infected": 1656,
+    "recovered": 1225,
+    "deceased": 6
+  },
+  {
+    "id": "167e97f8-7176-44ae-8d57-43165bb16e40",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-31",
+    "infected": 1355,
+    "recovered": 1407,
+    "deceased": 15
+  },
+  {
+    "id": "afce1b6a-df36-4f5a-97f0-edc8d435baf6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-11",
+    "infected": 1162,
+    "recovered": 277,
+    "deceased": 4
+  },
+  {
+    "id": "2c2a4949-0f9a-4708-85df-e041acd7c9b0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-12",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "5d70fb28-7f04-4798-af80-1af8295ac4e4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-13",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "3d477bf5-f168-44e4-a35a-b3286a46ae4a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-14",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "fe906de1-69d7-4fba-b95c-3c4c1b9d74a1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-15",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "03a15dc5-f0d7-4ca5-840d-b3876561224c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-16",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "bb7540d3-9ea5-4565-8643-e3abe6a64dff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-17",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "70ad6064-0b51-43db-b9fe-5519fa6119a6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-18",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "1b86a8d8-25a9-4ed0-abba-928008c283e4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-19",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "e42ef8d9-e773-47c7-835c-5f302fc177f4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-20",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "201452cd-2267-4589-8994-5d55caec111b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-21",
+    "infected": 1,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "b612fcde-c1e7-4643-81a0-61b28a9decea",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-22",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "b39b0736-da16-4138-acb9-44f3ec455909",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-23",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "3bc0a2aa-dbef-4571-8766-c6933166d4df",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-24",
+    "infected": 1,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "b305d559-02c8-4cc8-a18a-3a199c967750",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-25",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "555269e3-e730-4e8f-937b-2dfe1b71cf95",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-26",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "aa23b25c-b155-4d9e-8840-a81e7ceb1a3d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-27",
+    "infected": 1,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "cd5f6199-cb31-4792-81b7-f6bbf0a90923",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-28",
+    "infected": 3,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "0950262b-d2a5-470a-a901-b88da2d28327",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-29",
+    "infected": 0,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "226db4eb-6449-4dfc-9150-5b8aac2134dd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-01",
+    "infected": 1,
+    "recovered": 1,
+    "deceased": 0
+  },
+  {
+    "id": "f89304e3-792d-49a8-acec-a852f7d2518d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-02",
+    "infected": 5,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "12b6d312-ea65-4c7e-be7d-961bf9d33a04",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-03",
+    "infected": 3,
+    "recovered": 1,
+    "deceased": 0
+  },
+  {
+    "id": "6c3000c2-f120-448c-bfd2-1ad719cd9a8e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-04",
+    "infected": 0,
+    "recovered": 1,
+    "deceased": 0
+  },
+  {
+    "id": "ae6debeb-3050-4d03-92fd-6a848389268f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-05",
+    "infected": 2,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "c4ae220a-3c27-4cfb-8190-f0f29d25dd59",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-06",
+    "infected": 4,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "2a4057cc-0303-44f3-bf56-7f45b1b9cf17",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-07",
+    "infected": 4,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "ce3a2ca5-e79d-4c63-a555-7a57f051ec6a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-08",
+    "infected": 9,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "81289434-64d6-4afe-93ef-aeb654a1df83",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-09",
+    "infected": 4,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "0e8ed401-fb2f-4d53-b897-a7ba04db33b8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-10",
+    "infected": 33,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "509bf3f5-d882-47ca-9c31-76198f960c1d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-11",
+    "infected": 20,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "7d6326a9-44df-4b35-acb2-fdcd69910ff6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-12",
+    "infected": 21,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "78f1f3c0-0c34-4fdd-800e-f9aa30d92968",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-13",
+    "infected": 36,
+    "recovered": 1,
+    "deceased": 0
+  },
+  {
+    "id": "46a5df58-603f-4554-8180-deb6f2e33b15",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-14",
+    "infected": 29,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "de3f29f4-dbee-4972-94da-6acd8399a543",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-15",
+    "infected": 38,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "671f7f90-9a5f-47b3-be45-dc2de83c66d4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-16",
+    "infected": 73,
+    "recovered": 0,
+    "deceased": 0
+  },
+  {
+    "id": "b196e917-1c2f-4b2e-832b-87ad0ee2629f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-17",
+    "infected": 94,
+    "recovered": 5,
+    "deceased": 0
+  },
+  {
+    "id": "bf6cb833-0534-409d-8ef7-d67b302906b3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-18",
+    "infected": 118,
+    "recovered": 5,
+    "deceased": 0
+  },
+  {
+    "id": "09a7716b-acb0-4d1d-817c-b28a4df10ffa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-19",
+    "infected": 135,
+    "recovered": 10,
+    "deceased": 0
+  },
+  {
+    "id": "8e1e6bb3-6a4c-473d-9fba-3afb884be216",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-20",
+    "infected": 168,
+    "recovered": 3,
+    "deceased": 1
+  },
+  {
+    "id": "ff12b971-8f9d-440d-be48-6b3279f7cf20",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-21",
+    "infected": 210,
+    "recovered": 4,
+    "deceased": 0
+  },
+  {
+    "id": "4c6fe5cb-dcf9-44f4-b7e6-a1ab97f9631c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-22",
+    "infected": 254,
+    "recovered": 7,
+    "deceased": 0
+  },
+  {
+    "id": "4d99a6e1-7bc8-445f-9850-60c357ba24c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-23",
+    "infected": 352,
+    "recovered": 14,
+    "deceased": 0
+  },
+  {
+    "id": "189d98b3-9f7c-4840-b6a1-ef5086a0bd29",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-24",
+    "infected": 423,
+    "recovered": 7,
+    "deceased": 3
+  },
+  {
+    "id": "1962729f-4fc6-42ea-ae3f-c40400fa55cd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-25",
+    "infected": 425,
+    "recovered": 12,
+    "deceased": 1
+  },
+  {
+    "id": "796302af-438d-4866-ad1a-befeed56dd92",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-26",
+    "infected": 520,
+    "recovered": 17,
+    "deceased": 5
+  },
+  {
+    "id": "477a9b51-742b-461d-9775-9c1b30e01635",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-27",
+    "infected": 434,
+    "recovered": 9,
+    "deceased": 2
+  },
+  {
+    "id": "40188fb5-9f8e-447d-b5e7-cd8c675dc318",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-28",
+    "infected": 480,
+    "recovered": 24,
+    "deceased": 1
+  },
+  {
+    "id": "d90b4324-3710-46d4-ad77-42ad770da47b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-29",
+    "infected": 532,
+    "recovered": 37,
+    "deceased": 3
+  },
+  {
+    "id": "784ba4ca-f03c-418b-b826-feb66050523a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-30",
+    "infected": 546,
+    "recovered": 31,
+    "deceased": 1
+  },
+  {
+    "id": "b0903e4c-f6a3-484a-8d9d-02f65566c915",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-31",
+    "infected": 738,
+    "recovered": 61,
+    "deceased": 4
+  },
+  {
+    "id": "1e17b2e5-648a-450f-b01c-81623f0be256",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-01",
+    "infected": 821,
+    "recovered": 572,
+    "deceased": 8
+  },
+  {
+    "id": "5c1552fd-30c3-47fd-9155-4d1008b5be85",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-02",
+    "infected": 719,
+    "recovered": 91,
+    "deceased": 10
+  },
+  {
+    "id": "d671e502-84c4-4ab6-a6b6-3e0317596415",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-03",
+    "infected": 597,
+    "recovered": 94,
+    "deceased": 5
+  },
+  {
+    "id": "c2722756-cabf-4bfd-a049-31e30f00460a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-04",
+    "infected": 427,
+    "recovered": 57,
+    "deceased": 7
+  },
+  {
+    "id": "44921b0d-5a0f-4d91-9439-62125b1630a0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-05",
+    "infected": 583,
+    "recovered": 104,
+    "deceased": 6
+  },
+  {
+    "id": "31a6b72d-9651-464d-b52d-4c8e54ea99ce",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-06",
+    "infected": 451,
+    "recovered": 106,
+    "deceased": 7
+  },
+  {
+    "id": "5f1a4f6c-5d0a-4e3a-bfd5-4006e09f0a05",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-07",
+    "infected": 378,
+    "recovered": 130,
+    "deceased": 7
+  },
+  {
+    "id": "5b52e857-c6cf-42aa-a9ef-48c6515ee503",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-08",
+    "infected": 338,
+    "recovered": 149,
+    "deceased": 9
+  },
+  {
+    "id": "b2a78f7c-6041-43b0-a948-253597a900eb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-09",
+    "infected": 343,
+    "recovered": 110,
+    "deceased": 9
+  },
+  {
+    "id": "9c8c356f-2233-4d60-a5bf-2eb11ca9569c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-10",
+    "infected": 359,
+    "recovered": 204,
+    "deceased": 8
+  },
+  {
+    "id": "3ed36d8d-2fc3-4e06-ab22-5488495fd16e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-10",
+    "infected": 1410,
+    "recovered": 211,
+    "deceased": 4
+  },
+  {
+    "id": "94bb7b92-f475-47f9-b87e-31cab37ce0fa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-19",
+    "infected": 1016,
+    "recovered": 423,
+    "deceased": 7
+  },
+  {
+    "id": "768ae12f-fcba-43e0-b764-b2b464d40de7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-22",
+    "infected": 2043,
+    "recovered": 3460,
+    "deceased": 5
+  },
+  {
+    "id": "4aba31a6-33bb-4feb-a69d-cfe1ad84f02c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-31",
+    "infected": 2179,
+    "recovered": 1283,
+    "deceased": 21
+  },
+  {
+    "id": "de3d3b6e-3ef1-4353-9eec-282d9ed11134",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-24",
+    "infected": 1897,
+    "recovered": 1340,
+    "deceased": 14
+  },
+  {
+    "id": "6f79456d-2b83-4b82-9a09-27e28b39dca9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-11",
+    "infected": 345,
+    "recovered": 169,
+    "deceased": 6
+  },
+  {
+    "id": "5ae876e6-e2e0-4292-8a91-bf06e52e4fc4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-12",
+    "infected": 554,
+    "recovered": 347,
+    "deceased": 7
+  },
+  {
+    "id": "9b8d579f-36e6-45f0-b348-0b61b897ddbe",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-13",
+    "infected": 438,
+    "recovered": 310,
+    "deceased": 8
+  },
+  {
+    "id": "5e6b64e9-9f77-47c0-bb52-f8357dee2cd7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-14",
+    "infected": 399,
+    "recovered": 379,
+    "deceased": 8
+  },
+  {
+    "id": "f89575c6-631a-4a13-9887-70aa66208312",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-15",
+    "infected": 311,
+    "recovered": 301,
+    "deceased": 13
+  },
+  {
+    "id": "4407dd07-4de4-4bb9-a591-e9eab21ac4aa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-16",
+    "infected": 296,
+    "recovered": 355,
+    "deceased": 7
+  },
+  {
+    "id": "5a2c0568-3c71-4c8a-944d-09a714133c48",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-17",
+    "infected": 298,
+    "recovered": 371,
+    "deceased": 9
+  },
+  {
+    "id": "867efa66-8f6a-4a3a-96c0-dfbaebce5daf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-18",
+    "infected": 291,
+    "recovered": 376,
+    "deceased": 11
+  },
+  {
+    "id": "4969a7a3-28ce-48b4-b052-9bf6f923a562",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-19",
+    "infected": 277,
+    "recovered": 303,
+    "deceased": 8
+  },
+  {
+    "id": "647b8e55-8bab-4e19-95e0-9818fac1d8d5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-20",
+    "infected": 299,
+    "recovered": 535,
+    "deceased": 6
+  },
+  {
+    "id": "bac0505e-4ec9-41cf-a289-714c87511e41",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-21",
+    "infected": 283,
+    "recovered": 445,
+    "deceased": 9
+  },
+  {
+    "id": "4cf5a229-b672-4dc3-b59d-042c443ecc3a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-22",
+    "infected": 226,
+    "recovered": 362,
+    "deceased": 3
+  },
+  {
+    "id": "ab13a316-b5db-4fb5-a3a3-bb00016e8d4f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-23",
+    "infected": 276,
+    "recovered": 386,
+    "deceased": 4
+  },
+  {
+    "id": "6c2986a8-e2f4-495a-b7d4-5d4865037ae3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-24",
+    "infected": 248,
+    "recovered": 508,
+    "deceased": 3
+  },
+  {
+    "id": "2b1183d5-f926-478b-b43d-875d1ce58faf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-25",
+    "infected": 159,
+    "recovered": 434,
+    "deceased": 3
+  },
+  {
+    "id": "c3a0e437-81b1-4af9-8cce-cd56d2c330b4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-26",
+    "infected": 83,
+    "recovered": 234,
+    "deceased": 2
+  },
+  {
+    "id": "a13823fa-8a54-4cd9-9ce2-e74e3865a494",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-27",
+    "infected": 127,
+    "recovered": 564,
+    "deceased": 4
+  },
+  {
+    "id": "7fa887cb-ded8-415f-a06b-222158b073fc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-28",
+    "infected": 160,
+    "recovered": 501,
+    "deceased": 5
+  },
+  {
+    "id": "40a4dad3-4b4d-41c2-b82f-c405c560280b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-29",
+    "infected": 82,
+    "recovered": 427,
+    "deceased": 6
+  },
+  {
+    "id": "c6814ea1-edf0-4de7-b3c1-a4d018da7b15",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-30",
+    "infected": 142,
+    "recovered": 403,
+    "deceased": 6
+  },
+  {
+    "id": "abf94aac-d9f4-41f6-9fe0-1e636f5e333b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-01",
+    "infected": 117,
+    "recovered": 648,
+    "deceased": 4
+  },
+  {
+    "id": "439c2544-ec84-40b3-ba13-8d0adebb1933",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-02",
+    "infected": 57,
+    "recovered": 267,
+    "deceased": 3
+  },
+  {
+    "id": "fa75100b-eb24-4235-af2f-640e1ab036e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-03",
+    "infected": 27,
+    "recovered": 150,
+    "deceased": 3
+  },
+  {
+    "id": "54ec556d-9a3e-4275-9457-bf9bd0cfa017",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-04",
+    "infected": 53,
+    "recovered": 365,
+    "deceased": 3
+  },
+  {
+    "id": "f01f8033-0775-483e-81b1-383d01f46fd2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-05",
+    "infected": 32,
+    "recovered": 355,
+    "deceased": 2
+  },
+  {
+    "id": "95640bc1-13fc-447b-ae48-e5acc303978f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-06",
+    "infected": 65,
+    "recovered": 211,
+    "deceased": 1
+  },
+  {
+    "id": "be27e5d7-fd01-414c-be3a-bde62d6f7f42",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-07",
+    "infected": 61,
+    "recovered": 265,
+    "deceased": 1
+  },
+  {
+    "id": "e84e94e5-c0b0-4b6e-b183-fc9c65759768",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-08",
+    "infected": 33,
+    "recovered": 303,
+    "deceased": 6
+  },
+  {
+    "id": "f0b70c54-9150-47fa-b787-5ec0da72c436",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-09",
+    "infected": 19,
+    "recovered": 110,
+    "deceased": 2
+  },
+  {
+    "id": "240285f3-c9ba-4009-95cb-b9fde591a91b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-10",
+    "infected": 29,
+    "recovered": 124,
+    "deceased": 5
+  },
+  {
+    "id": "c22867a9-67c8-4798-bec1-b54faee00802",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-11",
+    "infected": 39,
+    "recovered": 448,
+    "deceased": 5
+  },
+  {
+    "id": "67f98328-b5e0-4b15-b949-5a972d9a0bf9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-12",
+    "infected": 23,
+    "recovered": 206,
+    "deceased": 3
+  },
+  {
+    "id": "49ad247d-9808-4cff-bc75-a283bf488c18",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-17",
+    "infected": 5389,
+    "recovered": 3696,
+    "deceased": 16
+  },
+  {
+    "id": "d1789f0a-e9b4-433b-ae04-d18250939632",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-07",
+    "infected": 4169,
+    "recovered": 5216,
+    "deceased": 26
+  },
+  {
+    "id": "4d7accd6-7525-4bb6-9ae8-5ad3ee3dc591",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-28",
+    "infected": 380,
+    "recovered": 96,
+    "deceased": 1
+  },
+  {
+    "id": "17a481c0-6670-483d-8629-e2f16401bb76",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-29",
+    "infected": 749,
+    "recovered": 183,
+    "deceased": 0
+  },
+  {
+    "id": "910ec98b-e125-4566-918d-74b62516c24c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-30",
+    "infected": 780,
+    "recovered": 120,
+    "deceased": 1
+  },
+  {
+    "id": "38658422-5019-4cc7-ba8d-25f772ee5e08",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-01",
+    "infected": 964,
+    "recovered": 100,
+    "deceased": 3
+  },
+  {
+    "id": "edad60bf-2d92-4ee8-97a2-80dc85ebebab",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-02",
+    "infected": 1139,
+    "recovered": 129,
+    "deceased": 1
+  },
+  {
+    "id": "e04f5a78-38b2-4fb5-acf5-6fffea7a2cba",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-03",
+    "infected": 938,
+    "recovered": 125,
+    "deceased": 2
+  },
+  {
+    "id": "62899141-9069-4bd2-80f5-c85ac318e16f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-04",
+    "infected": 819,
+    "recovered": 139,
+    "deceased": 4
+  },
+  {
+    "id": "9f7c411c-6fbd-4183-807c-de795e052c17",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-05",
+    "infected": 829,
+    "recovered": 140,
+    "deceased": 1
+  },
+  {
+    "id": "6d8eaf2b-d4c2-4c36-92de-f5177d963dc7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-09",
+    "infected": 1524,
+    "recovered": 194,
+    "deceased": 3
+  },
+  {
+    "id": "47d87bca-a80c-42d8-a793-eecbcaed5cef",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-25",
+    "infected": 8390,
+    "recovered": 4158,
+    "deceased": 28
+  },
+  {
+    "id": "af48e731-aa4d-4ca9-96da-fa2413ba09ab",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-10",
+    "infected": 916,
+    "recovered": 4066,
+    "deceased": 33
+  },
+  {
+    "id": "79958521-79cb-44e9-8a5b-caeec43343c8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-24",
+    "infected": 4944,
+    "recovered": 10519,
+    "deceased": 79
+  },
+  {
+    "id": "46d8b099-0982-4ddc-9062-d88ebe55ba26",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-01",
+    "infected": 628,
+    "recovered": 568,
+    "deceased": 14
+  },
+  {
+    "id": "01c32256-0025-4fd2-bfb6-3b60df438538",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-06",
+    "infected": 1132,
+    "recovered": 161,
+    "deceased": 6
+  },
+  {
+    "id": "58f227ed-9b84-469d-b59a-d0c4bfc65985",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-03",
+    "infected": 7446,
+    "recovered": 8284,
+    "deceased": 57
+  },
+  {
+    "id": "a195bb54-6cc3-4493-b667-d6dce4a8779b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-14",
+    "infected": 2117,
+    "recovered": 6213,
+    "deceased": 33
+  },
+  {
+    "id": "0a772c9f-0151-4d4b-bda8-4a4395fc331b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-09",
+    "infected": 1866,
+    "recovered": 1045,
+    "deceased": 15
+  },
+  {
+    "id": "8bf3f960-d1b9-40bd-9ae8-bb438cc83abc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-05",
+    "infected": 6583,
+    "recovered": 7305,
+    "deceased": 33
+  },
+  {
+    "id": "6fc6e6aa-154c-447d-998e-64561579277a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-27",
+    "infected": 2055,
+    "recovered": 1899,
+    "deceased": 6
+  },
+  {
+    "id": "411949b1-ea3e-473e-8dd3-1aa6012f7beb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-07",
+    "infected": 1384,
+    "recovered": 158,
+    "deceased": 5
+  },
+  {
+    "id": "be53b5e9-a790-4dbf-bb72-5cbe3835c52a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-29",
+    "infected": 5639,
+    "recovered": 2416,
+    "deceased": 26
+  },
+  {
+    "id": "ed197aa7-d834-4ded-a9b7-e18e8cf129ab",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-15",
+    "infected": 2890,
+    "recovered": 1215,
+    "deceased": 12
+  },
+  {
+    "id": "91b45df2-6bfe-4396-b592-d5a458cceae3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-31",
+    "infected": 5876,
+    "recovered": 4306,
+    "deceased": 34
+  },
+  {
+    "id": "2876740f-19a2-4aa9-9bcd-badc5d5e8e93",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-08",
+    "infected": 1322,
+    "recovered": 116,
+    "deceased": 5
+  },
+  {
+    "id": "e3b3a00c-bd0e-4dfd-9ec5-de87c1b79545",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-12",
+    "infected": 2719,
+    "recovered": 1195,
+    "deceased": 15
+  },
+  {
+    "id": "3e1dfe35-48b5-49b5-874d-cbe07e50c9c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-17",
+    "infected": 2846,
+    "recovered": 1977,
+    "deceased": 15
+  },
+  {
+    "id": "55c5a705-f82b-4f26-b22b-2d2a116fe6ca",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-05",
+    "infected": 1000,
+    "recovered": 603,
+    "deceased": 10
+  },
+  {
+    "id": "4c9f897f-2506-4232-a7ef-f285a4abe818",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-03",
+    "infected": 2662,
+    "recovered": 1856,
+    "deceased": 14
+  },
+  {
+    "id": "4ed866d1-67af-464b-8ad0-f764c5dcbcce",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-20",
+    "infected": 773,
+    "recovered": 684,
+    "deceased": 6
+  },
+  {
+    "id": "5f732aae-fe92-4a7b-ac14-76e2ed06a041",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-18",
+    "infected": 10114,
+    "recovered": 6222,
+    "deceased": 46
+  },
+  {
+    "id": "43ab5194-c2f1-4962-a28c-7e9e37249e3a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-05",
+    "infected": 570,
+    "recovered": 941,
+    "deceased": 13
+  },
+  {
+    "id": "52615f0d-dcb5-4630-9071-49a5b8abed0b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-17",
+    "infected": 829,
+    "recovered": 584,
+    "deceased": 12
+  },
+  {
+    "id": "d491d5e2-69a4-4336-a094-af913dfd1883",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-30",
+    "infected": 9076,
+    "recovered": 4520,
+    "deceased": 36
+  },
+  {
+    "id": "24f19f0b-9971-4112-9a1c-18227c4fdbf3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-20",
+    "infected": 2578,
+    "recovered": 2496,
+    "deceased": 18
+  },
+  {
+    "id": "2bea82f2-d416-4542-aa9f-1b7b4e53f87b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-11",
+    "infected": 1835,
+    "recovered": 1155,
+    "deceased": 11
+  },
+  {
+    "id": "0cb30452-5159-4954-b08a-fd82b34ae507",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-13",
+    "infected": 1729,
+    "recovered": 1932,
+    "deceased": 9
+  },
+  {
+    "id": "2eaf002c-aa1f-4ec5-8f30-35caa6c0d5ed",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-19",
+    "infected": 3792,
+    "recovered": 5940,
+    "deceased": 22
+  },
+  {
+    "id": "133fcda2-bd2f-4eb8-a55e-8e290420b94b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-06",
+    "infected": 7878,
+    "recovered": 4837,
+    "deceased": 45
+  },
+  {
+    "id": "6630d56b-6a9c-4b56-90fc-0b4b31c2e8fd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-26",
+    "infected": 1087,
+    "recovered": 943,
+    "deceased": 9
+  },
+  {
+    "id": "90e59f68-5db6-4513-adb1-c953d60fa9fa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-07",
+    "infected": 4596,
+    "recovered": 9824,
+    "deceased": 44
+  },
+  {
+    "id": "c7b8e3e2-c047-48c2-a3ef-92476e3c334d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-03",
+    "infected": 2597,
+    "recovered": 3748,
+    "deceased": 35
+  },
+  {
+    "id": "57200625-5120-4f7e-94f0-1a0601b0fc6b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-20",
+    "infected": 1255,
+    "recovered": 3428,
+    "deceased": 25
+  },
+  {
+    "id": "6ed56fb6-84ee-410d-890f-882aafaf6f25",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-13",
+    "infected": 761,
+    "recovered": 708,
+    "deceased": 5
+  },
+  {
+    "id": "c3134f7e-0254-43c1-8170-9240c784b933",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-12",
+    "infected": 9295,
+    "recovered": 4616,
+    "deceased": 57
+  },
+  {
+    "id": "ce2b982f-0d6b-44e4-a696-69f62e0c747f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-03",
+    "infected": 1451,
+    "recovered": 1446,
+    "deceased": 10
+  },
+  {
+    "id": "c8dd067f-89ce-4022-a47e-30b568425c2d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-28",
+    "infected": 725,
+    "recovered": 1297,
+    "deceased": 11
+  },
+  {
+    "id": "bd802eed-115e-4ab0-9399-2c48367c6992",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-23",
+    "infected": 959,
+    "recovered": 661,
+    "deceased": 7
+  },
+  {
+    "id": "a3e49cf9-0656-47fa-8c66-7e3caf54011c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-16",
+    "infected": 5088,
+    "recovered": 4304,
+    "deceased": 48
+  },
+  {
+    "id": "cc004f71-976f-4c3d-a92e-34b50f432503",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-23",
+    "infected": 4035,
+    "recovered": 2049,
+    "deceased": 25
+  },
+  {
+    "id": "11423721-2400-46ed-8a83-f982380ec8b3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-02",
+    "infected": 4218,
+    "recovered": 2066,
+    "deceased": 26
+  },
+  {
+    "id": "2c6c90c9-1f0f-4f5a-8643-07d1affb70c4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-21",
+    "infected": 3107,
+    "recovered": 7492,
+    "deceased": 24
+  },
+  {
+    "id": "2a03051d-6244-475e-a47f-1ef29c9f20d0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-01",
+    "infected": 659,
+    "recovered": 1407,
+    "deceased": 19
+  },
+  {
+    "id": "4d8ae184-2bb1-4002-93bb-8edf3a7f35d8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-25",
+    "infected": 610,
+    "recovered": 2465,
+    "deceased": 36
+  },
+  {
+    "id": "043e692e-519b-40d8-ba8f-dbe13df27d97",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-29",
+    "infected": 1025,
+    "recovered": 1119,
+    "deceased": 8
+  },
+  {
+    "id": "eb3d5d31-b164-4ab4-885a-050762bf2693",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-17",
+    "infected": 411,
+    "recovered": 2753,
+    "deceased": 31
+  },
+  {
+    "id": "d7c4cf04-da10-4218-bc10-0b4f2a98a19a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-23",
+    "infected": 4445,
+    "recovered": 3254,
+    "deceased": 34
+  },
+  {
+    "id": "7815bb14-dcce-46c5-a1a5-b5634b637d2d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-19",
+    "infected": 1886,
+    "recovered": 1101,
+    "deceased": 19
+  },
+  {
+    "id": "0ffad80c-ab43-475a-ac5e-3918ff22f2c4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-28",
+    "infected": 3071,
+    "recovered": 5677,
+    "deceased": 21
+  },
+  {
+    "id": "83a15db0-290d-4612-996a-57b2464ac6ae",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-09",
+    "infected": 6165,
+    "recovered": 4944,
+    "deceased": 42
+  },
+  {
+    "id": "bebcdac4-ac00-4b5f-88ad-39065f7324ae",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-09",
+    "infected": 720,
+    "recovered": 715,
+    "deceased": 6
+  },
+  {
+    "id": "a7312d7d-2ad2-4337-a5e7-da4a70968522",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-08",
+    "infected": 8160,
+    "recovered": 4900,
+    "deceased": 48
+  },
+  {
+    "id": "36f7ac09-9aa0-42cb-8d44-443ff7cc24c0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-10",
+    "infected": 5676,
+    "recovered": 8321,
+    "deceased": 33
+  },
+  {
+    "id": "6525472b-d5c4-407e-8f9a-f8f90b22749a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-02",
+    "infected": 4378,
+    "recovered": 2156,
+    "deceased": 21
+  },
+  {
+    "id": "47e07308-f1be-45b0-82cc-f5889ae56c0d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-07",
+    "infected": 1860,
+    "recovered": 921,
+    "deceased": 7
+  },
+  {
+    "id": "02c62a2e-b6b3-49e3-b6eb-8c7e1e7d2764",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-26",
+    "infected": 7798,
+    "recovered": 5134,
+    "deceased": 53
+  },
+  {
+    "id": "464543f7-ba0f-48f3-ba44-bf0d094e7f7a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-25",
+    "infected": 4012,
+    "recovered": 2432,
+    "deceased": 19
+  },
+  {
+    "id": "9451b38f-f3b0-4877-9e36-0c7653944411",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-10",
+    "infected": 6937,
+    "recovered": 8470,
+    "deceased": 43
+  },
+  {
+    "id": "4377bc8d-62b0-4564-9edd-ab636a3747d2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-27",
+    "infected": 3528,
+    "recovered": 4259,
+    "deceased": 20
+  },
+  {
+    "id": "64119710-01cc-4365-b537-2be2596cc5e4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-14",
+    "infected": 9295,
+    "recovered": 9306,
+    "deceased": 59
+  },
+  {
+    "id": "3b3be55c-d46b-4aff-9a04-1dfd88e2e7d8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-01",
+    "infected": 1199,
+    "recovered": 707,
+    "deceased": 10
+  },
+  {
+    "id": "745311b2-8a87-457c-aaf1-b6c448ed28df",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-11",
+    "infected": 5008,
+    "recovered": 8941,
+    "deceased": 31
+  },
+  {
+    "id": "b5366a73-71ef-4038-bd21-5e8bb805998b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-28",
+    "infected": 7183,
+    "recovered": 9317,
+    "deceased": 48
+  },
+  {
+    "id": "9b5e5fe9-2e71-4138-be1b-59e8f07df08a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-13",
+    "infected": 1888,
+    "recovered": 3429,
+    "deceased": 29
+  },
+  {
+    "id": "97f80e21-60be-478c-9694-87367bacf37b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-20",
+    "infected": 8361,
+    "recovered": 8839,
+    "deceased": 54
+  },
+  {
+    "id": "d9f26b03-f4db-4f07-a146-bd2a67a89418",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-14",
+    "infected": 3483,
+    "recovered": 9772,
+    "deceased": 37
+  },
+  {
+    "id": "083c91ee-9414-40f7-803f-9176356591f0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-15",
+    "infected": 5187,
+    "recovered": 4963,
+    "deceased": 16
+  },
+  {
+    "id": "2fad1e43-3dac-4ee6-8b3a-712c05655fce",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-21",
+    "infected": 3783,
+    "recovered": 1582,
+    "deceased": 16
+  },
+  {
+    "id": "af63de29-d2f0-42ee-bb7b-01593d11967f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-17",
+    "infected": 4118,
+    "recovered": 6668,
+    "deceased": 27
+  },
+  {
+    "id": "844fac67-8323-435e-83d7-c0b0c149a05b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-04",
+    "infected": 8404,
+    "recovered": 3125,
+    "deceased": 38
+  },
+  {
+    "id": "0177b6e7-5798-410a-81b3-0a91123c945f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-11",
+    "infected": 2548,
+    "recovered": 5026,
+    "deceased": 17
+  },
+  {
+    "id": "8b65878f-d104-4d5c-9b35-7172495e8eeb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-18",
+    "infected": 1245,
+    "recovered": 3615,
+    "deceased": 8
+  },
+  {
+    "id": "67097a4d-55f3-4052-a907-937f2db42b9b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-20",
+    "infected": 349,
+    "recovered": 1465,
+    "deceased": 7
+  },
+  {
+    "id": "8c66dae3-76a5-4136-9e76-449e87aa9dab",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-18",
+    "infected": 3332,
+    "recovered": 7621,
+    "deceased": 34
+  },
+  {
+    "id": "e06af103-884e-4ac0-a255-fc9b39026dba",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-01",
+    "infected": 8909,
+    "recovered": 5188,
+    "deceased": 47
+  },
+  {
+    "id": "29caa159-dca5-4e89-a25b-f8c1f472f5f0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-30",
+    "infected": 2622,
+    "recovered": 3588,
+    "deceased": 38
+  },
+  {
+    "id": "0290f293-0f3e-4423-9ae7-e332cf55d3fa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-22",
+    "infected": 7387,
+    "recovered": 8566,
+    "deceased": 66
+  },
+  {
+    "id": "4221c0b0-1c7d-40b6-b8b8-e18ff6f6fbff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-24",
+    "infected": 4366,
+    "recovered": 5507,
+    "deceased": 27
+  },
+  {
+    "id": "2935c122-1029-40f8-871e-6d1eba9861bf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-25",
+    "infected": 3811,
+    "recovered": 5180,
+    "deceased": 24
+  },
+  {
+    "id": "7e08d8a4-a97e-4d7c-88b1-4eec3557bcb2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-27",
+    "infected": 1438,
+    "recovered": 1577,
+    "deceased": 27
+  },
+  {
+    "id": "95eff0e7-980c-4fdd-82a8-73f25344e1aa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-01",
+    "infected": 4858,
+    "recovered": 2750,
+    "deceased": 18
+  },
+  {
+    "id": "944e36db-c571-4979-b012-4b947d64cf05",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-14",
+    "infected": 1389,
+    "recovered": 5853,
+    "deceased": 27
+  },
+  {
+    "id": "ca5cad3f-5252-4d97-9b8e-e35009665282",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-22",
+    "infected": 980,
+    "recovered": 1699,
+    "deceased": 13
+  },
+  {
+    "id": "0256be79-83b1-4c89-a74f-231248a6c894",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-24",
+    "infected": 478,
+    "recovered": 2257,
+    "deceased": 10
+  },
+  {
+    "id": "a5ee7108-9a20-4695-a4d9-53e9c987e0dd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-26",
+    "infected": 520,
+    "recovered": 1498,
+    "deceased": 11
+  },
+  {
+    "id": "bce790bf-ace1-4628-8e84-5c1fea2f70f9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-31",
+    "infected": 492,
+    "recovered": 1085,
+    "deceased": 16
+  },
+  {
+    "id": "5edd11d9-983b-4790-97a1-f8fa1ecfe4bf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-27",
+    "infected": 87,
+    "recovered": 149,
+    "deceased": 5
+  },
+  {
+    "id": "e63cc13b-7b94-410d-a1d0-652998953e06",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-23",
+    "infected": 108,
+    "recovered": 266,
+    "deceased": 5
+  },
+  {
+    "id": "87d0b044-2ce3-4f17-9e59-e2d95384a0ab",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-30",
+    "infected": 79,
+    "recovered": 130,
+    "deceased": 2
+  },
+  {
+    "id": "ccf43211-13a6-487b-847b-fca65d8119d2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-21",
+    "infected": 1346,
+    "recovered": 648,
+    "deceased": 3
+  },
+  {
+    "id": "18fa495e-b5a2-477c-842c-5832d5b563f7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-25",
+    "infected": 1416,
+    "recovered": 1306,
+    "deceased": 3
+  },
+  {
+    "id": "2e4c3770-e074-4a39-890a-10524b794cbd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-02",
+    "infected": 50,
+    "recovered": 220,
+    "deceased": 1
+  },
+  {
+    "id": "f84772b7-06af-452e-aad8-cde009b25e53",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-09",
+    "infected": 223,
+    "recovered": 587,
+    "deceased": 10
+  },
+  {
+    "id": "c160cf24-5da3-417d-b660-a0a3a17b9f68",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-03",
+    "infected": 4669,
+    "recovered": 4623,
+    "deceased": 16
+  },
+  {
+    "id": "79a321fc-02a1-4528-a888-92e310f8bcb2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-10",
+    "infected": 86,
+    "recovered": 388,
+    "deceased": 9
+  },
+  {
+    "id": "5b3b6b51-8986-4069-b1e1-286ac0f99a31",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-04",
+    "infected": 64,
+    "recovered": 106,
+    "deceased": 2
+  },
+  {
+    "id": "89ce1713-ab88-4cda-bd1e-d67c1cd28c3d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-09",
+    "infected": 33,
+    "recovered": 147,
+    "deceased": 1
+  },
+  {
+    "id": "8e26cea2-fed0-4146-b0cd-b59b2748f8a2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-05",
+    "infected": 3715,
+    "recovered": 4013,
+    "deceased": 18
+  },
+  {
+    "id": "3eb256d0-ea76-4e6b-955e-3c4bb4eb4f6d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-17",
+    "infected": 15,
+    "recovered": 19,
+    "deceased": 3
+  },
+  {
+    "id": "593c675d-5937-48f6-a729-af5b92f37b2d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-21",
+    "infected": 22,
+    "recovered": 33,
+    "deceased": 2
+  },
+  {
+    "id": "f7fb5a78-7ba8-4f03-a6f1-88893e78b93c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-07",
+    "infected": 276,
+    "recovered": 428,
+    "deceased": 9
+  },
+  {
+    "id": "1ec4a548-4873-4da1-854b-bbba8e99edfc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-05",
+    "infected": 380,
+    "recovered": 515,
+    "deceased": 6
+  },
+  {
+    "id": "cb6b9a87-4c39-4f07-a523-901a4498caf7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-13",
+    "infected": 746,
+    "recovered": 329,
+    "deceased": 1
+  },
+  {
+    "id": "0322660a-9d08-4cc7-a516-f975f62b7ed4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-23",
+    "infected": 688,
+    "recovered": 742,
+    "deceased": 15
+  },
+  {
+    "id": "664d73bd-2186-45b1-b267-45502fb9cbe0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-02",
+    "infected": 418,
+    "recovered": 645,
+    "deceased": 15
+  },
+  {
+    "id": "152dbfc8-7354-4d6d-9159-62d49f069ea9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-26",
+    "infected": 2135,
+    "recovered": 838,
+    "deceased": 2
+  },
+  {
+    "id": "2238d06b-d65d-44e2-94c8-377cc61028be",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-30",
+    "infected": 443,
+    "recovered": 831,
+    "deceased": 11
+  },
+  {
+    "id": "da9476cc-fc4e-4615-a9a3-0135792cd963",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-22",
+    "infected": 1283,
+    "recovered": 784,
+    "deceased": 0
+  },
+  {
+    "id": "1395c257-f714-4fea-9550-bf257f13186f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-04",
+    "infected": 3659,
+    "recovered": 4824,
+    "deceased": 18
+  },
+  {
+    "id": "d20d79a6-4e3a-480d-ad88-3d213108466e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-04",
+    "infected": 31,
+    "recovered": 11,
+    "deceased": 0
+  },
+  {
+    "id": "d1ddb5ce-919b-4dee-8ffa-e835d4a1b237",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-05",
+    "infected": 5,
+    "recovered": 7,
+    "deceased": 1
+  },
+  {
+    "id": "6d8672ff-5bcb-4607-b0f1-1d614fbd479a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-06",
+    "infected": 4,
+    "recovered": 56,
+    "deceased": 0
+  },
+  {
+    "id": "a1ee331d-f331-42ba-a83a-a01535c4663f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-08",
+    "infected": 212,
+    "recovered": 640,
+    "deceased": 11
+  },
+  {
+    "id": "b1732d76-d661-4657-bf85-6aa0aae25602",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-07",
+    "infected": 6,
+    "recovered": 52,
+    "deceased": 1
+  },
+  {
+    "id": "b312ba4b-dac3-4a67-ac94-d734b70f1ffe",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-01",
+    "infected": 2124,
+    "recovered": 1917,
+    "deceased": 10
+  },
+  {
+    "id": "6501bc1f-378f-4a3f-bbc4-55d45df6641a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-13",
+    "infected": 199,
+    "recovered": 385,
+    "deceased": 13
+  },
+  {
+    "id": "e7829fc7-862b-4a25-ae90-fa8975630738",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-25",
+    "infected": 842,
+    "recovered": 2111,
+    "deceased": 10
+  },
+  {
+    "id": "21df85c3-b43b-4de0-b23c-1b8486259373",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-16",
+    "infected": 108,
+    "recovered": 367,
+    "deceased": 5
+  },
+  {
+    "id": "2c1790e1-481d-4704-8c08-c21e00c33f85",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-14",
+    "infected": 27,
+    "recovered": 65,
+    "deceased": 0
+  },
+  {
+    "id": "390d49f0-ea60-462f-b4e7-ae31e516bd12",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-04",
+    "infected": 3507,
+    "recovered": 1853,
+    "deceased": 5
+  },
+  {
+    "id": "e4651a10-dbce-4f8f-bbdc-03b6b74b7551",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-23",
+    "infected": 26,
+    "recovered": 86,
+    "deceased": 1
+  },
+  {
+    "id": "e4fed954-6cbc-4d49-89fd-f5de05875af4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-12",
+    "infected": 6146,
+    "recovered": 3643,
+    "deceased": 21
+  },
+  {
+    "id": "98eb413c-7c29-44d4-b9d5-fd3d07dcac7c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-11",
+    "infected": 34,
+    "recovered": 84,
+    "deceased": 1
+  },
+  {
+    "id": "13bd02b9-eb0a-4abb-bdf2-b3d986397456",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-01",
+    "infected": 334,
+    "recovered": 1073,
+    "deceased": 7
+  },
+  {
+    "id": "f0e467c5-770d-47a9-9a30-42a14b4343da",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-27",
+    "infected": 231,
+    "recovered": 860,
+    "deceased": 6
+  },
+  {
+    "id": "863c965f-659b-415c-9a1d-50bbeae6ef99",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-28",
+    "infected": 129,
+    "recovered": 885,
+    "deceased": 12
+  },
+  {
+    "id": "4e001e01-169f-46b1-83be-7fd64c874bd1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-15",
+    "infected": 20,
+    "recovered": 46,
+    "deceased": 1
+  },
+  {
+    "id": "950e2165-843a-41cf-86b7-14be7a50c7ef",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-29",
+    "infected": 2176,
+    "recovered": 1365,
+    "deceased": 5
+  },
+  {
+    "id": "52454652-c2e8-4dfb-9745-11b54d407827",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-09",
+    "infected": 6374,
+    "recovered": 2009,
+    "deceased": 11
+  },
+  {
+    "id": "2971edd8-be32-4e6a-8523-b26abee4a1ac",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-15",
+    "infected": 2123,
+    "recovered": 2675,
+    "deceased": 17
+  },
+  {
+    "id": "032981bc-e86a-43a0-8aca-f0e6406424d0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-06",
+    "infected": 305,
+    "recovered": 503,
+    "deceased": 6
+  },
+  {
+    "id": "8c5b7a83-38f1-46f1-8aa3-4cc7cc4d7d33",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-04",
+    "infected": 196,
+    "recovered": 1069,
+    "deceased": 8
+  },
+  {
+    "id": "a93a96b2-a375-43ad-a84b-e8b98e6fd8c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-15",
+    "infected": 5192,
+    "recovered": 5088,
+    "deceased": 20
+  },
+  {
+    "id": "4dec3e10-844b-4ef3-aced-77a8f72dd8c7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-06",
+    "infected": 1878,
+    "recovered": 1927,
+    "deceased": 20
+  },
+  {
+    "id": "c6e04230-047a-423d-81d1-bfdd17502130",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-18",
+    "infected": 8015,
+    "recovered": 5299,
+    "deceased": 23
+  },
+  {
+    "id": "08a29d89-3e0f-4cef-92dc-23c3281c6bfd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-15",
+    "infected": 95,
+    "recovered": 261,
+    "deceased": 2
+  },
+  {
+    "id": "401c9e65-5806-4318-9e75-decc10538ffe",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-03",
+    "infected": 124,
+    "recovered": 468,
+    "deceased": 7
+  },
+  {
+    "id": "9634434d-8395-4d6f-b845-d6d502823e92",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-08",
+    "infected": 30,
+    "recovered": 15,
+    "deceased": 1
+  },
+  {
+    "id": "74ae27d1-d7d8-4f27-8c7d-8f1d78c8f0e9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-01",
+    "infected": 13,
+    "recovered": 71,
+    "deceased": 2
+  },
+  {
+    "id": "5874430c-4cc8-458e-9f25-0a2cce12f8a1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-24",
+    "infected": 10081,
+    "recovered": 4895,
+    "deceased": 28
+  },
+  {
+    "id": "a3ffe9d2-2d64-4486-be3a-5d20c502808a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-14",
+    "infected": 196,
+    "recovered": 491,
+    "deceased": 3
+  },
+  {
+    "id": "69542125-ded3-4a1e-9009-1320dacc3860",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-24",
+    "infected": 39,
+    "recovered": 116,
+    "deceased": 4
+  },
+  {
+    "id": "d3302d42-dbef-4064-829d-2fe1338b180c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-07",
+    "infected": 2347,
+    "recovered": 5733,
+    "deceased": 15
+  },
+  {
+    "id": "8e50f0eb-5b31-4282-94d3-53dc26a90b99",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-12",
+    "infected": 2414,
+    "recovered": 3929,
+    "deceased": 12
+  },
+  {
+    "id": "fb6fc85a-75ce-4616-8916-4b712bc05d4a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-21",
+    "infected": 5415,
+    "recovered": 2725,
+    "deceased": 24
+  },
+  {
+    "id": "d2a9ed25-3bd4-4dde-aa3b-b220fd023e4d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-08",
+    "infected": 3783,
+    "recovered": 2696,
+    "deceased": 22
+  },
+  {
+    "id": "ecb2632b-3101-43db-95ea-e96c8cac7af9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-28",
+    "infected": 96,
+    "recovered": 178,
+    "deceased": 0
+  },
+  {
+    "id": "91bae7a1-8c51-4b58-a66f-1d912f231c81",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-10",
+    "infected": 18,
+    "recovered": 30,
+    "deceased": 0
+  },
+  {
+    "id": "abef6f34-f53e-40fa-bf4d-0e400b80abf2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-19",
+    "infected": 55,
+    "recovered": 91,
+    "deceased": 0
+  },
+  {
+    "id": "3f001d2d-0335-4083-afbe-4a8b16fcb9a9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-30",
+    "infected": 11155,
+    "recovered": 6899,
+    "deceased": 24
+  },
+  {
+    "id": "e850ba73-612e-45d0-835e-4f28c6bd21ec",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-19",
+    "infected": 1084,
+    "recovered": 2560,
+    "deceased": 12
+  },
+  {
+    "id": "9147205f-bb55-45a5-b46b-05562d677201",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-11",
+    "infected": 18,
+    "recovered": 21,
+    "deceased": 0
+  },
+  {
+    "id": "91018d6c-445a-4770-a782-e643ef65e641",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-11",
+    "infected": 139,
+    "recovered": 783,
+    "deceased": 6
+  },
+  {
+    "id": "6dccba02-8837-4ec6-bad8-b90755c90d8d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-12",
+    "infected": 221,
+    "recovered": 365,
+    "deceased": 6
+  },
+  {
+    "id": "34beb0dc-2d43-47c9-940d-796689b54e77",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-02",
+    "infected": 11347,
+    "recovered": 10545,
+    "deceased": 32
+  },
+  {
+    "id": "f287c761-323c-4db0-a5cc-35c1ec3b9fcf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-27",
+    "infected": 8683,
+    "recovered": 7925,
+    "deceased": 26
+  },
+  {
+    "id": "22b2d3fb-ebe6-4442-9e27-06ee433790dc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-21",
+    "infected": 674,
+    "recovered": 3504,
+    "deceased": 15
+  },
+  {
+    "id": "b71908e3-e99d-4e6f-b906-6e7229292d2e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-03",
+    "infected": 10,
+    "recovered": 139,
+    "deceased": 1
+  },
+  {
+    "id": "166f0d2a-3c65-4cb3-8d5a-5097586c5566",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-07",
+    "infected": 33,
+    "recovered": 88,
+    "deceased": 2
+  },
+  {
+    "id": "79852735-d3be-4e02-b710-32d18058705e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-05",
+    "infected": 5865,
+    "recovered": 12417,
+    "deceased": 27
+  },
+  {
+    "id": "71a60b93-98d3-49ba-bdb6-c58e6cb91f46",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-12",
+    "infected": 5,
+    "recovered": 14,
+    "deceased": 0
+  },
+  {
+    "id": "9655caf1-73e1-4f66-953a-78adc02e9e32",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-13",
+    "infected": 10957,
+    "recovered": 7699,
+    "deceased": 20
+  },
+  {
+    "id": "ebcf19e0-e373-410e-ae96-11c21793eaf2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-09",
+    "infected": 6,
+    "recovered": 24,
+    "deceased": 0
+  },
+  {
+    "id": "c2f3e01d-bbfc-478e-b7ad-06c2388cfa10",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-10",
+    "infected": 9899,
+    "recovered": 11460,
+    "deceased": 18
+  },
+  {
+    "id": "0827f758-7ec9-47fc-ab8e-9d4c62757e49",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-17",
+    "infected": 5025,
+    "recovered": 6896,
+    "deceased": 18
+  },
+  {
+    "id": "d4aefe8e-4717-4cf8-b0af-33436fc2faf2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-23",
+    "infected": 6452,
+    "recovered": 9756,
+    "deceased": 20
+  },
+  {
+    "id": "b9e26e97-16da-4169-b644-0f199641f155",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-26",
+    "infected": 3875,
+    "recovered": 5372,
+    "deceased": 14
+  },
+  {
+    "id": "752f51c7-0268-4ac4-b100-e36e4b10674b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-13",
+    "infected": 3,
+    "recovered": 28,
+    "deceased": 1
+  },
+  {
+    "id": "10465898-5756-42bd-8217-ebce137f89d0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-28",
+    "infected": 2442,
+    "recovered": 5212,
+    "deceased": 22
+  },
+  {
+    "id": "592b8aa6-0c02-4a04-9428-6eba7b412cab",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-01",
+    "infected": 3626,
+    "recovered": 4981,
+    "deceased": 19
+  },
+  {
+    "id": "ddf5642b-4a18-4da7-a5f1-27031b35a3bb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-04",
+    "infected": 3275,
+    "recovered": 4494,
+    "deceased": 11
+  },
+  {
+    "id": "c9b02b66-f174-4771-bb43-e05f82a94965",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-11",
+    "infected": 2344,
+    "recovered": 2698,
+    "deceased": 14
+  },
+  {
+    "id": "4e475429-21f2-4385-83a9-090a2666c06e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-12",
+    "infected": 762,
+    "recovered": 281,
+    "deceased": 2
+  },
+  {
+    "id": "dc2d479f-db0a-4bae-8ece-df1d4f21fce7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-20",
+    "infected": 8825,
+    "recovered": 10755,
+    "deceased": 15
+  },
+  {
+    "id": "5af90da1-6d61-4eb0-b57e-3751f36dd617",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-14",
+    "infected": 771,
+    "recovered": 451,
+    "deceased": 3
+  },
+  {
+    "id": "d4db8549-6c8a-4ddd-9093-64fa84821ee2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-25",
+    "infected": 77,
+    "recovered": 195,
+    "deceased": 2
+  },
+  {
+    "id": "11c961a0-5b34-4cc2-a3cf-138538949451",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-19",
+    "infected": 131,
+    "recovered": 202,
+    "deceased": 3
+  },
+  {
+    "id": "adc75a91-57a3-46d1-9bb8-ef4edde3c202",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-10",
+    "infected": 51,
+    "recovered": 57,
+    "deceased": 2
+  },
+  {
+    "id": "960e4570-1cbc-4f94-b3cc-4144efce3163",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-13",
+    "infected": 30,
+    "recovered": 73,
+    "deceased": 3
+  },
+  {
+    "id": "7545ae6b-0ca7-4139-b117-0e696be2a39c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-20",
+    "infected": 33,
+    "recovered": 74,
+    "deceased": 0
+  },
+  {
+    "id": "c249a720-2bd3-4d37-95ed-7af7abcab245",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-25",
+    "infected": 22,
+    "recovered": 42,
+    "deceased": 1
+  },
+  {
+    "id": "6df5b80f-2032-418b-9da5-ed5e7eecf684",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-26",
+    "infected": 14,
+    "recovered": 36,
+    "deceased": 0
+  },
+  {
+    "id": "dc478330-f005-4ec0-8dd4-73eb35180267",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-28",
+    "infected": 18,
+    "recovered": 40,
+    "deceased": 1
+  },
+  {
+    "id": "cdc64887-842f-4274-8be0-b372ef97ccf0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-29",
+    "infected": 12,
+    "recovered": 17,
+    "deceased": 0
+  },
+  {
+    "id": "92a7e635-6672-4ea7-a9dd-33927cd36929",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-30",
+    "infected": 3,
+    "recovered": 71,
+    "deceased": 0
+  },
+  {
+    "id": "63efb136-57ff-4902-a69e-f2bdaf79d381",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-01",
+    "infected": 35,
+    "recovered": 36,
+    "deceased": 1
+  },
+  {
+    "id": "06e169a1-8fc9-43aa-8baf-55aa36544174",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-15",
+    "infected": 26,
+    "recovered": 15,
+    "deceased": 0
+  },
+  {
+    "id": "ce9c0bd6-13ba-4224-be76-54207a7add2e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-18",
+    "infected": 35,
+    "recovered": 11,
+    "deceased": 0
+  },
+  {
+    "id": "46fe0faf-9ca0-4655-a6bc-a736a2afad48",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-19",
+    "infected": 46,
+    "recovered": 9,
+    "deceased": 0
+  },
+  {
+    "id": "85d47a60-f5ae-44f7-a6d6-b5bab1f57d6f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-22",
+    "infected": 129,
+    "recovered": 340,
+    "deceased": 1
+  },
+  {
+    "id": "54cd2595-d2a5-4004-8204-e0f090b1147b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-12",
+    "infected": 27,
+    "recovered": 94,
+    "deceased": 0
+  },
+  {
+    "id": "98ee77d5-ba61-4ffa-adfb-b92a9cbd01d8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-16",
+    "infected": 29,
+    "recovered": 102,
+    "deceased": 1
+  },
+  {
+    "id": "21dd012b-8ac1-41a3-920d-6b152352ea18",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-18",
+    "infected": 22,
+    "recovered": 93,
+    "deceased": 0
+  },
+  {
+    "id": "eaa9bff4-c59c-409b-9207-8e0024320c25",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-22",
+    "infected": 12,
+    "recovered": 24,
+    "deceased": 0
+  },
+  {
+    "id": "10fd33ad-0757-47f0-875c-171b5c6e5976",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-24",
+    "infected": 28,
+    "recovered": 30,
+    "deceased": 1
+  },
+  {
+    "id": "e10b8db2-4365-4807-b5eb-d36b55d2211e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-27",
+    "infected": 14,
+    "recovered": 38,
+    "deceased": 2
+  },
+  {
+    "id": "845fe425-f511-4799-85ad-49e5a989a768",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-31",
+    "infected": 14,
+    "recovered": 27,
+    "deceased": 0
+  },
+  {
+    "id": "fe664849-37ba-4952-8d62-6adda430427f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-02",
+    "infected": 13,
+    "recovered": 48,
+    "deceased": 0
+  },
+  {
+    "id": "9736b462-06a1-4c8a-a7af-1d50f6c52f4c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-14",
+    "infected": 26,
+    "recovered": 23,
+    "deceased": 0
+  },
+  {
+    "id": "e3097a59-3741-4bfb-9e56-afe97b201050",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-20",
+    "infected": 49,
+    "recovered": 86,
+    "deceased": 0
+  },
+  {
+    "id": "24166542-ccc3-4007-92b8-322467b1e043",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-22",
+    "infected": 110,
+    "recovered": 9,
+    "deceased": 0
+  },
+  {
+    "id": "2294b885-4043-4642-86f3-ec7a3003c22d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-20",
+    "infected": 153,
+    "recovered": 229,
+    "deceased": 2
+  },
+  {
+    "id": "a9a654be-b5ac-4388-af13-9100c7d46a7d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-23",
+    "infected": 140,
+    "recovered": 24,
+    "deceased": 0
+  },
+  {
+    "id": "0ca67fec-5378-4737-aa4f-6979d4f2f3dc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-25",
+    "infected": 230,
+    "recovered": 18,
+    "deceased": 1
+  },
+  {
+    "id": "e28edfd7-7b6e-4169-9b2c-55455b85265d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-26",
+    "infected": 116,
+    "recovered": 15,
+    "deceased": 0
+  },
+  {
+    "id": "98f2de23-c2cd-4069-a424-d500175458b3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-27",
+    "infected": 145,
+    "recovered": 73,
+    "deceased": 0
+  },
+  {
+    "id": "1b7c3da2-b184-40df-959a-a49eade5fed2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-28",
+    "infected": 288,
+    "recovered": 58,
+    "deceased": 0
+  },
+  {
+    "id": "6fc1dbfa-f048-4697-a275-334b029bf04f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-29",
+    "infected": 294,
+    "recovered": 75,
+    "deceased": 0
+  },
+  {
+    "id": "39044d3f-9d99-4365-92ef-13659d8c81b0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-03",
+    "infected": 186,
+    "recovered": 97,
+    "deceased": 0
+  },
+  {
+    "id": "38bf58a8-9cf6-439b-bfa0-1217104872e2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-11",
+    "infected": 443,
+    "recovered": 430,
+    "deceased": 2
+  },
+  {
+    "id": "aa8c6d9d-c55a-4ea9-a8c5-c60327baede4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-23",
+    "infected": 1440,
+    "recovered": 698,
+    "deceased": 1
+  },
+  {
+    "id": "60468bf8-32b4-4b98-9455-3bb26b0ddcd2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-27",
+    "infected": 2286,
+    "recovered": 902,
+    "deceased": 1
+  },
+  {
+    "id": "9cea2594-680f-4442-bd8a-3016cee0146c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-02",
+    "infected": 3858,
+    "recovered": 1118,
+    "deceased": 10
+  },
+  {
+    "id": "d4ace5cf-c672-4de8-93e7-ddcc2fc2142b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-05",
+    "infected": 3882,
+    "recovered": 2277,
+    "deceased": 16
+  },
+  {
+    "id": "9ba4f8fd-2327-471b-939e-a884bd8c5623",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-10",
+    "infected": 5854,
+    "recovered": 2362,
+    "deceased": 17
+  },
+  {
+    "id": "ed8743d5-16de-4f35-b3eb-aadf420126f4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-13",
+    "infected": 5946,
+    "recovered": 3261,
+    "deceased": 23
+  },
+  {
+    "id": "730413c7-e1aa-4913-9105-ba627ce5a74e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-16",
+    "infected": 8788,
+    "recovered": 3426,
+    "deceased": 27
+  },
+  {
+    "id": "85ffc36d-1fef-4e43-996e-c777ff26e72a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-19",
+    "infected": 7815,
+    "recovered": 5886,
+    "deceased": 27
+  },
+  {
+    "id": "631ffdb2-01d5-4797-9fe5-18e011769ab4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-22",
+    "infected": 6582,
+    "recovered": 8208,
+    "deceased": 29
+  },
+  {
+    "id": "1e117bfa-48b0-493f-80ee-1aa823d6a733",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-28",
+    "infected": 7280,
+    "recovered": 3942,
+    "deceased": 24
+  },
+  {
+    "id": "09d62933-2bec-475e-8e93-3dff50c421bf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-31",
+    "infected": 10450,
+    "recovered": 6368,
+    "deceased": 31
+  },
+  {
+    "id": "a4472a6f-b502-4e54-b471-ecef131d3ffb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-18",
+    "infected": 141,
+    "recovered": 551,
+    "deceased": 4
+  },
+  {
+    "id": "b8a713a4-1763-4484-bd8b-8de96bd2f0c3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-30",
+    "infected": 2441,
+    "recovered": 1235,
+    "deceased": 2
+  },
+  {
+    "id": "9120c754-52c6-4c02-ad34-5e3ba9b627f5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-07",
+    "infected": 2928,
+    "recovered": 1013,
+    "deceased": 12
+  },
+  {
+    "id": "8df6728e-e094-457d-9e6b-b8b06199f187",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-21",
+    "infected": 114,
+    "recovered": 239,
+    "deceased": 2
+  },
+  {
+    "id": "c74407da-221a-47bf-986a-af7f8050742c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-16",
+    "infected": 13,
+    "recovered": 9,
+    "deceased": 1
+  },
+  {
+    "id": "e26a272b-f8b2-4364-93e1-a1a6b0ca0fb6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-29",
+    "infected": 94,
+    "recovered": 171,
+    "deceased": 2
+  },
+  {
+    "id": "6b14d0f9-b9b4-4303-b53a-f0ea0f27bf91",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-17",
+    "infected": 26,
+    "recovered": 43,
+    "deceased": 0
+  },
+  {
+    "id": "47616d48-3fba-41d6-a983-849eacbf5e16",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-21",
+    "infected": 125,
+    "recovered": 38,
+    "deceased": 0
+  },
+  {
+    "id": "a75fdbe4-7354-459e-8686-f45f92fec733",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-24",
+    "infected": 229,
+    "recovered": 43,
+    "deceased": 0
+  },
+  {
+    "id": "09b79657-69e0-4b12-a571-62a50b594dda",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-30",
+    "infected": 310,
+    "recovered": 92,
+    "deceased": 0
+  },
+  {
+    "id": "0204b684-84b7-408f-be78-a3451a65dd51",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-01",
+    "infected": 297,
+    "recovered": 165,
+    "deceased": 0
+  },
+  {
+    "id": "313cd52a-74d3-4af6-87e8-8ebe0d5fb6c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-25",
+    "infected": 9223,
+    "recovered": 7738,
+    "deceased": 31
+  },
+  {
+    "id": "af32ca2f-4e29-47e5-bc2b-d96fb5b8d860",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-07",
+    "infected": 6868,
+    "recovered": 4935,
+    "deceased": 37
+  },
+  {
+    "id": "acb15fd7-adc3-42fa-9935-63317ddcebdd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-18",
+    "infected": 8620,
+    "recovered": 3758,
+    "deceased": 17
+  },
+  {
+    "id": "a621785f-1da8-4ab7-a917-c76e66ff7466",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-21",
+    "infected": 4830,
+    "recovered": 4140,
+    "deceased": 16
+  },
+  {
+    "id": "18b82d44-9fa0-4f18-a603-6089811341d1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-29",
+    "infected": 3634,
+    "recovered": 9575,
+    "deceased": 22
+  },
+  {
+    "id": "4dd5f282-a502-44de-8adc-8104717de9f5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-02",
+    "infected": 1739,
+    "recovered": 3665,
+    "deceased": 21
+  },
+  {
+    "id": "fad94b27-489b-491c-92f2-e0b45016166c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-06",
+    "infected": 2424,
+    "recovered": 4677,
+    "deceased": 15
+  },
+  {
+    "id": "47f0f092-2cfa-4f80-a461-9333f5aa982c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-15",
+    "infected": 8864,
+    "recovered": 10050,
+    "deceased": 22
+  },
+  {
+    "id": "1427f695-7846-4478-b341-d763f882f3e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-02",
+    "infected": 329,
+    "recovered": 136,
+    "deceased": 0
+  },
+  {
+    "id": "3dc6aba1-c96b-4792-a2fd-51dec3d5a596",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-05",
+    "infected": 68,
+    "recovered": 143,
+    "deceased": 2
+  },
+  {
+    "id": "121b3476-98cc-4f00-8cff-31d393068f5d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-03",
+    "infected": 9911,
+    "recovered": 9322,
+    "deceased": 30
+  },
+  {
+    "id": "5decee3d-957f-454d-b7d3-39a889e1f7f2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-08",
+    "infected": 3319,
+    "recovered": 5865,
+    "deceased": 28
+  },
+  {
+    "id": "2d6fc1bb-4db8-4810-8e0f-5392efcde26a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-06",
+    "infected": 10870,
+    "recovered": 9178,
+    "deceased": 24
+  },
+  {
+    "id": "bc8e3a2e-cc26-48f9-afe1-67dc451388eb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-07",
+    "infected": 524,
+    "recovered": 246,
+    "deceased": 1
+  },
+  {
+    "id": "270202d3-9617-46ab-8fe7-ef4c7e6f62c7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-06",
+    "infected": 48,
+    "recovered": 145,
+    "deceased": 2
+  },
+  {
+    "id": "c3c85676-be0c-41fe-b0f0-77944c65fbd1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-03",
+    "infected": 65,
+    "recovered": 152,
+    "deceased": 2
+  },
+  {
+    "id": "4c70fb6f-b257-430b-92a4-8e5e41ffbb57",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-08",
+    "infected": 466,
+    "recovered": 326,
+    "deceased": 2
+  },
+  {
+    "id": "95344148-7e65-4e68-a089-e740efe15a09",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-04",
+    "infected": 346,
+    "recovered": 285,
+    "deceased": 0
+  },
+  {
+    "id": "fca8edd3-dea8-4d0c-8c18-69e7b1ba1e84",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-08",
+    "infected": 16,
+    "recovered": 63,
+    "deceased": 1
+  },
+  {
+    "id": "fd8f243e-768f-4754-befb-13b477506299",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-09",
+    "infected": 534,
+    "recovered": 249,
+    "deceased": 0
+  },
+  {
+    "id": "45fb8e5f-4683-4158-8738-ab8be323e5f3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-14",
+    "infected": 9859,
+    "recovered": 6844,
+    "deceased": 30
+  },
+  {
+    "id": "b2a3d670-da54-4747-9076-2af1da9a10d9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-10",
+    "infected": 261,
+    "recovered": 133,
+    "deceased": 2
+  },
+  {
+    "id": "33486b47-90b1-4c58-846b-5155e4b9bb94",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-11",
+    "infected": 10289,
+    "recovered": 5806,
+    "deceased": 26
+  },
+  {
+    "id": "1b1dbf02-e1e9-4c28-874b-20aa9d3b09b4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-05",
+    "infected": 504,
+    "recovered": 195,
+    "deceased": 0
+  },
+  {
+    "id": "6d09237b-c5c0-4d18-b534-dc3412508060",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-06",
+    "infected": 527,
+    "recovered": 177,
+    "deceased": 0
+  },
+  {
+    "id": "54ad36a5-b7c3-4808-bb0e-6eb15ed9bfe2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-04",
+    "infected": 5068,
+    "recovered": 5184,
+    "deceased": 28
+  },
+  {
+    "id": "2781028c-c700-4cf1-9c08-263c810047c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-12",
+    "infected": 7822,
+    "recovered": 12763,
+    "deceased": 23
+  },
+  {
+    "id": "a55be590-8ebb-4ef3-9032-1e92096b8509",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-16",
+    "infected": 3286,
+    "recovered": 3832,
+    "deceased": 18
+  },
+  {
+    "id": "527f806e-b22b-48f9-b137-8800ae26c45b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-19",
+    "infected": 6553,
+    "recovered": 15958,
+    "deceased": 27
+  },
+  {
+    "id": "11d11bb8-87da-4fcd-8266-8160cf8bd2c1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-22",
+    "infected": 6039,
+    "recovered": 11611,
+    "deceased": 19
+  },
+  {
+    "id": "900896a5-e570-4fe1-b4a7-739f3bede434",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-24",
+    "infected": 4991,
+    "recovered": 7810,
+    "deceased": 21
+  },
+  {
+    "id": "c3e1aaf3-d8fc-4885-a5d6-376d5fa6a4e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-19",
+    "infected": 1385,
+    "recovered": 448,
+    "deceased": 2
+  },
+  {
+    "id": "e0ee8072-cb80-4beb-80ee-438cb942ef92",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-25",
+    "infected": 2652,
+    "recovered": 3168,
+    "deceased": 24
+  },
+  {
+    "id": "fcac076d-6e6b-4cb8-9178-b86cce491bd9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-27",
+    "infected": 5243,
+    "recovered": 8984,
+    "deceased": 16
+  },
+  {
+    "id": "b2a81817-67f6-48e5-8748-227cedf21827",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-28",
+    "infected": 2190,
+    "recovered": 1152,
+    "deceased": 6
+  },
+  {
+    "id": "ee4aed84-56e8-4d1c-a3bc-5b176267c3cb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-30",
+    "infected": 4397,
+    "recovered": 6826,
+    "deceased": 14
+  },
+  {
+    "id": "900b857c-fafb-4958-973a-18f815638e6f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-16",
+    "infected": 1130,
+    "recovered": 473,
+    "deceased": 1
+  },
+  {
+    "id": "3cc4664b-5fb2-4706-931d-e0172ace5b68",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-09",
+    "infected": 7958,
+    "recovered": 13197,
+    "deceased": 21
+  },
+  {
+    "id": "ae8b670d-7610-4c43-8329-e0063d6716b8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-14",
+    "infected": 4217,
+    "recovered": 1581,
+    "deceased": 18
+  },
+  {
+    "id": "6c86e2cd-8f33-4215-b0e6-b0f617adabb0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-20",
+    "infected": 1410,
+    "recovered": 383,
+    "deceased": 2
+  },
+  {
+    "id": "748889f3-7571-4e81-a713-d2b16096d0d6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-18",
+    "infected": 837,
+    "recovered": 650,
+    "deceased": 4
+  },
+  {
+    "id": "c6681a43-21c2-4c38-94d5-52562214cb8c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-08",
+    "infected": 3442,
+    "recovered": 3272,
+    "deceased": 18
+  },
+  {
+    "id": "60465c1c-07ad-44c7-8cdc-27aeefc09ced",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-23",
+    "infected": 10030,
+    "recovered": 4997,
+    "deceased": 20
+  },
+  {
+    "id": "76f924ee-b2ad-4ec0-b78e-965f46bb9a83",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-03",
+    "infected": 2701,
+    "recovered": 7705,
+    "deceased": 23
+  },
+  {
+    "id": "b0c62bcb-8bd1-49ca-b265-31133010a0a1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-05",
+    "infected": 2556,
+    "recovered": 4099,
+    "deceased": 15
+  },
+  {
+    "id": "f6c43643-cc75-4941-8629-bfec49e154a5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-07",
+    "infected": 2118,
+    "recovered": 3960,
+    "deceased": 18
+  },
+  {
+    "id": "76f5f1ed-7bd1-4743-80a9-6ece4e581454",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-15",
+    "infected": 863,
+    "recovered": 562,
+    "deceased": 1
+  },
+  {
+    "id": "e0641015-1085-4a52-a1a9-34e3157c41b8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-08",
+    "infected": 2023,
+    "recovered": 3148,
+    "deceased": 7
+  },
+  {
+    "id": "199f0020-e949-43a8-b2e3-ef83792d059e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-20",
+    "infected": 7901,
+    "recovered": 5482,
+    "deceased": 21
+  },
+  {
+    "id": "76e94c8e-263e-4f67-b5d4-8d2ec1cf329a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-31",
+    "infected": 2098,
+    "recovered": 582,
+    "deceased": 4
+  },
+  {
+    "id": "39fa9508-718c-4c70-a059-13477a3461b1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-09",
+    "infected": 1039,
+    "recovered": 3013,
+    "deceased": 11
+  },
+  {
+    "id": "f137f7ed-5e50-412c-bc86-f93281bf0469",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-10",
+    "infected": 1492,
+    "recovered": 5219,
+    "deceased": 15
+  },
+  {
+    "id": "7f419c6e-e795-4e70-8c69-c55efd5579c3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-12",
+    "infected": 1817,
+    "recovered": 2953,
+    "deceased": 10
+  },
+  {
+    "id": "9d00ea76-8414-4463-a1b6-01e18eb8489d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-03",
+    "infected": 3312,
+    "recovered": 1256,
+    "deceased": 11
+  },
+  {
+    "id": "e225bd5b-8899-4b15-b02d-346b72055cee",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-06",
+    "infected": 3887,
+    "recovered": 1915,
+    "deceased": 14
+  },
+  {
+    "id": "d79a6864-30dd-48a7-9ab5-429dd73d7aa2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-24",
+    "infected": 972,
+    "recovered": 408,
+    "deceased": 3
+  },
+  {
+    "id": "6c3465b5-7d04-48d2-a506-8faa7c169796",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-13",
+    "infected": 1771,
+    "recovered": 3241,
+    "deceased": 9
+  },
+  {
+    "id": "7903b8ae-ffcf-48fb-be56-eaeb050be2d7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-14",
+    "infected": 1347,
+    "recovered": 3163,
+    "deceased": 12
+  },
+  {
+    "id": "6529c2ad-9c94-4424-a995-98d4a1b12a78",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-17",
+    "infected": 432,
+    "recovered": 201,
+    "deceased": 2
+  },
+  {
+    "id": "387a9d27-44b0-4afb-8aff-1842e580bcde",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-15",
+    "infected": 1574,
+    "recovered": 2208,
+    "deceased": 9
+  },
+  {
+    "id": "9b2a84a0-e4ca-4632-badf-e6fa184b47bd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-16",
+    "infected": 740,
+    "recovered": 1205,
+    "deceased": 7
+  },
+  {
+    "id": "b8334af5-a1ed-4899-94d5-550f01e9850d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-11",
+    "infected": 6021,
+    "recovered": 3273,
+    "deceased": 14
+  },
+  {
+    "id": "f0e03c4f-473d-4060-bc98-20a77c509729",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-17",
+    "infected": 1222,
+    "recovered": 3032,
+    "deceased": 7
+  },
+  {
+    "id": "aebcc341-6da2-4642-a3ac-1701fb68cada",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-18",
+    "infected": 1503,
+    "recovered": 1848,
+    "deceased": 11
+  },
+  {
+    "id": "771e886c-bb44-4d30-be52-c7d824698231",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-19",
+    "infected": 1151,
+    "recovered": 1761,
+    "deceased": 2
+  },
+  {
+    "id": "d6d28846-6916-43e5-9ba0-968987e8a586",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-20",
+    "infected": 1036,
+    "recovered": 2318,
+    "deceased": 7
+  },
+  {
+    "id": "d2d2e8b5-3dab-4953-b298-89e2673b9ca0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-29",
+    "infected": 6783,
+    "recovered": 10697,
+    "deceased": 29
+  },
+  {
+    "id": "5bd58d67-475b-4667-bd8e-460d8ef9d40c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-21",
+    "infected": 993,
+    "recovered": 2350,
+    "deceased": 7
+  },
+  {
+    "id": "140373b3-8564-49d5-af0d-326c68ab7b74",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-22",
+    "infected": 982,
+    "recovered": 1753,
+    "deceased": 4
+  },
+  {
+    "id": "2bf8ef48-a728-49dc-ad6a-03c8493867c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-23",
+    "infected": 332,
+    "recovered": 961,
+    "deceased": 8
+  },
+  {
+    "id": "20759779-8df2-4027-9b5e-3e09d17bf876",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-26",
+    "infected": 9097,
+    "recovered": 8583,
+    "deceased": 31
+  },
+  {
+    "id": "344af477-8c02-4c9f-8714-c677843aca30",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-17",
+    "infected": 7959,
+    "recovered": 3335,
+    "deceased": 17
+  },
+  {
+    "id": "72fd93ae-9148-4a9d-89e0-1be2813545b7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-24",
+    "infected": 842,
+    "recovered": 2266,
+    "deceased": 6
+  },
+  {
+    "id": "d8b162c6-9513-4b01-8fb4-7b36336131da",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-25",
+    "infected": 928,
+    "recovered": 1367,
+    "deceased": 10
+  },
+  {
+    "id": "1db4da33-6f48-4b30-bca5-efb73c00b43d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-26",
+    "infected": 728,
+    "recovered": 1376,
+    "deceased": 9
+  },
+  {
+    "id": "1a5554d1-4330-4792-9009-51f25c88f699",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-27",
+    "infected": 647,
+    "recovered": 1520,
+    "deceased": 4
+  },
+  {
+    "id": "c28b0951-da06-4b8a-b0dd-b4041a702616",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-28",
+    "infected": 662,
+    "recovered": 1381,
+    "deceased": 6
+  },
+  {
+    "id": "0e90a22c-dff9-49c5-80c7-eb21c9444e60",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-01",
+    "infected": 11295,
+    "recovered": 9304,
+    "deceased": 29
+  },
+  {
+    "id": "dd8bec0a-736a-454d-a0fd-1c7ff3a88559",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-29",
+    "infected": 618,
+    "recovered": 1185,
+    "deceased": 6
+  },
+  {
+    "id": "4cb32daf-4eca-470f-8897-754cfaf60f0b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-30",
+    "infected": 226,
+    "recovered": 653,
+    "deceased": 3
+  },
+  {
+    "id": "6dd54eb8-3232-4389-859a-f9f3359855f0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-31",
+    "infected": 529,
+    "recovered": 1412,
+    "deceased": 2
+  },
+  {
+    "id": "a942b7f9-88e9-4665-8703-809f2aad2eb9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-01",
+    "infected": 690,
+    "recovered": 815,
+    "deceased": 4
+  },
+  {
+    "id": "265952d1-f2c6-4082-96f7-fd86ffe42756",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-02",
+    "infected": 665,
+    "recovered": 880,
+    "deceased": 3
+  },
+  {
+    "id": "2d0daa83-d3a7-4ff3-b0cd-7edd356d5f26",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-03",
+    "infected": 617,
+    "recovered": 984,
+    "deceased": 5
+  },
+  {
+    "id": "a1e984ca-a6f9-4a44-b695-24159017eacd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-04",
+    "infected": 518,
+    "recovered": 1009,
+    "deceased": 6
+  },
+  {
+    "id": "d8dd1fbd-b663-46f0-ba0b-32e16ffacb5e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-05",
+    "infected": 558,
+    "recovered": 670,
+    "deceased": 1
+  },
+  {
+    "id": "c1da5f19-eb68-4281-b845-ef8f2f26b462",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-06",
+    "infected": 197,
+    "recovered": 443,
+    "deceased": 0
+  },
+  {
+    "id": "6766c8b5-3b1c-42ff-8556-87176e88f529",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-07",
+    "infected": 500,
+    "recovered": 893,
+    "deceased": 4
+  },
+  {
+    "id": "a99067d5-8ccf-481d-afc5-4df4cf27e336",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-08",
+    "infected": 567,
+    "recovered": 513,
+    "deceased": 3
+  },
+  {
+    "id": "84600687-4afe-45a4-9dbb-0d8ccde912ea",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-09",
+    "infected": 474,
+    "recovered": 533,
+    "deceased": 6
+  },
+  {
+    "id": "74f75949-1c71-444d-bfeb-802bdd1f8df8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-10",
+    "infected": 497,
+    "recovered": 729,
+    "deceased": 4
+  },
+  {
+    "id": "09998c02-30e8-4e75-aa2b-d4baf720a91b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-11",
+    "infected": 393,
+    "recovered": 706,
+    "deceased": 2
+  },
+  {
+    "id": "584c4624-cc87-490a-b0a9-89be39fe3d25",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-12",
+    "infected": 448,
+    "recovered": 622,
+    "deceased": 2
+  },
+  {
+    "id": "7f4a5a01-490d-4ed6-8aad-53b5aee2e11d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-13",
+    "infected": 227,
+    "recovered": 368,
+    "deceased": 2
+  },
+  {
+    "id": "f21fa253-a409-475b-8a57-ecb5177067e2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-14",
+    "infected": 396,
+    "recovered": 700,
+    "deceased": 0
+  },
+  {
+    "id": "38c25862-8f2e-4786-bb9d-96015df2d3d9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-15",
+    "infected": 522,
+    "recovered": 455,
+    "deceased": 1
+  },
+  {
+    "id": "357eab38-9227-4b1e-9868-70215d2a1209",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-16",
+    "infected": 348,
+    "recovered": 497,
+    "deceased": 1
+  }
+]

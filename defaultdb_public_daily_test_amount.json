@@ -1,0 +1,4636 @@
+[
+  {
+    "id": "0d92e7c4-d29d-4bb5-ba6d-74358347c778",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-01-28",
+    "amount": 0,
+    "positive": 0
+  },
+  {
+    "id": "260f00b3-e122-414b-9e92-2ede6edad3b9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-01-31",
+    "amount": 0,
+    "positive": 0
+  },
+  {
+    "id": "494316ed-2fe4-49a2-919a-10db6bae1359",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-01",
+    "amount": 0,
+    "positive": 0
+  },
+  {
+    "id": "67087dc4-f8d2-437b-9202-d0be28cbca2a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-05",
+    "amount": 0,
+    "positive": 0
+  },
+  {
+    "id": "e493b6ad-e25f-4dd3-a705-5d6d58d33844",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-06",
+    "amount": 0,
+    "positive": 0
+  },
+  {
+    "id": "aa2c7a58-da76-4cd2-85a7-a6c8ac97f9a5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-07",
+    "amount": 0,
+    "positive": 0
+  },
+  {
+    "id": "4ada4b24-ad22-417f-95ed-f021cd5a79e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-08",
+    "amount": 0,
+    "positive": 0
+  },
+  {
+    "id": "876dc962-786d-47be-b97b-5d56ee19c414",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-21",
+    "amount": 45733,
+    "positive": 0.25
+  },
+  {
+    "id": "0c664d2e-83ac-47d8-919c-2743007d8bc0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-30",
+    "amount": 40587,
+    "positive": 0.77
+  },
+  {
+    "id": "13fbb993-cb21-401e-ae56-42764e5b1998",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-11",
+    "amount": 37443,
+    "positive": 0.37
+  },
+  {
+    "id": "13a9be1e-9270-4bbb-a3bf-5d75162b28fc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-03",
+    "amount": 25597,
+    "positive": 0.73
+  },
+  {
+    "id": "8c82041c-4ba9-430e-92e3-eae6d98a3a15",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-03",
+    "amount": 11573,
+    "positive": 1.07
+  },
+  {
+    "id": "40dde3b0-258d-4f6d-b681-80290f7044b2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-09",
+    "amount": 59063,
+    "positive": 0.91
+  },
+  {
+    "id": "90ed9c17-0292-47b6-b358-5bcb3ff7b916",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-15",
+    "amount": 86255,
+    "positive": 2.46
+  },
+  {
+    "id": "6968bfb8-a5ac-419c-8fb8-38c821275ec5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-17",
+    "amount": 77216,
+    "positive": 1.98
+  },
+  {
+    "id": "8008dc46-571c-427d-a746-c905ba255827",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-21",
+    "amount": 46083,
+    "positive": 1.46
+  },
+  {
+    "id": "89a5188d-8134-4f3e-b05c-d12d44683858",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-08",
+    "amount": 40850,
+    "positive": 0.52
+  },
+  {
+    "id": "e4c31178-5eec-42b9-8b4c-25a6a2ceddbb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-22",
+    "amount": 58007,
+    "positive": 1.69
+  },
+  {
+    "id": "94adc9ec-f06e-4b7d-b3bc-c7fa8ff4b874",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-17",
+    "amount": 10661,
+    "positive": 0.78
+  },
+  {
+    "id": "e07fdd83-7cf0-49f8-8696-e99e1545b1bb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-11",
+    "amount": 40508,
+    "positive": 1.09
+  },
+  {
+    "id": "dab3002a-b669-4be8-997a-d13a8fb6c0f3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-18",
+    "amount": 63642,
+    "positive": 1.96
+  },
+  {
+    "id": "68ab32f4-16a8-475b-80e1-4fcd4ba7eda4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-14",
+    "amount": 59266,
+    "positive": 1.32
+  },
+  {
+    "id": "ac038dbb-7392-4912-93ac-07134b7445dd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-23",
+    "amount": 39906,
+    "positive": 1.72
+  },
+  {
+    "id": "526f73a0-c949-4e61-903b-b95522e3eed8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-19",
+    "amount": 26862,
+    "positive": 0.21
+  },
+  {
+    "id": "220928ab-4856-4c43-acc0-bd0f35092a9b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-19",
+    "amount": 79815,
+    "positive": 1.74
+  },
+  {
+    "id": "ba96bf9e-0891-40f6-9d86-a02dd7811e30",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-02",
+    "amount": 107829,
+    "positive": 3.6
+  },
+  {
+    "id": "5c7ba489-fd63-4805-a263-495dbce672bd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-19",
+    "amount": 50346,
+    "positive": 0.26
+  },
+  {
+    "id": "32d79187-6efe-4ed5-b07b-e91d03cf83da",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-19",
+    "amount": 59755,
+    "positive": 1.81
+  },
+  {
+    "id": "c1f9f17f-0cfd-414b-bd2e-43f79d40247e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-24",
+    "amount": 43679,
+    "positive": 1.09
+  },
+  {
+    "id": "c9c9e027-6dfd-4a79-a055-0f214997d7cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-15",
+    "amount": 13814,
+    "positive": 1.46
+  },
+  {
+    "id": "5814b8a6-d701-46ce-b615-18e78aed321f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-14",
+    "amount": 56934,
+    "positive": 2.44
+  },
+  {
+    "id": "971cc85a-6d0c-46b2-8c2f-77f7ce9ae6f7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-24",
+    "amount": 30668,
+    "positive": 0.09
+  },
+  {
+    "id": "48eace8e-ee84-4657-b0e2-daa576424df0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-20",
+    "amount": 18610,
+    "positive": 1.88
+  },
+  {
+    "id": "6926aacb-5ec1-459a-bee3-a5c1d68d558d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-05",
+    "amount": 38986,
+    "positive": 0.17
+  },
+  {
+    "id": "f39392ff-68fd-4d70-9255-a48e648fb78d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-01-26",
+    "amount": 3,
+    "positive": 0
+  },
+  {
+    "id": "307df77e-38ca-46ae-b338-4835097c01e7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-16",
+    "amount": 15719,
+    "positive": 1.91
+  },
+  {
+    "id": "ae13224a-2b8b-495a-a273-7a88b9743449",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-17",
+    "amount": 15509,
+    "positive": 1.76
+  },
+  {
+    "id": "6f46dbde-8bf9-4389-a7e5-0e6ce0489d7c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-23",
+    "amount": 27829,
+    "positive": 0.51
+  },
+  {
+    "id": "9765c7ec-074d-47e3-9373-0566d03a0c74",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-16",
+    "amount": 72825,
+    "positive": 2.15
+  },
+  {
+    "id": "3077ba0c-38da-4591-97fb-6793a1af8b06",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-24",
+    "amount": 27674,
+    "positive": 0.84
+  },
+  {
+    "id": "2ec1a303-8f99-4c7a-b9b5-c8b84354b102",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-07",
+    "amount": 51627,
+    "positive": 0.53
+  },
+  {
+    "id": "de0a6815-05f6-41ba-bbc3-979c50c4551c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-25",
+    "amount": 37887,
+    "positive": 0.61
+  },
+  {
+    "id": "2f94607c-c80a-4cee-8452-f941c890ae77",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-16",
+    "amount": 14067,
+    "positive": 0.21
+  },
+  {
+    "id": "1aff1a58-22dd-41ce-8807-72fa328b1837",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-13",
+    "amount": 73153,
+    "positive": 0.27
+  },
+  {
+    "id": "f27719b4-1aa2-4d14-8116-c5e049f97b5b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-29",
+    "amount": 44515,
+    "positive": 0.66
+  },
+  {
+    "id": "f3fa4d19-133b-4922-9589-301e9258e488",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-15",
+    "amount": 13428,
+    "positive": 0.71
+  },
+  {
+    "id": "ab8b60b3-9123-47d0-87b4-6ea5e41b6829",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-31",
+    "amount": 37925,
+    "positive": 1.3
+  },
+  {
+    "id": "8561d6d4-d622-4e5e-92bf-96d3d5a43863",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-06",
+    "amount": 56767,
+    "positive": 0.93
+  },
+  {
+    "id": "19208212-d912-4419-aa96-7c07036947a0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-23",
+    "amount": 91123,
+    "positive": 1.59
+  },
+  {
+    "id": "7be8909b-5140-4a97-845b-3c4fde1b8be8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-11",
+    "amount": 34241,
+    "positive": 0.1
+  },
+  {
+    "id": "c2592510-f988-432b-b4f1-9ccab15aeb50",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-26",
+    "amount": 38190,
+    "positive": 0.24
+  },
+  {
+    "id": "043916e9-9fbc-461a-95c9-02efe6d7b00a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-28",
+    "amount": 97504,
+    "positive": 2.26
+  },
+  {
+    "id": "0557a613-359f-4b93-83ff-60597b583e5b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-29",
+    "amount": 95539,
+    "positive": 2.29
+  },
+  {
+    "id": "9cc594c6-723f-479e-9b88-bd6ca7696636",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-06",
+    "amount": 107647,
+    "positive": 3.65
+  },
+  {
+    "id": "c184c9ce-8e70-4367-ac13-8252dddf46e9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-29",
+    "amount": 33337,
+    "positive": 0.28
+  },
+  {
+    "id": "5c4e4cc2-2e96-48f5-bf33-26692095f82f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-12",
+    "amount": 123075,
+    "positive": 5.02
+  },
+  {
+    "id": "3a0c13a7-6751-4168-b5e9-efdb05e407bb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-22",
+    "amount": 83649,
+    "positive": 8.83
+  },
+  {
+    "id": "08df362b-e5c7-4db3-8019-7e768c17bad0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-23",
+    "amount": 30196,
+    "positive": 8.07
+  },
+  {
+    "id": "2870b390-07db-41ec-b2f2-ce730a3640be",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-07",
+    "amount": 32843,
+    "positive": 0.1
+  },
+  {
+    "id": "1f070012-ec5d-414e-a01a-082e24b4ee5b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-03",
+    "amount": 36295,
+    "positive": 0.18
+  },
+  {
+    "id": "5cc80fcf-c087-4347-beeb-e546caaf163a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-18",
+    "amount": 16813,
+    "positive": 1.8
+  },
+  {
+    "id": "2dcebfd6-b2f6-423d-a3a5-15ff00cefee6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-24",
+    "amount": 52969,
+    "positive": 9.36
+  },
+  {
+    "id": "edd2b30e-b820-4b45-9b76-e63a4bfb0c76",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-19",
+    "amount": 12357,
+    "positive": 2.5
+  },
+  {
+    "id": "d07002bc-9251-413b-b464-95fccbc3f963",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-20",
+    "amount": 5724,
+    "positive": 2.81
+  },
+  {
+    "id": "3df23670-4f78-4356-9411-93f5787bffb6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-21",
+    "amount": 8797,
+    "positive": 1.98
+  },
+  {
+    "id": "5e764cfb-21e1-4396-ad8d-e1b4a87bed0c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-22",
+    "amount": 13349,
+    "positive": 2.6
+  },
+  {
+    "id": "c64306ec-3e9e-4745-a932-2625310648e1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-25",
+    "amount": 88183,
+    "positive": 9.89
+  },
+  {
+    "id": "a2dedaf4-bb1a-4476-a371-cbe538d41cad",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-26",
+    "amount": 81488,
+    "positive": 9.57
+  },
+  {
+    "id": "4ccb218d-08cc-415c-95ab-4cbd00c5f7bf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-27",
+    "amount": 83467,
+    "positive": 9.29
+  },
+  {
+    "id": "a331e740-d085-4a2c-b86e-5d87b43e201c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-28",
+    "amount": 76438,
+    "positive": 9.42
+  },
+  {
+    "id": "bbb138b0-6691-4dbe-bfd8-b4cf3589b6f3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-29",
+    "amount": 71742,
+    "positive": 9.46
+  },
+  {
+    "id": "44bb677e-c58c-47d0-8787-45cfb36847d6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-29",
+    "amount": 77834,
+    "positive": 0.8
+  },
+  {
+    "id": "f8a8729b-d149-43eb-8350-20bc8ce38abb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-07",
+    "amount": 79725,
+    "positive": 0.63
+  },
+  {
+    "id": "90ec68c7-82b8-43c8-8ca8-cfa049415d0a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-23",
+    "amount": 19031,
+    "positive": 2.36
+  },
+  {
+    "id": "d63d51d3-dd29-40e1-8323-f5226b3154a0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-01",
+    "amount": 160,
+    "positive": 1.25
+  },
+  {
+    "id": "738d61ae-77bb-4617-94d8-b5806b98d42a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-02",
+    "amount": 170,
+    "positive": 2.94
+  },
+  {
+    "id": "0ad51c31-a1b3-43b1-b7d1-4aad2b571d1e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-03",
+    "amount": 226,
+    "positive": 1.33
+  },
+  {
+    "id": "b78700e5-e2e4-4549-a81d-e826bdd08a6d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-24",
+    "amount": 17639,
+    "positive": 2.78
+  },
+  {
+    "id": "9444e705-185a-425e-93db-64d2cb22fc10",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-25",
+    "amount": 17757,
+    "positive": 2.89
+  },
+  {
+    "id": "acdad192-3d4e-4b36-8ae8-f81c2218dcf0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-26",
+    "amount": 15924,
+    "positive": 2.91
+  },
+  {
+    "id": "e75fb687-0fc5-4b3c-9bb3-65b0cbf31f11",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-29",
+    "amount": 1803,
+    "positive": 6.27
+  },
+  {
+    "id": "9dc7b8d5-87a0-4eaf-a4ae-266b627e2281",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-09",
+    "amount": 79960,
+    "positive": 0.59
+  },
+  {
+    "id": "bf933c13-e077-408e-9595-b395e103f0e9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-30",
+    "amount": 1041,
+    "positive": 2.79
+  },
+  {
+    "id": "6d6fcb2a-2a5f-40f3-be4d-5d1e1215e7a5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-31",
+    "amount": 5499,
+    "positive": 1.58
+  },
+  {
+    "id": "28d17075-65f0-4292-85df-64175be028fa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-01",
+    "amount": 7907,
+    "positive": 1.26
+  },
+  {
+    "id": "a84c2720-874b-4ebc-94a8-90cf2011f420",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-02",
+    "amount": 11577,
+    "positive": 1.05
+  },
+  {
+    "id": "00c88e1e-4265-439d-ae68-1f3844092e54",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-27",
+    "amount": 9762,
+    "positive": 4.17
+  },
+  {
+    "id": "4d31389e-0602-4bfe-b470-12f782ba4d7c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-29",
+    "amount": 7392,
+    "positive": 1.11
+  },
+  {
+    "id": "f182679c-fefa-4c05-b45c-413dcf4d58d5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-30",
+    "amount": 8592,
+    "positive": 1.65
+  },
+  {
+    "id": "d22d300c-9511-462a-94bc-66b0a01e7e2e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-01",
+    "amount": 9220,
+    "positive": 1.26
+  },
+  {
+    "id": "ef427e7d-03ec-408b-a3c5-3cdecfd6c943",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-02",
+    "amount": 4761,
+    "positive": 1.2
+  },
+  {
+    "id": "b1ac17cb-4246-42f7-a9e7-c6b4c16305b4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-03",
+    "amount": 7398,
+    "positive": 0.36
+  },
+  {
+    "id": "0f0205f2-5f12-41c5-abfd-1b5f014ffc99",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-13",
+    "amount": 33876,
+    "positive": 9.37
+  },
+  {
+    "id": "e1175723-aa42-44bc-94b9-a4841de3083b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-01",
+    "amount": 34114,
+    "positive": 0.98
+  },
+  {
+    "id": "c1279b19-bc21-4237-a3c8-a02a01ec4247",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-16",
+    "amount": 29275,
+    "positive": 0.37
+  },
+  {
+    "id": "8472d475-be48-4b2b-928c-746ac9213482",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-30",
+    "amount": 35143,
+    "positive": 0.22
+  },
+  {
+    "id": "9addca31-82b4-40a2-9d17-4705e1633adc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-04",
+    "amount": 37862,
+    "positive": 0.17
+  },
+  {
+    "id": "7ea71fc8-7228-41f5-88b9-b3301bd8f4c7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-26",
+    "amount": 47304,
+    "positive": 1.1
+  },
+  {
+    "id": "7b71ae9d-7ebd-4edd-98a3-2c12f77f7e3a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-04",
+    "amount": 31035,
+    "positive": 0.63
+  },
+  {
+    "id": "521bfc9c-3f29-445e-a523-e340584cbfec",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-06",
+    "amount": 30688,
+    "positive": 0.16
+  },
+  {
+    "id": "ee8e0432-d72d-4133-a5e5-7174c554c4c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-08",
+    "amount": 11233,
+    "positive": 0.14
+  },
+  {
+    "id": "638f6d3a-b559-40c5-a874-37dd42471166",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-12",
+    "amount": 30065,
+    "positive": 0.09
+  },
+  {
+    "id": "571cf316-5de1-47be-a41d-603b07755862",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-14",
+    "amount": 55493,
+    "positive": 0.35
+  },
+  {
+    "id": "65cced35-bf86-4e07-a97b-76bd1eda7188",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-17",
+    "amount": 8203,
+    "positive": 0.18
+  },
+  {
+    "id": "bce48076-eef0-496c-9aff-3dda75ce44e2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-20",
+    "amount": 20958,
+    "positive": 0.16
+  },
+  {
+    "id": "795d7793-6dec-4fef-8f42-9f131a4288df",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-03",
+    "amount": 14790,
+    "positive": 0.07
+  },
+  {
+    "id": "740370d6-ce0a-40c4-a743-2287990e8df6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-05",
+    "amount": 6873,
+    "positive": 0.07
+  },
+  {
+    "id": "4d745c6c-6d21-4d6f-8018-a1848cfc7dc5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-27",
+    "amount": 32746,
+    "positive": 0.27
+  },
+  {
+    "id": "4ce5115b-b79c-4041-8a48-b3bd7d71c9f6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-28",
+    "amount": 11030,
+    "positive": 1.17
+  },
+  {
+    "id": "558ef69c-3843-47db-8f0f-8efbb9edc451",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-02",
+    "amount": 16064,
+    "positive": 0.09
+  },
+  {
+    "id": "51a4bca6-ca28-47c0-af55-f6b8f6911396",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-04",
+    "amount": 16822,
+    "positive": 0.18
+  },
+  {
+    "id": "03af3ead-6e2e-48a1-8b60-b80719c28657",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-09",
+    "amount": 15585,
+    "positive": 0.04
+  },
+  {
+    "id": "a28f44ce-5ab7-413a-a776-da0ddb86d906",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-10",
+    "amount": 16460,
+    "positive": 0.12
+  },
+  {
+    "id": "614fc7de-b63d-446c-9716-81615a3003e4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-27",
+    "amount": 16315,
+    "positive": 1.42
+  },
+  {
+    "id": "d9b0e12c-df09-4c29-8701-a601e76c230e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-25",
+    "amount": 63292,
+    "positive": 1.33
+  },
+  {
+    "id": "88ceee33-d2ac-4a1d-a1b8-3528af91ae58",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "1999-01-01",
+    "amount": 103,
+    "positive": 0
+  },
+  {
+    "id": "bc6ad0e6-615a-46d0-9c5d-d32484863320",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-01-27",
+    "amount": 1,
+    "positive": 0
+  },
+  {
+    "id": "2d6036cd-fcd7-4d9a-b91e-60cd64866f17",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-01-29",
+    "amount": 3,
+    "positive": 0
+  },
+  {
+    "id": "0c5e33ba-e205-41e9-90f9-14f06654806e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-01-30",
+    "amount": 4,
+    "positive": 0
+  },
+  {
+    "id": "ee284739-1acb-4d68-ba5c-3723e6dfd206",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-02",
+    "amount": 7,
+    "positive": 0
+  },
+  {
+    "id": "fa526bc6-f5d5-4b1e-9dce-845a4e514f40",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-03",
+    "amount": 7,
+    "positive": 0
+  },
+  {
+    "id": "ef945760-1e77-427b-be05-9ae23599af4a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-19",
+    "amount": 41772,
+    "positive": 9.12
+  },
+  {
+    "id": "4f13e775-1f42-4c82-a783-773a2e9a41b5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-04",
+    "amount": 6,
+    "positive": 0
+  },
+  {
+    "id": "3dd28d55-7e19-4065-abf4-d192353195b0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-09",
+    "amount": 40,
+    "positive": 0
+  },
+  {
+    "id": "eeb2c995-2cb2-41f7-a5d3-b845d7299717",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-10",
+    "amount": 28,
+    "positive": 0
+  },
+  {
+    "id": "a81ee12a-912e-4d63-a605-aa2555ee867c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-11",
+    "amount": 50,
+    "positive": 0
+  },
+  {
+    "id": "0e7b4090-e4c2-497d-8566-04283614f299",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-12",
+    "amount": 35,
+    "positive": 0
+  },
+  {
+    "id": "ab30ddf7-f1c0-437f-a936-d99844e2ab89",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-13",
+    "amount": 35,
+    "positive": 0
+  },
+  {
+    "id": "f0b4e331-62e2-4651-a519-ea38f4850242",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-14",
+    "amount": 30,
+    "positive": 0
+  },
+  {
+    "id": "7d747cfa-5510-45b8-8157-a80433977603",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-15",
+    "amount": 3,
+    "positive": 0
+  },
+  {
+    "id": "5bc473ed-7e6d-40ec-b09a-91748f588ae6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-16",
+    "amount": 23,
+    "positive": 0
+  },
+  {
+    "id": "90c62aad-280f-4a81-8e23-102e348f952d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-12",
+    "amount": 58625,
+    "positive": 0.38
+  },
+  {
+    "id": "e33e9cb7-ee56-4e7b-9b66-7a17f73dd14c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-09",
+    "amount": 34246,
+    "positive": 0.65
+  },
+  {
+    "id": "8642e5cf-9ee1-4cfa-80d1-2de15e7d8fea",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-20",
+    "amount": 52526,
+    "positive": 0.29
+  },
+  {
+    "id": "8a2e47d2-7fea-4cf7-8376-7a0847eab7a6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-22",
+    "amount": 33680,
+    "positive": 0.38
+  },
+  {
+    "id": "81ff45d5-edc9-4823-a50c-7de4b9557a9d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-11",
+    "amount": 16055,
+    "positive": 0.11
+  },
+  {
+    "id": "7a7c9445-0fd3-4ac3-867a-dab720cab0dc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-16",
+    "amount": 18074,
+    "positive": 0.07
+  },
+  {
+    "id": "2f9a6dcd-f0b3-44f3-b968-0a591a156fee",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-18",
+    "amount": 35999,
+    "positive": 0.39
+  },
+  {
+    "id": "cff17400-3ddd-42d3-9c6f-a43afc75adae",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-06",
+    "amount": 14874,
+    "positive": 0.03
+  },
+  {
+    "id": "711a7105-76a5-4d37-8893-a4aa0b573d2c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-07",
+    "amount": 21366,
+    "positive": 0.03
+  },
+  {
+    "id": "559d8956-0443-425e-9b5f-f618917b418c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-17",
+    "amount": 16052,
+    "positive": 0.17
+  },
+  {
+    "id": "175f9d31-ea34-4efc-b1fb-f83c5178e1e5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-22",
+    "amount": 91083,
+    "positive": 1.08
+  },
+  {
+    "id": "5321fb10-18cf-4de3-b765-34e8e385fcf3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-12",
+    "amount": 9817,
+    "positive": 0.05
+  },
+  {
+    "id": "1ba1d611-6e53-40ad-a360-9a7580622148",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-13",
+    "amount": 18290,
+    "positive": 0.02
+  },
+  {
+    "id": "7068dcc9-eaee-4900-ab00-3cfbdae32fd0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-14",
+    "amount": 25696,
+    "positive": 0.1
+  },
+  {
+    "id": "ab94b0c2-a17f-4c57-a8f0-00a3673257ca",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-15",
+    "amount": 21992,
+    "positive": 0.12
+  },
+  {
+    "id": "edf67800-bef2-49a9-ae19-1b8dd2fadd09",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-18",
+    "amount": 18986,
+    "positive": 0.18
+  },
+  {
+    "id": "87b79a46-bbbc-443d-aa67-0b3e85ad4a1f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-19",
+    "amount": 12006,
+    "positive": 0.4
+  },
+  {
+    "id": "691dbe0f-e4d8-4212-9a2d-d3a506e5a47d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-21",
+    "amount": 31315,
+    "positive": 0.4
+  },
+  {
+    "id": "0f5a326c-9107-4bd5-80d5-70fbd2a5dc8b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-01",
+    "amount": 42888,
+    "positive": 0.69
+  },
+  {
+    "id": "7bed780b-826d-414a-836a-b877410205af",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-30",
+    "amount": 35642,
+    "positive": 0.64
+  },
+  {
+    "id": "27d7ac68-bfce-4116-86f4-58604eae17b1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-12",
+    "amount": 58929,
+    "positive": 1.3
+  },
+  {
+    "id": "2b27c1f4-215c-4dd0-9876-08333de3ee13",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-20",
+    "amount": 84498,
+    "positive": 1.68
+  },
+  {
+    "id": "7883c5e0-f1ed-4bae-8a84-e0b564ebf146",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-28",
+    "amount": 9688,
+    "positive": 3.97
+  },
+  {
+    "id": "ef518efa-7e59-4755-97fb-7580d90e64a3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-29",
+    "amount": 19989,
+    "positive": 3.78
+  },
+  {
+    "id": "c048bbb7-31b1-4db4-bdd8-707eb642fe23",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-30",
+    "amount": 19762,
+    "positive": 3.99
+  },
+  {
+    "id": "da037f71-6b77-4c4d-ad0b-7d909d7fc9b4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-07",
+    "amount": 52040,
+    "positive": 1.01
+  },
+  {
+    "id": "3957ec8f-d09c-449a-aeb8-990dff3b6a93",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-03",
+    "amount": 101069,
+    "positive": 3.3
+  },
+  {
+    "id": "b50f7dac-05a8-43a6-af57-224ba26ecf80",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-07",
+    "amount": 79598,
+    "positive": 3.72
+  },
+  {
+    "id": "8bf67cc9-aa54-4f5a-af20-f1035d4a4265",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-08",
+    "amount": 86956,
+    "positive": 0.66
+  },
+  {
+    "id": "76f3d5fd-03d7-4182-843f-6d6c39b1facc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-08",
+    "amount": 19633,
+    "positive": 0.15
+  },
+  {
+    "id": "fd779957-d6fe-4a79-a325-25231479c79f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-01",
+    "amount": 20629,
+    "positive": 4.72
+  },
+  {
+    "id": "ae1d8885-01fa-468c-acec-20d7ee03153b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-20",
+    "amount": 22408,
+    "positive": 0.23
+  },
+  {
+    "id": "d006f46d-81fc-4af3-b3de-67e4353b398a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-10",
+    "amount": 75576,
+    "positive": 0.65
+  },
+  {
+    "id": "a47a4e77-c8ca-4764-9d6c-93d466dbae8b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-02",
+    "amount": 24020,
+    "positive": 4.78
+  },
+  {
+    "id": "f1224988-3fd6-4b68-906c-0ea42caefe5d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-24",
+    "amount": 66156,
+    "positive": 12.45
+  },
+  {
+    "id": "87b6a589-c0db-4a76-b4a6-4d1da87c7445",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-03",
+    "amount": 20250,
+    "positive": 4.67
+  },
+  {
+    "id": "37546594-4bfe-4609-80c8-efbca5d71dec",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-04",
+    "amount": 16408,
+    "positive": 5.07
+  },
+  {
+    "id": "e54fc327-cde7-4ec7-8b23-764f8bf7b991",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-26",
+    "amount": 45055,
+    "positive": 13.06
+  },
+  {
+    "id": "79fd95e5-1c0d-433f-9882-39711153671a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-28",
+    "amount": 7691,
+    "positive": 15.07
+  },
+  {
+    "id": "0f8c437d-0997-4adc-9671-8ca541a62263",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-05",
+    "amount": 163,
+    "positive": 9.2
+  },
+  {
+    "id": "74c07e08-bdee-4bef-8acc-53823d8034e5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-06",
+    "amount": 273,
+    "positive": 1.83
+  },
+  {
+    "id": "04dd8ca1-0112-4858-81a0-4d3464e3042c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-05",
+    "amount": 19962,
+    "positive": 4.18
+  },
+  {
+    "id": "c593d490-ca9b-42ef-b5ad-a373cae09bf1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-07",
+    "amount": 322,
+    "positive": 1.24
+  },
+  {
+    "id": "05881990-3bc6-4325-a7b0-dbc21e0ae2cd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-08",
+    "amount": 407,
+    "positive": 2.7
+  },
+  {
+    "id": "910abb54-3c7c-46de-9947-88dfb2d9c3c0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-09",
+    "amount": 509,
+    "positive": 1.18
+  },
+  {
+    "id": "f42b5274-0566-49b0-9a5d-6b594dd22107",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-10",
+    "amount": 487,
+    "positive": 7.6
+  },
+  {
+    "id": "69ea3091-cbc5-471e-96d9-bca36d57f59b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-11",
+    "amount": 370,
+    "positive": 5.68
+  },
+  {
+    "id": "c6d0e4e4-8c2c-42a0-bc0f-6d40ad6bc232",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-12",
+    "amount": 586,
+    "positive": 3.92
+  },
+  {
+    "id": "fb8728bb-11dc-48ec-a55c-f2521d8e24f8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-06",
+    "amount": 24400,
+    "positive": 4.66
+  },
+  {
+    "id": "54e0d5ba-955f-4c71-a93c-d7ccc5c1723c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-13",
+    "amount": 685,
+    "positive": 5.26
+  },
+  {
+    "id": "232651a4-29c0-4707-b8dd-be85b069ceae",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-07",
+    "amount": 27368,
+    "positive": 5.08
+  },
+  {
+    "id": "6ee3efe8-34a0-456c-bf93-71b58f03e9f4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-08",
+    "amount": 28275,
+    "positive": 4.73
+  },
+  {
+    "id": "675a097c-e5d6-463f-8470-600cf75203e8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-08",
+    "amount": 49265,
+    "positive": 0.96
+  },
+  {
+    "id": "330906a4-2249-48b2-b41e-a38ad1cb878e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-02",
+    "amount": 27569,
+    "positive": 0.18
+  },
+  {
+    "id": "4e461d32-db7b-4ed8-a522-0c8154737164",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-09",
+    "amount": 25784,
+    "positive": 0.13
+  },
+  {
+    "id": "c10152b6-f382-4ac3-bf6f-f37b1eb1f818",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-10",
+    "amount": 32247,
+    "positive": 0.82
+  },
+  {
+    "id": "716ac309-f1e1-4166-ab8d-145c1cbbe661",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-23",
+    "amount": 33971,
+    "positive": 0.97
+  },
+  {
+    "id": "6d85b260-0137-434d-bf26-39ca18b7c234",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-31",
+    "amount": 79234,
+    "positive": 0.67
+  },
+  {
+    "id": "73e86d7a-1276-44ae-9874-30fa5bd5b46b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-08",
+    "amount": 84643,
+    "positive": 4.09
+  },
+  {
+    "id": "a2a762cc-9266-4f79-bee3-19679d8d9d3c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-21",
+    "amount": 79794,
+    "positive": 1.69
+  },
+  {
+    "id": "e5b10cfd-11e9-47fa-b432-de9c1d38d6f8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-28",
+    "amount": 30691,
+    "positive": 0.06
+  },
+  {
+    "id": "40b10ae0-b088-4c9a-a996-9467792812b4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-11",
+    "amount": 68914,
+    "positive": 0.57
+  },
+  {
+    "id": "4eac23c2-73dc-4f75-a2a1-8e2f29e66ef3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-22",
+    "amount": 106955,
+    "positive": 5.64
+  },
+  {
+    "id": "13901103-44fd-433f-8505-024ca1cbfbed",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-17",
+    "amount": 41,
+    "positive": 0
+  },
+  {
+    "id": "be315cfc-f6fb-4a15-86b3-cbbfa9a5cc52",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-18",
+    "amount": 46,
+    "positive": 0
+  },
+  {
+    "id": "4bab642e-fabd-4e5b-952d-182d075cbae6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-21",
+    "amount": 25749,
+    "positive": 0.09
+  },
+  {
+    "id": "cce9f98f-69e8-475b-b114-2419d02293a6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-02",
+    "amount": 32470,
+    "positive": 1.29
+  },
+  {
+    "id": "7c84b319-772e-4b08-8a58-fabd12d21480",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-19",
+    "amount": 34,
+    "positive": 0
+  },
+  {
+    "id": "084d9ae5-8bee-4a28-8ac5-73cf58b4ba22",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-26",
+    "amount": 20385,
+    "positive": 0.57
+  },
+  {
+    "id": "af74b5a4-2fdf-4e36-82b7-87f62e29c323",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-18",
+    "amount": 22430,
+    "positive": 0.1
+  },
+  {
+    "id": "b3aa1a14-77ab-4dda-9c2b-26fbd6725467",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-10",
+    "amount": 10653,
+    "positive": 0.81
+  },
+  {
+    "id": "6cc5579a-2495-4f1c-b156-532c3ffeb6f0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-02",
+    "amount": 47332,
+    "positive": 0.69
+  },
+  {
+    "id": "50c092ef-9381-42c3-b96b-079331de4ab2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-04",
+    "amount": 33451,
+    "positive": 1.05
+  },
+  {
+    "id": "29e73421-9116-4170-9cba-cf476dc25fa2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-30",
+    "amount": 18748,
+    "positive": 0.02
+  },
+  {
+    "id": "aa50ff35-ba80-4703-bb31-fa6886e2f185",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-27",
+    "amount": 135562,
+    "positive": 3.87
+  },
+  {
+    "id": "c88126aa-5d23-4eea-90fb-8bfa8d2237b0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-29",
+    "amount": 40558,
+    "positive": 0.9
+  },
+  {
+    "id": "6f144199-3b35-4322-a281-e1b5f7dd687a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-04",
+    "amount": 109752,
+    "positive": 3.22
+  },
+  {
+    "id": "b2106a92-3fca-4ac6-aef7-259682a8af89",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-23",
+    "amount": 34296,
+    "positive": 0.31
+  },
+  {
+    "id": "6e91ce4e-845a-4a82-a24d-849114886688",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-10",
+    "amount": 150766,
+    "positive": 6.56
+  },
+  {
+    "id": "6b3b5e5b-e6da-4109-a41b-d03f4ff821c0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-26",
+    "amount": 24893,
+    "positive": 0.06
+  },
+  {
+    "id": "ecca012c-c5ee-4e68-bac0-c10a7a0a020e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-29",
+    "amount": 8998,
+    "positive": 0.13
+  },
+  {
+    "id": "1eeb089f-a19a-4df9-afc7-a3cc975614c2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-15",
+    "amount": 60045,
+    "positive": 1.45
+  },
+  {
+    "id": "01eb7289-16a7-4db3-a18c-fa75d48f0276",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-01",
+    "amount": 8875,
+    "positive": 0.15
+  },
+  {
+    "id": "27a8cb73-76f8-45d0-8854-9109c2af3642",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-05",
+    "amount": 55663,
+    "positive": 0.68
+  },
+  {
+    "id": "c8354375-7a70-46e2-b0d8-fffaf225acbc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-31",
+    "amount": 155320,
+    "positive": 6.73
+  },
+  {
+    "id": "3f2b95cc-0de3-4ada-8563-e161d12b7e1e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-20",
+    "amount": 145447,
+    "positive": 5.45
+  },
+  {
+    "id": "fb3cfbd1-d989-4e85-92d2-3221b35a3060",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-16",
+    "amount": 52084,
+    "positive": 6.32
+  },
+  {
+    "id": "5d900072-5033-4b9d-b65c-3370f34f7d58",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-14",
+    "amount": 79041,
+    "positive": 5.38
+  },
+  {
+    "id": "3ef139c5-4d6b-4bf1-8df3-4292cbb6c8e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-26",
+    "amount": 135483,
+    "positive": 6.74
+  },
+  {
+    "id": "f9aa017d-20e2-4568-a259-9854c61f1ced",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-01",
+    "amount": 20318,
+    "positive": 0.24
+  },
+  {
+    "id": "1391a927-0499-401d-a8c4-c9d43fc3c560",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-25",
+    "amount": 25470,
+    "positive": 0.09
+  },
+  {
+    "id": "daa7866e-cde0-4427-93ae-d78a4ccf917b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-30",
+    "amount": 103796,
+    "positive": 2.37
+  },
+  {
+    "id": "95275e72-64aa-410e-bfd2-b7a07eeaed56",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-09",
+    "amount": 28448,
+    "positive": 5.4
+  },
+  {
+    "id": "81ec24bd-0ba1-40ab-a4e5-8b98f51a144b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-10",
+    "amount": 24498,
+    "positive": 5.78
+  },
+  {
+    "id": "d514dd0c-a6fa-4550-9586-fcb6ae2ec5c8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-11",
+    "amount": 19048,
+    "positive": 6.17
+  },
+  {
+    "id": "01e55037-71c1-4a75-98c5-e675d5c9384f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-12",
+    "amount": 19961,
+    "positive": 6.2
+  },
+  {
+    "id": "a6c6f388-a116-4a2e-95f8-630be51dd59c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-13",
+    "amount": 27022,
+    "positive": 6.4
+  },
+  {
+    "id": "c0e26d94-6ae7-4314-9c62-d1f4108e6293",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-13",
+    "amount": 58626,
+    "positive": 1.29
+  },
+  {
+    "id": "c427766f-7d78-47ab-86ea-1d9b7f42a86b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-14",
+    "amount": 29339,
+    "positive": 5.49
+  },
+  {
+    "id": "2a759a88-a07d-4acc-a9db-6b3f546c8a7e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-13",
+    "amount": 20794,
+    "positive": 0.14
+  },
+  {
+    "id": "4865ffbe-1dcf-4a1e-9546-11936ca3ebe3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-15",
+    "amount": 27555,
+    "positive": 6.84
+  },
+  {
+    "id": "d6979355-6330-470b-87ad-598a678c26cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-16",
+    "amount": 28113,
+    "positive": 6.9
+  },
+  {
+    "id": "d23fc891-cc35-40a3-ba63-5f51698e609f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-17",
+    "amount": 23392,
+    "positive": 6.89
+  },
+  {
+    "id": "4acc98b0-9cc9-4b85-ad5f-8e81cddb0ee8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-28",
+    "amount": 35610,
+    "positive": 0.27
+  },
+  {
+    "id": "0cebaef8-9024-488d-b56a-d8f462eb4e36",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-31",
+    "amount": 24026,
+    "positive": 0.06
+  },
+  {
+    "id": "5449f3b3-562b-49ec-b3ed-600f6dc49084",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-27",
+    "amount": 26308,
+    "positive": 0.05
+  },
+  {
+    "id": "bc4abba9-d5fd-450a-ac54-bc024a17502b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-18",
+    "amount": 18032,
+    "positive": 8.06
+  },
+  {
+    "id": "bc62dd42-6823-4730-bdfd-746ab0d103ec",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-19",
+    "amount": 17683,
+    "positive": 5.76
+  },
+  {
+    "id": "57cb03f2-5494-42eb-a055-b4ad41667560",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-20",
+    "amount": 24289,
+    "positive": 7.79
+  },
+  {
+    "id": "de142a0f-6bbd-4924-9fef-23d70a18f49d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-21",
+    "amount": 26528,
+    "positive": 7.59
+  },
+  {
+    "id": "bde8f4f0-22d6-4fc1-b830-83831f621511",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-22",
+    "amount": 25572,
+    "positive": 7.99
+  },
+  {
+    "id": "b15b13ce-84ec-45f4-975b-16ef3e804526",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-23",
+    "amount": 29090,
+    "positive": 6.85
+  },
+  {
+    "id": "c97ab733-ef8d-4b37-9fbe-a31d837b16aa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-24",
+    "amount": 56090,
+    "positive": 1.73
+  },
+  {
+    "id": "9d3beb87-1cf8-47ac-b98a-1aa16cab1195",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-24",
+    "amount": 22401,
+    "positive": 8.17
+  },
+  {
+    "id": "faa1730a-b288-44a0-acdc-80a53aa4d871",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-25",
+    "amount": 14507,
+    "positive": 7.71
+  },
+  {
+    "id": "5d536db7-08ff-436f-b10f-dea28bdead89",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-26",
+    "amount": 11207,
+    "positive": 9.34
+  },
+  {
+    "id": "2459f57e-05d2-4d69-97d6-31b25f97eaae",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-03",
+    "amount": 95332,
+    "positive": 2.82
+  },
+  {
+    "id": "a9d971c6-a97c-4116-8c30-917fda77f1a4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-05",
+    "amount": 110387,
+    "positive": 5.31
+  },
+  {
+    "id": "002a60f3-35e1-4ba7-87da-57d3b3e73004",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-07",
+    "amount": 98760,
+    "positive": 2.14
+  },
+  {
+    "id": "5e95a517-027a-40b0-90e1-55b1c4a0d84f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-14",
+    "amount": 166540,
+    "positive": 5.93
+  },
+  {
+    "id": "20d757d7-4b1f-467e-9326-6f73aec14d10",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-27",
+    "amount": 27051,
+    "positive": 7.59
+  },
+  {
+    "id": "528ead03-4d6e-4424-ad39-5887c03f69f1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-28",
+    "amount": 25524,
+    "positive": 8.31
+  },
+  {
+    "id": "52f76cd8-680e-45db-b24c-b4d74d8d9a62",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-29",
+    "amount": 25223,
+    "positive": 7.75
+  },
+  {
+    "id": "70d5f6d8-a024-4ad8-aec7-afcebae1e407",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-20",
+    "amount": 29,
+    "positive": 0
+  },
+  {
+    "id": "ce41f183-8038-4d8e-ad06-b5178a2e426c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-30",
+    "amount": 21012,
+    "positive": 8.53
+  },
+  {
+    "id": "f6ecad84-50b1-4c04-b704-df65efd01656",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-07-31",
+    "amount": 21985,
+    "positive": 6.2
+  },
+  {
+    "id": "28795106-0e37-4872-8a29-c6ddec1e5776",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-01",
+    "amount": 7371,
+    "positive": 8.55
+  },
+  {
+    "id": "bdd3f580-8b20-4356-89b0-5de0a1750c89",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-02",
+    "amount": 9452,
+    "positive": 7.54
+  },
+  {
+    "id": "4c57d042-f0a1-45de-99b0-8125926747c8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-03",
+    "amount": 22445,
+    "positive": 8.06
+  },
+  {
+    "id": "c60b434a-b7a6-4d44-8fe6-f673ab5ee4d7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-04",
+    "amount": 24882,
+    "positive": 6.96
+  },
+  {
+    "id": "b8fe3e24-4425-49b7-9ef4-021d4904c4c0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-05",
+    "amount": 24670,
+    "positive": 6.88
+  },
+  {
+    "id": "fc8c660b-d78f-486c-8346-129cc1160fa0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-06",
+    "amount": 27700,
+    "positive": 6.05
+  },
+  {
+    "id": "874d6db9-c4b8-4071-9abd-a344bcd9af04",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-07",
+    "amount": 24412,
+    "positive": 7.22
+  },
+  {
+    "id": "6ef9ec0e-0077-47f4-b0ba-ac92c3cc5266",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-08",
+    "amount": 8042,
+    "positive": 9.38
+  },
+  {
+    "id": "d507ffd7-d30a-4bad-9e65-db752f2de5ec",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-21",
+    "amount": 28,
+    "positive": 3.57
+  },
+  {
+    "id": "30a8dd27-4e20-46e2-bf89-3f7e8f4db8ae",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-29",
+    "amount": 7111,
+    "positive": 7.59
+  },
+  {
+    "id": "d448e883-56bf-42f5-8b4d-32f0c8232f6a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-30",
+    "amount": 6614,
+    "positive": 8.44
+  },
+  {
+    "id": "f0817fe0-7787-4dee-8ae8-3602b419ea02",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-09",
+    "amount": 77765,
+    "positive": 6.65
+  },
+  {
+    "id": "90a4319a-1fb3-45f3-9b9b-ad52a5879229",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-22",
+    "amount": 6632,
+    "positive": 0.21
+  },
+  {
+    "id": "4df9a559-9ac2-451e-9c69-481c23bfffa9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-31",
+    "amount": 7293,
+    "positive": 10.28
+  },
+  {
+    "id": "1d1565df-5449-489e-95de-6e201ea7c3f8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-01",
+    "amount": 8399,
+    "positive": 8.42
+  },
+  {
+    "id": "8a3440fe-259d-4615-bed3-d31f0929860c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-25",
+    "amount": 67993,
+    "positive": 2.09
+  },
+  {
+    "id": "80225a48-2541-4f6d-a5cc-ca1534f3bb2b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-02",
+    "amount": 9325,
+    "positive": 7.96
+  },
+  {
+    "id": "cefe02bd-976d-4f03-9ca6-2067279a3352",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-10",
+    "amount": 93759,
+    "positive": 7.47
+  },
+  {
+    "id": "e5c76c92-2775-4e2c-8fe6-268b65cc67de",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-05",
+    "amount": 51821,
+    "positive": 0.98
+  },
+  {
+    "id": "91e2e313-d3d1-4d8b-88e7-c3db58759dfb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-30",
+    "amount": 42873,
+    "positive": 1.03
+  },
+  {
+    "id": "b1da92f6-0f5d-4b5a-874e-3a37f8311e27",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-06",
+    "amount": 57406,
+    "positive": 0.53
+  },
+  {
+    "id": "627e2670-afef-495c-94dd-9bb09d6b5319",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-03",
+    "amount": 9625,
+    "positive": 6.31
+  },
+  {
+    "id": "cec3db0c-f994-47cd-87cb-1be534c78737",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-16",
+    "amount": 74876,
+    "positive": 1.53
+  },
+  {
+    "id": "f62d36c3-bd1b-49a2-900a-08df4bac29c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-31",
+    "amount": 69268,
+    "positive": 3.06
+  },
+  {
+    "id": "dfe5743c-202f-41a8-a896-33ed0eb6120c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-10",
+    "amount": 38846,
+    "positive": 0.13
+  },
+  {
+    "id": "4a129fb4-d3a0-4ec1-8537-3833174d87f2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-04",
+    "amount": 5907,
+    "positive": 7.47
+  },
+  {
+    "id": "808d0407-8cdf-442b-9289-1e762e8bee23",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-27",
+    "amount": 131177,
+    "positive": 6.65
+  },
+  {
+    "id": "bb2b876e-178c-41ee-9ef2-848a015f56a3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-04",
+    "amount": 120326,
+    "positive": 2.7
+  },
+  {
+    "id": "c2250936-dd14-4c07-bf30-507e1e4d7087",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-08",
+    "amount": 100025,
+    "positive": 2.01
+  },
+  {
+    "id": "e60c0290-227d-4d56-936a-c587b6b8a9c4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-09",
+    "amount": 11433,
+    "positive": 8.1
+  },
+  {
+    "id": "652f632e-a939-4845-a297-57f2f0633379",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-10",
+    "amount": 23289,
+    "positive": 7.31
+  },
+  {
+    "id": "94f4887e-dd96-4f93-817b-e74c4b2762d0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-11",
+    "amount": 26445,
+    "positive": 6.87
+  },
+  {
+    "id": "efecd31c-494e-4ecc-ab60-f6affbd44008",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-12",
+    "amount": 25129,
+    "positive": 6.44
+  },
+  {
+    "id": "c719ac25-13dd-4e07-8152-95453c89b3f6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-13",
+    "amount": 27625,
+    "positive": 5.95
+  },
+  {
+    "id": "de266ede-0a10-4bff-882e-7198922f5576",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-13",
+    "amount": 101817,
+    "positive": 1.73
+  },
+  {
+    "id": "a1711ee9-fab4-49fe-9e5d-0a745e99a344",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-14",
+    "amount": 20756,
+    "positive": 0.13
+  },
+  {
+    "id": "7f264676-e854-457c-9c9b-9da73d4edbb9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-15",
+    "amount": 98373,
+    "positive": 1.6
+  },
+  {
+    "id": "993518d6-7abc-4acd-9fde-e8ca20041cb6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-24",
+    "amount": 8422,
+    "positive": 0.46
+  },
+  {
+    "id": "866d7623-e00c-426b-9729-b364855584e6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-17",
+    "amount": 84137,
+    "positive": 1.45
+  },
+  {
+    "id": "397480e1-3773-4302-b4bf-451c96cd945e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-19",
+    "amount": 89078,
+    "positive": 1.28
+  },
+  {
+    "id": "949587db-fb7c-42b4-856b-3d2e5af58fb7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-21",
+    "amount": 83957,
+    "positive": 1.19
+  },
+  {
+    "id": "8de2fad5-a49f-402e-82af-ee833e134781",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-22",
+    "amount": 28615,
+    "positive": 0.38
+  },
+  {
+    "id": "add7f0a3-557c-4a2e-998a-077e063205da",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-24",
+    "amount": 81968,
+    "positive": 1.02
+  },
+  {
+    "id": "ae896c03-793d-449c-9823-876833e0f30c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-21",
+    "amount": 100117,
+    "positive": 5.41
+  },
+  {
+    "id": "d3079cc5-ed37-4469-b4d4-1061240727a1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-05",
+    "amount": 8645,
+    "positive": 6.95
+  },
+  {
+    "id": "ff83029e-0f30-4cf0-b026-b46e30f957d2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-01",
+    "amount": 90170,
+    "positive": 0.77
+  },
+  {
+    "id": "5ca2603a-1bdf-4e85-a631-6a80d920e743",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-12",
+    "amount": 73462,
+    "positive": 0.61
+  },
+  {
+    "id": "b46dfa64-329d-4f04-a312-7604e914ca83",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-06",
+    "amount": 6679,
+    "positive": 6.86
+  },
+  {
+    "id": "bca77203-d8b3-479f-af06-d69b63bef6e6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-22",
+    "amount": 74249,
+    "positive": 1.74
+  },
+  {
+    "id": "e590ba48-24d6-4139-99fa-25ba2c1af38b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-05",
+    "amount": 107600,
+    "positive": 3.65
+  },
+  {
+    "id": "4e979b23-c2d4-431a-b173-443a1e821eff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-07",
+    "amount": 6114,
+    "positive": 6.25
+  },
+  {
+    "id": "494f3a1e-9b68-482a-a0d6-62a4ecd6fa9d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-08",
+    "amount": 4851,
+    "positive": 7.11
+  },
+  {
+    "id": "8983be45-6cfc-4158-bb0b-784868e6285e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-09",
+    "amount": 131964,
+    "positive": 4.86
+  },
+  {
+    "id": "db363438-23ac-4398-a79b-ce85eab74a10",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-09",
+    "amount": 4945,
+    "positive": 7.1
+  },
+  {
+    "id": "f56eb7cb-54ee-44bd-b1c4-78f8b0bca338",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-10",
+    "amount": 6208,
+    "positive": 5.86
+  },
+  {
+    "id": "898213da-848f-457b-8dd9-6a34c0c5b28e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-11",
+    "amount": 121462,
+    "positive": 8.06
+  },
+  {
+    "id": "1cbb8887-9aa7-4bee-be76-580f9954f2e2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-27",
+    "amount": 29078,
+    "positive": 0.5
+  },
+  {
+    "id": "7a22c861-7cfa-4149-878e-4fcc4f1774f2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-12",
+    "amount": 117444,
+    "positive": 7.95
+  },
+  {
+    "id": "93966290-3bfc-4a70-af1f-5af0ac179d2c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-13",
+    "amount": 118721,
+    "positive": 8.03
+  },
+  {
+    "id": "775ee18e-e790-4f49-aa0a-de929e261de2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-14",
+    "amount": 121051,
+    "positive": 7.7
+  },
+  {
+    "id": "f5bd8225-c39e-468e-9fb0-5870bdf6e945",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-11",
+    "amount": 5644,
+    "positive": 6.38
+  },
+  {
+    "id": "aadc7e31-4006-4ae1-a7c5-b58a485f2a34",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-12",
+    "amount": 8336,
+    "positive": 6.84
+  },
+  {
+    "id": "decea481-438f-4267-81d6-63e9ab620d68",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-15",
+    "amount": 99436,
+    "positive": 8.51
+  },
+  {
+    "id": "16062217-5e47-4301-a137-89d7ef87ad51",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-16",
+    "amount": 68972,
+    "positive": 7.39
+  },
+  {
+    "id": "f85e35c3-a8d2-4bc2-a0c0-64d49ad9668c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-13",
+    "amount": 8474,
+    "positive": 5.29
+  },
+  {
+    "id": "f5c06f2b-0c23-4b0c-a5c3-749455ffa5b1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-17",
+    "amount": 61793,
+    "positive": 9.2
+  },
+  {
+    "id": "51d3e2dc-1372-4b42-aa0b-4d2cf0631edd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-15",
+    "amount": 85617,
+    "positive": 6.08
+  },
+  {
+    "id": "63d57056-e592-430d-a5f7-c13d07aa8133",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-18",
+    "amount": 99284,
+    "positive": 10.19
+  },
+  {
+    "id": "2635156a-6c87-445f-8061-8596b3c0f39b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-19",
+    "amount": 93803,
+    "positive": 9.23
+  },
+  {
+    "id": "78ff28d0-4c80-4ff0-8bce-e6d11abc971c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-20",
+    "amount": 90027,
+    "positive": 9.28
+  },
+  {
+    "id": "5ddd9167-a1ce-491d-a2df-be7bc750b92d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-21",
+    "amount": 80141,
+    "positive": 9.07
+  },
+  {
+    "id": "7c550835-5120-4824-8caa-76e30504ad71",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-14",
+    "amount": 10675,
+    "positive": 3.83
+  },
+  {
+    "id": "5af62b5c-dae1-48ca-a954-8b3c13b7d357",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-15",
+    "amount": 7619,
+    "positive": 4.17
+  },
+  {
+    "id": "dc1a68dd-0a43-4937-aa19-5d72b375c0a3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-23",
+    "amount": 124989,
+    "positive": 5.14
+  },
+  {
+    "id": "e2bb2304-c6e5-4c2d-b941-0f1bc6f4972c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-28",
+    "amount": 70879,
+    "positive": 3.41
+  },
+  {
+    "id": "19268b86-f88d-4169-9da6-6e83f9496b71",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-11",
+    "amount": 156859,
+    "positive": 6.56
+  },
+  {
+    "id": "e213d847-73b0-4db5-b93b-638d28da1722",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-16",
+    "amount": 11029,
+    "positive": 2.75
+  },
+  {
+    "id": "5185e81d-6895-42f6-8cd4-fabb414b4c6a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-17",
+    "amount": 89632,
+    "positive": 5.6
+  },
+  {
+    "id": "7ec6867c-4ef5-401a-8cfc-bb53f7b2b183",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-17",
+    "amount": 9828,
+    "positive": 3.12
+  },
+  {
+    "id": "2b51ee5e-7494-4396-89a9-cc363e2adcd3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-01",
+    "amount": 143130,
+    "positive": 7.9
+  },
+  {
+    "id": "339a748b-6045-48e0-aed9-c0a784b8622f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-25",
+    "amount": 7357,
+    "positive": 2.16
+  },
+  {
+    "id": "ec4339c1-2635-4328-90bd-969672e8b797",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-26",
+    "amount": 7341,
+    "positive": 1.13
+  },
+  {
+    "id": "6b6e4551-3371-4c54-bdc5-95ccde2e83bd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-27",
+    "amount": 9419,
+    "positive": 1.36
+  },
+  {
+    "id": "5fac34d3-1314-41b3-99cc-7526063939da",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-28",
+    "amount": 8814,
+    "positive": 1.8
+  },
+  {
+    "id": "58eb9973-2e30-4c87-b5e9-6214539357c6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-04",
+    "amount": 7954,
+    "positive": 0.67
+  },
+  {
+    "id": "fca63e72-c568-4de2-a141-294e209f4e75",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-05",
+    "amount": 7687,
+    "positive": 0.42
+  },
+  {
+    "id": "ff572990-2b95-4f65-acde-a216ff22060b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-06",
+    "amount": 8545,
+    "positive": 0.76
+  },
+  {
+    "id": "e00220a5-c67e-42a3-ba43-3bacb89fceda",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-24",
+    "amount": 150851,
+    "positive": 6.69
+  },
+  {
+    "id": "161308dd-bae0-4545-96ba-965c06d80f0a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-25",
+    "amount": 140781,
+    "positive": 6.57
+  },
+  {
+    "id": "c3d2d8aa-a9a7-4a1d-8bae-203f9f63200b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-15",
+    "amount": 5214,
+    "positive": 0.38
+  },
+  {
+    "id": "2478b9cc-1bc4-442f-82d0-96e723822cb1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-28",
+    "amount": 103423,
+    "positive": 7.1
+  },
+  {
+    "id": "18c567b6-c5db-4e35-8ad1-57a698f48305",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-29",
+    "amount": 87497,
+    "positive": 7.79
+  },
+  {
+    "id": "569e12ad-6c6d-45ad-9486-250e7c0bd25e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-04-25",
+    "amount": 29836,
+    "positive": 0.26
+  },
+  {
+    "id": "94a82fe4-2345-4deb-9b25-e4a2c528f96d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-30",
+    "amount": 146127,
+    "positive": 7.63
+  },
+  {
+    "id": "1385aa6a-93fc-463d-880c-d19f9b76b64f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-02",
+    "amount": 134923,
+    "positive": 8.42
+  },
+  {
+    "id": "330c1c2f-d699-452c-9ade-458f78aac748",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-03",
+    "amount": 143793,
+    "positive": 6.9
+  },
+  {
+    "id": "211a2cac-b0c1-4f7c-b811-f4e10e915d80",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-10",
+    "amount": 73606,
+    "positive": 2.72
+  },
+  {
+    "id": "c59ded1b-1351-4965-b101-fa7b6e182ff4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-11",
+    "amount": 73678,
+    "positive": 2.5
+  },
+  {
+    "id": "634aff22-f301-480d-ae4f-5fd030536e69",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-06-28",
+    "amount": 44729,
+    "positive": 0.64
+  },
+  {
+    "id": "508deb63-2f67-40ff-85fb-86bc6b8a089a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-12",
+    "amount": 41056,
+    "positive": 3.15
+  },
+  {
+    "id": "3a112dd6-6ec3-42af-8e61-a164e56ae8cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-13",
+    "amount": 48206,
+    "positive": 3.59
+  },
+  {
+    "id": "e12a73ca-bd2d-4818-9c56-88c65715a76b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-14",
+    "amount": 70625,
+    "positive": 3.27
+  },
+  {
+    "id": "5fac33df-2a5c-4a69-a056-5a5e3178067c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-15",
+    "amount": 80512,
+    "positive": 3.59
+  },
+  {
+    "id": "fab800fe-71dc-4daf-a0d1-da10bc41df52",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-16",
+    "amount": 80720,
+    "positive": 3.55
+  },
+  {
+    "id": "a3a9f1f6-11a0-4d03-bf64-b850a739816a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-05-23",
+    "amount": 17280,
+    "positive": 0.15
+  },
+  {
+    "id": "ba67002a-4650-403e-a587-e2098fcb1c7d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-25",
+    "amount": 82787,
+    "positive": 4.86
+  },
+  {
+    "id": "723d52e6-038a-4d8a-98c5-5be4f0403a1b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-26",
+    "amount": 60683,
+    "positive": 4.39
+  },
+  {
+    "id": "fe95489f-e10b-443b-a27e-b32b27383a84",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-01",
+    "amount": 75150,
+    "positive": 2.84
+  },
+  {
+    "id": "2465f67d-9940-45a1-a1c7-0e2ff31bea21",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-27",
+    "amount": 68295,
+    "positive": 5.19
+  },
+  {
+    "id": "cf52b0e7-1959-4add-8945-a29a8ecd2e34",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-28",
+    "amount": 98080,
+    "positive": 5.64
+  },
+  {
+    "id": "fde01e99-6096-438a-ae3c-bace6d5947f9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-29",
+    "amount": 97947,
+    "positive": 5.77
+  },
+  {
+    "id": "63043381-a16f-4313-a3a7-99673139e773",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-30",
+    "amount": 101509,
+    "positive": 5.79
+  },
+  {
+    "id": "a26f5eb9-2521-47de-b2da-690daaa29151",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-31",
+    "amount": 101399,
+    "positive": 5.81
+  },
+  {
+    "id": "7cee70aa-951b-467d-8cf0-5db141d00fc8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-25",
+    "amount": 108,
+    "positive": 0
+  },
+  {
+    "id": "3442c098-e7f2-40ac-8364-10f6fc7962cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-26",
+    "amount": 107,
+    "positive": 0
+  },
+  {
+    "id": "57d83cf6-0e80-4894-a639-4bba886493ea",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-27",
+    "amount": 139,
+    "positive": 1.44
+  },
+  {
+    "id": "8e224c7b-e10d-45fe-b932-ba495d75fe26",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-28",
+    "amount": 118,
+    "positive": 2.54
+  },
+  {
+    "id": "186a6523-97fe-41e0-9c09-44f871b31e08",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-29",
+    "amount": 158,
+    "positive": 0
+  },
+  {
+    "id": "84759119-1d68-4150-8892-4d3f085fa989",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-06",
+    "amount": 179874,
+    "positive": 6.04
+  },
+  {
+    "id": "67f13c10-1da7-45d6-bf9d-13746039bbc9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-08",
+    "amount": 60668,
+    "positive": 5.47
+  },
+  {
+    "id": "e0e0971f-41f2-4d65-9db4-47670b44ade9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-01",
+    "amount": 95930,
+    "positive": 6.31
+  },
+  {
+    "id": "4c756c0e-7146-435f-b0e0-f2ab595b61ef",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-10",
+    "amount": 125344,
+    "positive": 4.7
+  },
+  {
+    "id": "64e37986-53eb-49ab-bd3a-54494cc380aa",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-02",
+    "amount": 75729,
+    "positive": 5.59
+  },
+  {
+    "id": "531f340d-7d07-4456-9967-b4271292d016",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-18",
+    "amount": 145985,
+    "positive": 5.5
+  },
+  {
+    "id": "cc6588e8-633c-425a-ab24-ab78c67956a0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-09",
+    "amount": 127561,
+    "positive": 6.25
+  },
+  {
+    "id": "fa035468-8d89-4c9a-88f7-285ad201a8e4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-19",
+    "amount": 141821,
+    "positive": 5.54
+  },
+  {
+    "id": "5636fb43-b44e-4bb0-b09c-b31ddf1d1f42",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-15",
+    "amount": 150358,
+    "positive": 5.92
+  },
+  {
+    "id": "87374cf2-4815-4f45-8de0-a9f5a5bd6429",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-18",
+    "amount": 139271,
+    "positive": 6.21
+  },
+  {
+    "id": "3561130f-92d0-460f-a479-553376a7470a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-03",
+    "amount": 76833,
+    "positive": 6.83
+  },
+  {
+    "id": "9db211d0-9969-4885-a2dc-c5646534c6cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-04",
+    "amount": 108309,
+    "positive": 7.79
+  },
+  {
+    "id": "efcfba42-d2a0-4a9b-b260-d68887c6b5e4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-20",
+    "amount": 172924,
+    "positive": 5.1
+  },
+  {
+    "id": "fcadd33f-b02e-4cb0-bba2-c753238cb689",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-26",
+    "amount": 97214,
+    "positive": 2.21
+  },
+  {
+    "id": "aba5e591-6dbd-4f06-87cf-c061f0043008",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-05",
+    "amount": 114263,
+    "positive": 7.23
+  },
+  {
+    "id": "8e8ff9bf-de55-42c4-aab7-bce575fa1e20",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-06",
+    "amount": 117094,
+    "positive": 6.76
+  },
+  {
+    "id": "8c84046d-0f00-42e0-93b9-76d50b4316c5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-07",
+    "amount": 114220,
+    "positive": 6.75
+  },
+  {
+    "id": "828ce5ae-749c-4901-8503-454c8e093e47",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-08",
+    "amount": 114354,
+    "positive": 7.2
+  },
+  {
+    "id": "08b5b1fd-5c50-4af3-92ab-a59503a739b3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-16",
+    "amount": 142105,
+    "positive": 6.2
+  },
+  {
+    "id": "742fdbdc-f05e-4ebb-9cfc-5ef4c642950e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-04",
+    "amount": 87808,
+    "positive": 5.75
+  },
+  {
+    "id": "e070dd5b-d2cf-4228-8a06-321ac0383438",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-07",
+    "amount": 95164,
+    "positive": 7.22
+  },
+  {
+    "id": "8c8ade28-69df-44f4-a3fc-683886f740b5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-12",
+    "amount": 150821,
+    "positive": 5.2
+  },
+  {
+    "id": "ecc8e994-3377-4bd2-a405-44d721311224",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-13",
+    "amount": 179749,
+    "positive": 6.09
+  },
+  {
+    "id": "79af2d73-00a3-4cf0-acf2-139e58b7fa2d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-17",
+    "amount": 30930,
+    "positive": 1.41
+  },
+  {
+    "id": "7c91f806-3858-4147-8758-7f2a57354a14",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-21",
+    "amount": 103164,
+    "positive": 4.67
+  },
+  {
+    "id": "77b379ee-8d06-44c5-99af-d9490699b80e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-24",
+    "amount": 115951,
+    "positive": 4.3
+  },
+  {
+    "id": "0310186c-22b2-4314-81bc-b8e87705317d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-26",
+    "amount": 92031,
+    "positive": 4.18
+  },
+  {
+    "id": "47ce0cbd-7d7b-48a8-98ee-9d290e8c3068",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-29",
+    "amount": 100514,
+    "positive": 3.6
+  },
+  {
+    "id": "09de3ff0-fcd4-4ad7-aa83-e2283ba28f39",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-01",
+    "amount": 114528,
+    "positive": 3.15
+  },
+  {
+    "id": "68db6578-72bd-4b77-96a8-82fa50934f83",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-02",
+    "amount": 62835,
+    "positive": 2.75
+  },
+  {
+    "id": "eab8c301-596d-4d61-a8ed-080c4864c6e8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-05",
+    "amount": 109516,
+    "positive": 2.32
+  },
+  {
+    "id": "4f6c5700-8271-4eaf-91b0-93f32208700b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-13",
+    "amount": 121876,
+    "positive": 4.92
+  },
+  {
+    "id": "de7e028e-ec6c-4e2b-a753-98ed52b5d05e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-09",
+    "amount": 51897,
+    "positive": 1.99
+  },
+  {
+    "id": "cc6cf558-651b-46f2-bb8a-aa8c1631ae44",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-11",
+    "amount": 117133,
+    "positive": 2
+  },
+  {
+    "id": "e8896839-546d-4228-8d6d-b3dac602543b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-22",
+    "amount": 107532,
+    "positive": 6.15
+  },
+  {
+    "id": "1fda9fcc-dc72-4110-810a-7aed2378e2cf",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-14",
+    "amount": 91152,
+    "positive": 1.47
+  },
+  {
+    "id": "6d74f747-8509-4dd2-bbd3-4855c42cf9e8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-16",
+    "amount": 45089,
+    "positive": 1.63
+  },
+  {
+    "id": "c255aaea-e36e-4976-bdd7-2d9291d696d5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-18",
+    "amount": 105252,
+    "positive": 1.42
+  },
+  {
+    "id": "aa53729e-e9fd-4083-91c6-fed966b10172",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-22",
+    "amount": 13,
+    "positive": 0
+  },
+  {
+    "id": "c8be6325-f7c0-4957-8069-acb3adb918cd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-20",
+    "amount": 97771,
+    "positive": 1.06
+  },
+  {
+    "id": "726d10d0-6059-414c-b0b7-92fb4ea0f4f4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-25",
+    "amount": 100148,
+    "positive": 0.92
+  },
+  {
+    "id": "bec95ae9-9d64-4462-b7a0-4251c181c324",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-02",
+    "amount": 78227,
+    "positive": 0.85
+  },
+  {
+    "id": "dc2cdd75-3c4e-4d5f-be20-391378f16477",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-13",
+    "amount": 30911,
+    "positive": 0.74
+  },
+  {
+    "id": "230f5ef6-c95b-4667-98a6-139836f28cc6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-23",
+    "amount": 56,
+    "positive": 0
+  },
+  {
+    "id": "1ac63572-de5b-46ae-946b-9061bfe7b101",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-02-24",
+    "amount": 74,
+    "positive": 1.35
+  },
+  {
+    "id": "e36fce48-f29e-4cf1-8f89-08a69f476853",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-07",
+    "amount": 9130,
+    "positive": 0.67
+  },
+  {
+    "id": "4d8d95e6-5929-456c-9f8e-51576e6fa3f6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-08",
+    "amount": 7187,
+    "positive": 0.46
+  },
+  {
+    "id": "1b67d619-ed8a-4282-ba73-e83c815fc317",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-09",
+    "amount": 3509,
+    "positive": 0.57
+  },
+  {
+    "id": "f8665cb0-ab5d-4986-9527-4b14a1bd233b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-10",
+    "amount": 4410,
+    "positive": 0.66
+  },
+  {
+    "id": "b561fa7c-19ea-4142-8d2a-c271644d18e5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-11",
+    "amount": 7826,
+    "positive": 0.5
+  },
+  {
+    "id": "b5925d55-8448-46ec-bb42-872a2c4dd30b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-12",
+    "amount": 6681,
+    "positive": 0.34
+  },
+  {
+    "id": "2f5c2b0c-802a-4866-9812-c88629635b2a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-13",
+    "amount": 7525,
+    "positive": 0.52
+  },
+  {
+    "id": "83371f42-4aa4-4d4a-a8cc-f5e1ada5dbed",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-14",
+    "amount": 7678,
+    "positive": 0.29
+  },
+  {
+    "id": "a253e70f-6987-4bf6-9912-dac0c4ec56ff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-15",
+    "amount": 5073,
+    "positive": 0.24
+  },
+  {
+    "id": "a0e23d02-a21b-4e24-96eb-1824433e3407",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-16",
+    "amount": 1343,
+    "positive": 0.37
+  },
+  {
+    "id": "c31838c3-8641-4149-8614-55665ca8b642",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-17",
+    "amount": 4219,
+    "positive": 0.36
+  },
+  {
+    "id": "4873d345-ede4-4c38-b1f8-15167e6977be",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-18",
+    "amount": 6797,
+    "positive": 0.4
+  },
+  {
+    "id": "c9bd4d34-8fbc-46a6-bdc6-9b3429d8d6a3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-19",
+    "amount": 6502,
+    "positive": 0.34
+  },
+  {
+    "id": "c281c0b5-32a7-44e5-a72c-e0eeb0967e3c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-20",
+    "amount": 5620,
+    "positive": 0.27
+  },
+  {
+    "id": "194c2a81-9f10-413e-9793-0258ea1702b0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-21",
+    "amount": 5601,
+    "positive": 0.3
+  },
+  {
+    "id": "03b3270c-834a-4e30-bff9-08b5c20ab012",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-22",
+    "amount": 4615,
+    "positive": 0.41
+  },
+  {
+    "id": "f2f85380-e4a8-4f4d-b4fd-eb13ccca0734",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-23",
+    "amount": 670,
+    "positive": 0.75
+  },
+  {
+    "id": "ab5e4fa5-f8b7-458e-ab4d-a0fc4a5e7aff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-24",
+    "amount": 3439,
+    "positive": 0.38
+  },
+  {
+    "id": "c345ad0e-da28-48bf-b42f-8944955c998e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-25",
+    "amount": 4850,
+    "positive": 0.45
+  },
+  {
+    "id": "0721d9f0-d8df-4886-8307-a8b97492a50c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-26",
+    "amount": 6514,
+    "positive": 0.77
+  },
+  {
+    "id": "ac4e607d-f87f-4037-a7fc-c68a6d8273a2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-27",
+    "amount": 6442,
+    "positive": 0.62
+  },
+  {
+    "id": "bc7778e6-22f7-4855-908b-c7fe0e35cc36",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-05-28",
+    "amount": 5030,
+    "positive": 1.53
+  },
+  {
+    "id": "011307db-4698-4fa5-930c-54124f89185a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-03",
+    "amount": 13042,
+    "positive": 0.74
+  },
+  {
+    "id": "f0ed96c0-df22-4560-b05f-e4e395abb959",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-04",
+    "amount": 14728,
+    "positive": 0.96
+  },
+  {
+    "id": "9ab4ee62-20ec-4135-927b-001aaf63a2e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-05",
+    "amount": 16351,
+    "positive": 0.78
+  },
+  {
+    "id": "6aafcbb7-bc40-4dfd-a8ec-210bec7b5deb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-06",
+    "amount": 11442,
+    "positive": 0.68
+  },
+  {
+    "id": "bc1a51a0-14fe-4016-bb53-ce42acd8b7c3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-07",
+    "amount": 14891,
+    "positive": 0.94
+  },
+  {
+    "id": "1e8f00c6-2053-48be-ac9b-ac18460fbdff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-08",
+    "amount": 14488,
+    "positive": 1.24
+  },
+  {
+    "id": "cfc24b5f-7d1e-4ac9-9131-b8fe0a81ab8a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-09",
+    "amount": 14867,
+    "positive": 1.17
+  },
+  {
+    "id": "d06f7543-e72d-47d4-ab25-89fd079b5eff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-10",
+    "amount": 18165,
+    "positive": 1.32
+  },
+  {
+    "id": "599c2e29-a6a6-49e1-9fdd-294aeb581403",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-11",
+    "amount": 15565,
+    "positive": 1.23
+  },
+  {
+    "id": "80d41943-a7b7-442b-b5df-09d0c0e4eba7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-12",
+    "amount": 12879,
+    "positive": 1.43
+  },
+  {
+    "id": "ef6f2f17-6dea-41b0-b010-64c615d354da",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-13",
+    "amount": 6847,
+    "positive": 2.18
+  },
+  {
+    "id": "6a1ad45c-ac62-4a2e-8f7b-e65009142349",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-06-14",
+    "amount": 8635,
+    "positive": 1.57
+  },
+  {
+    "id": "b2290f2c-fa8f-4721-9c12-63b353915f14",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-04",
+    "amount": 127,
+    "positive": 0
+  },
+  {
+    "id": "5b04cfc0-c96e-483d-9a5b-2c71f951052e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-14",
+    "amount": 603,
+    "positive": 5.31
+  },
+  {
+    "id": "793eb30a-a732-4164-9e02-96d4f5c76c60",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-15",
+    "amount": 997,
+    "positive": 4.61
+  },
+  {
+    "id": "710623c9-b2f5-4c19-a7af-e330255da1e7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-16",
+    "amount": 1240,
+    "positive": 6.53
+  },
+  {
+    "id": "8b09ad61-00a8-4e2a-a8a2-ed577deb27fb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-17",
+    "amount": 1471,
+    "positive": 6.73
+  },
+  {
+    "id": "c7954b1f-295b-4413-8817-a023ddbe427a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-18",
+    "amount": 1931,
+    "positive": 6.63
+  },
+  {
+    "id": "3db106ae-9bb6-4cfd-9c27-f59e46763c7e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-19",
+    "amount": 1879,
+    "positive": 7.72
+  },
+  {
+    "id": "6f0be700-f4f9-4be9-acdb-4b3bc8ba2787",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-20",
+    "amount": 2202,
+    "positive": 8.4
+  },
+  {
+    "id": "9d8c35e9-93df-4b81-a012-fe2c3ef302eb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-21",
+    "amount": 2028,
+    "positive": 10.75
+  },
+  {
+    "id": "6ce844a3-5651-48a4-970b-9f402960a775",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-22",
+    "amount": 3030,
+    "positive": 8.71
+  },
+  {
+    "id": "21a75edd-9041-4dd8-8434-e494070a1050",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-23",
+    "amount": 3297,
+    "positive": 10.89
+  },
+  {
+    "id": "a31c4f38-a70e-4b35-ab25-030b7c0ade30",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-24",
+    "amount": 4430,
+    "positive": 9.77
+  },
+  {
+    "id": "84eb1fee-89b0-4748-8ad2-304093462534",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-25",
+    "amount": 5671,
+    "positive": 7.6
+  },
+  {
+    "id": "de115722-ec66-46a5-a310-b07fa4e70075",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-26",
+    "amount": 6131,
+    "positive": 8.63
+  },
+  {
+    "id": "7ca29add-87d3-40ce-bb46-a24e674e5f59",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-27",
+    "amount": 5364,
+    "positive": 8.2
+  },
+  {
+    "id": "9bbaf943-20d8-4221-9336-53fcd2a098cd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-03-28",
+    "amount": 5424,
+    "positive": 9.02
+  },
+  {
+    "id": "dd98fd61-d709-4f03-befd-0a6a59938e52",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-18",
+    "amount": 8828,
+    "positive": 3.33
+  },
+  {
+    "id": "84473b24-7ae2-4a45-8828-29cdfde7b052",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-19",
+    "amount": 9830,
+    "positive": 2.96
+  },
+  {
+    "id": "8a657af8-7aa5-45a3-bd10-17069b23f2bd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-20",
+    "amount": 13097,
+    "positive": 2.38
+  },
+  {
+    "id": "7da95ec6-b9d4-431f-8185-322581f16653",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-21",
+    "amount": 11402,
+    "positive": 2.53
+  },
+  {
+    "id": "80843793-e7ba-437b-b684-74bd412ea5bd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-22",
+    "amount": 11433,
+    "positive": 1.98
+  },
+  {
+    "id": "7bec6c7e-2435-4f9e-8f35-5dba4e8167d4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-23",
+    "amount": 11753,
+    "positive": 2.39
+  },
+  {
+    "id": "3c4cc913-f7c1-491c-9a99-07a142336c02",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-04-24",
+    "amount": 10305,
+    "positive": 2.44
+  },
+  {
+    "id": "28caaab5-b3ac-4b45-815c-4fd1ad35abfc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-03",
+    "amount": 81388,
+    "positive": 0.76
+  },
+  {
+    "id": "a1f0b57a-31f7-4bc7-86fe-77d9293e3afd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-14",
+    "amount": 73725,
+    "positive": 0.54
+  },
+  {
+    "id": "bfa642ca-c316-4828-a676-d1dcee6ac438",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-14",
+    "amount": 20082,
+    "positive": 6.91
+  },
+  {
+    "id": "c23ac936-7ffc-461a-8960-062b2c5356b3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-15",
+    "amount": 8864,
+    "positive": 8.54
+  },
+  {
+    "id": "abd58127-7bba-40bb-a6f6-1c3483444763",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-16",
+    "amount": 11621,
+    "positive": 9.19
+  },
+  {
+    "id": "b647bc49-1ae5-4f58-8443-e0db3f870790",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-17",
+    "amount": 24894,
+    "positive": 6.63
+  },
+  {
+    "id": "686290e5-ab36-4728-bbc3-3c10e6db016b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-18",
+    "amount": 26780,
+    "positive": 6.16
+  },
+  {
+    "id": "405395bc-9503-4580-8f7f-b749c0e52a6c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-19",
+    "amount": 27240,
+    "positive": 6.02
+  },
+  {
+    "id": "a242aff5-5488-42a8-a679-64046e755e1e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-20",
+    "amount": 27849,
+    "positive": 5.34
+  },
+  {
+    "id": "b1745504-b98e-456c-a522-1b5f4c23fb02",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-21",
+    "amount": 26363,
+    "positive": 5.66
+  },
+  {
+    "id": "aad0b60f-39c5-42b0-9d88-2e5c7d0b1b50",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-22",
+    "amount": 10519,
+    "positive": 6.76
+  },
+  {
+    "id": "0007ef1a-1b8e-4fd5-baeb-36d5e9e89d91",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-23",
+    "amount": 12607,
+    "positive": 7.65
+  },
+  {
+    "id": "1d0c4528-3980-481d-b3e5-37ded0ebf7a1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-24",
+    "amount": 28801,
+    "positive": 6.6
+  },
+  {
+    "id": "f593fd79-2ed9-41e6-8220-9ec37f27b410",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-25",
+    "amount": 32817,
+    "positive": 5.96
+  },
+  {
+    "id": "f2cd8060-56f6-46ab-bc0c-d1eedf2590cd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-26",
+    "amount": 33073,
+    "positive": 5.91
+  },
+  {
+    "id": "5f330a04-cf04-4080-94dc-642b3561a3a6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-27",
+    "amount": 35196,
+    "positive": 5.89
+  },
+  {
+    "id": "0395f0a4-61d6-4af7-ae1b-2e57f20e1a45",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-28",
+    "amount": 22356,
+    "positive": 8.19
+  },
+  {
+    "id": "91f067a4-2b62-46d6-bf72-6852146aa424",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-29",
+    "amount": 10171,
+    "positive": 8.95
+  },
+  {
+    "id": "9c955f44-0c39-46ab-a954-20fdb985ed79",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-30",
+    "amount": 12911,
+    "positive": 8.53
+  },
+  {
+    "id": "116394ad-694c-406e-8abd-2b0e65380d28",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-08-31",
+    "amount": 30653,
+    "positive": 7.11
+  },
+  {
+    "id": "08034180-29c2-438d-8b46-0592890c6f2a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-01",
+    "amount": 27527,
+    "positive": 8.18
+  },
+  {
+    "id": "1da436a3-ea84-4dba-af69-1176abe7dfe9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-02",
+    "amount": 34577,
+    "positive": 9.23
+  },
+  {
+    "id": "62810327-6ef6-4b78-8c07-a21698a0a9a9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-03",
+    "amount": 33979,
+    "positive": 7.83
+  },
+  {
+    "id": "c8f05b72-0ccd-4d0f-95e7-16d374f0aabb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-04",
+    "amount": 30738,
+    "positive": 8.53
+  },
+  {
+    "id": "447b9c93-0c95-4e04-a5d6-cb370716ae60",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-05",
+    "amount": 15291,
+    "positive": 9.84
+  },
+  {
+    "id": "1d7c3bf1-abec-40f6-b775-31cbc6cc6d26",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-06",
+    "amount": 18725,
+    "positive": 11.63
+  },
+  {
+    "id": "00b81857-cb16-4a1f-af94-5ac1f36e9e29",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-07",
+    "amount": 40015,
+    "positive": 8.47
+  },
+  {
+    "id": "c0f849a2-9865-4e08-b53c-0535a49262f9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-08",
+    "amount": 44399,
+    "positive": 7.86
+  },
+  {
+    "id": "a0c83e7d-10a0-48e7-8038-476a8b3f8932",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-09",
+    "amount": 45109,
+    "positive": 8.85
+  },
+  {
+    "id": "a7449583-e24b-4837-a260-d712bb02ac32",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-10",
+    "amount": 47379,
+    "positive": 8.78
+  },
+  {
+    "id": "975dc802-5762-4794-ac71-81afa73869db",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-11",
+    "amount": 42786,
+    "positive": 9.29
+  },
+  {
+    "id": "80e0f455-8fbe-4292-9cdc-002cacf40ee5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-12",
+    "amount": 29783,
+    "positive": 9.13
+  },
+  {
+    "id": "2458b65f-7007-4646-8d49-c4176db964e0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-14",
+    "amount": 46280,
+    "positive": 10.38
+  },
+  {
+    "id": "1f45a12e-9e5a-435d-a442-2f0b07c6ef42",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-15",
+    "amount": 56307,
+    "positive": 9.84
+  },
+  {
+    "id": "cc4e094e-e270-4971-bbc8-8dd242981687",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-16",
+    "amount": 52957,
+    "positive": 8.64
+  },
+  {
+    "id": "57d58ada-50b8-42e5-ac64-e121fe6d1bc8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-17",
+    "amount": 57461,
+    "positive": 9.37
+  },
+  {
+    "id": "1cdb2373-c326-4999-b638-15dce90cf2d1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-18",
+    "amount": 53235,
+    "positive": 10.03
+  },
+  {
+    "id": "b1d8fa3e-83ab-4ddd-89d6-4f2d65177852",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-20",
+    "amount": 23509,
+    "positive": 10.97
+  },
+  {
+    "id": "11732c3c-3437-4046-8929-8b9a59b37b9d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-21",
+    "amount": 33427,
+    "positive": 11.57
+  },
+  {
+    "id": "479fe1e8-a82a-4953-9228-0e6eabfebb51",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-22",
+    "amount": 61076,
+    "positive": 11.5
+  },
+  {
+    "id": "50da3553-dd60-4198-ab9e-d786799cce32",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-23",
+    "amount": 57735,
+    "positive": 12.34
+  },
+  {
+    "id": "c2809058-8d6f-4f2b-b0f7-e19afa0854cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-25",
+    "amount": 61218,
+    "positive": 13.71
+  },
+  {
+    "id": "4a842827-3699-49d7-8f6d-7891fe92cd1f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-27",
+    "amount": 24194,
+    "positive": 14.13
+  },
+  {
+    "id": "7d15e6fa-c9dd-4edd-b1e4-1ca35d05eaba",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-29",
+    "amount": 33170,
+    "positive": 15.05
+  },
+  {
+    "id": "c53faddf-d9b5-4900-bfb8-73a0954e50fd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-09-30",
+    "amount": 67667,
+    "positive": 13.42
+  },
+  {
+    "id": "a75e3598-9fc3-4ab7-ab83-84455c77e6a7",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-01",
+    "amount": 63658,
+    "positive": 12.14
+  },
+  {
+    "id": "2351e7fa-7d93-4b3a-ad03-5a0e8987771d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-02",
+    "amount": 59832,
+    "positive": 11.8
+  },
+  {
+    "id": "50d34c42-b16c-4364-a86e-d9b4e74d6125",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-03",
+    "amount": 23506,
+    "positive": 11.04
+  },
+  {
+    "id": "7fecbe3d-cc04-4b47-bee1-ec6981af2bf5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-04",
+    "amount": 24843,
+    "positive": 11.83
+  },
+  {
+    "id": "7f9769de-d62a-4593-89cd-b513e2907e86",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-05",
+    "amount": 49707,
+    "positive": 11.51
+  },
+  {
+    "id": "36a05346-9dc3-4b7a-a532-62483d3767dc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-06",
+    "amount": 44741,
+    "positive": 10.56
+  },
+  {
+    "id": "0418e2c4-e5b0-4557-86ae-fe3bd91c628f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-07",
+    "amount": 46505,
+    "positive": 8.95
+  },
+  {
+    "id": "db515407-ecf8-4bcb-ba45-3e348d7ce73f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-08",
+    "amount": 47187,
+    "positive": 7.96
+  },
+  {
+    "id": "c8bb25e3-e705-4f0a-b92b-9c4349df5da8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-09",
+    "amount": 35207,
+    "positive": 8.42
+  },
+  {
+    "id": "755ac784-5075-469a-bc3a-f6747da62191",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-10",
+    "amount": 12295,
+    "positive": 7.45
+  },
+  {
+    "id": "cf87c7b3-c272-41c6-a58c-f955a8941605",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-11",
+    "amount": 21289,
+    "positive": 7.73
+  },
+  {
+    "id": "da347f40-5ef9-4771-bdf9-6c2016e28815",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-12",
+    "amount": 44325,
+    "positive": 7.15
+  },
+  {
+    "id": "eca6cd90-34f2-4bce-983b-3259336b418f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-13",
+    "amount": 42425,
+    "positive": 5.51
+  },
+  {
+    "id": "6ff9750a-42e5-49a0-b67d-cec7ecf1f854",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-14",
+    "amount": 38665,
+    "positive": 5.48
+  },
+  {
+    "id": "f6a3f393-4dd2-437a-b3b4-709fd27b9b49",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-15",
+    "amount": 35521,
+    "positive": 4.54
+  },
+  {
+    "id": "98d09295-1955-4333-a466-a371ebe98727",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-16",
+    "amount": 32942,
+    "positive": 4.55
+  },
+  {
+    "id": "cba75cf9-6b57-4de3-902d-8600d492b233",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-17",
+    "amount": 14218,
+    "positive": 2.9
+  },
+  {
+    "id": "1df3a802-8d4d-41f0-9a3d-d9ec517187cc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-18",
+    "amount": 26034,
+    "positive": 3.55
+  },
+  {
+    "id": "7feb492c-95b3-49ee-88fb-7ad786b3bf1d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-19",
+    "amount": 39808,
+    "positive": 3.81
+  },
+  {
+    "id": "017dce06-8190-4bcb-9d0e-05c21a757f9c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-20",
+    "amount": 40542,
+    "positive": 2.95
+  },
+  {
+    "id": "4cf39059-0fd8-45ac-a804-0779be2116f9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-21",
+    "amount": 41441,
+    "positive": 2.83
+  },
+  {
+    "id": "d83d3e74-2f72-4e85-be14-054839e966dc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-22",
+    "amount": 33720,
+    "positive": 3.06
+  },
+  {
+    "id": "457e69d3-e53e-4a4c-860a-f7bc1c4c3c3a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-23",
+    "amount": 29272,
+    "positive": 2.9
+  },
+  {
+    "id": "33ba33b2-4f5c-47c4-98ab-cea71b38de89",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-24",
+    "amount": 6311,
+    "positive": 3.9
+  },
+  {
+    "id": "d3a205cb-82bd-4674-8237-ccd8ce5b157c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-25",
+    "amount": 20717,
+    "positive": 2.93
+  },
+  {
+    "id": "654c6057-3766-4fd3-83b7-b6c7d484661e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-26",
+    "amount": 39306,
+    "positive": 2.25
+  },
+  {
+    "id": "9e2c022c-291f-4c6d-98d2-c7cb2e260f14",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-27",
+    "amount": 40147,
+    "positive": 2.21
+  },
+  {
+    "id": "37849af3-61ac-4d71-b8df-1c9bd799757a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-28",
+    "amount": 33877,
+    "positive": 2.13
+  },
+  {
+    "id": "568a07f6-8a35-4d16-8c4f-f83668b47e43",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-29",
+    "amount": 36350,
+    "positive": 1.77
+  },
+  {
+    "id": "e35356ac-4564-440b-a069-c447d9a6e914",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-30",
+    "amount": 31715,
+    "positive": 2.14
+  },
+  {
+    "id": "9002a8b5-775f-475d-8cc4-d798c2ed7ae6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-10-31",
+    "amount": 7714,
+    "positive": 2.96
+  },
+  {
+    "id": "1adab6b5-2299-4cce-b9b5-151f4036687b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-01",
+    "amount": 21848,
+    "positive": 3.01
+  },
+  {
+    "id": "59d84b47-718b-4e4b-8f11-df6709451296",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-02",
+    "amount": 34498,
+    "positive": 2.29
+  },
+  {
+    "id": "78cac6b9-8e27-4b10-a9f0-35b8aa1d59d1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-03",
+    "amount": 40194,
+    "positive": 2.1
+  },
+  {
+    "id": "4fa3d0c9-da3d-4340-82a4-6007ad2de2e1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-04",
+    "amount": 38691,
+    "positive": 1.99
+  },
+  {
+    "id": "caf8ca41-5774-428f-b73a-c2b82ed985af",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-05",
+    "amount": 34467,
+    "positive": 1.65
+  },
+  {
+    "id": "08ad5116-b805-469f-8752-71cd70b30128",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-06",
+    "amount": 30729,
+    "positive": 2.25
+  },
+  {
+    "id": "0016d698-adf0-447a-bd7a-eb1bd424d5a1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-07",
+    "amount": 8077,
+    "positive": 2.62
+  },
+  {
+    "id": "c4f5e9d1-ec4e-4b5d-9dc3-c58024a89370",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-08",
+    "amount": 21486,
+    "positive": 2.49
+  },
+  {
+    "id": "446176b2-bfff-4323-b26e-3744408c5632",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-09",
+    "amount": 34388,
+    "positive": 2.09
+  },
+  {
+    "id": "69e7b579-8280-440b-ae17-9baafc189dd5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-10",
+    "amount": 40542,
+    "positive": 1.66
+  },
+  {
+    "id": "fcf97708-8be8-4dc5-b554-6a74fd152760",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-11",
+    "amount": 39517,
+    "positive": 1.94
+  },
+  {
+    "id": "f5ee414f-b1a7-4f2a-88f5-6581c7383dc5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-12",
+    "amount": 39326,
+    "positive": 2.13
+  },
+  {
+    "id": "15cb777c-0fb2-4eb3-97f6-d6af8ed9399a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-13",
+    "amount": 35032,
+    "positive": 2.17
+  },
+  {
+    "id": "8ea2b0fc-4331-4d50-a6fb-10006d8719e1",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-14",
+    "amount": 12655,
+    "positive": 2.3
+  },
+  {
+    "id": "df1584ea-4e35-470c-8cad-d976be326e02",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-15",
+    "amount": 23303,
+    "positive": 2.69
+  },
+  {
+    "id": "55212e94-8ee5-4dff-b711-cca4d1fcbb14",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-16",
+    "amount": 47861,
+    "positive": 1.82
+  },
+  {
+    "id": "6078fcf7-cb58-40c7-8c8c-4ddecd73e7ca",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-17",
+    "amount": 55454,
+    "positive": 1.49
+  },
+  {
+    "id": "a3b0b8ab-82be-4be0-b097-33a2f3a56211",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-18",
+    "amount": 45642,
+    "positive": 1.74
+  },
+  {
+    "id": "8bc375e8-0d59-4df3-9558-91113be9ee74",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-19",
+    "amount": 55163,
+    "positive": 1.4
+  },
+  {
+    "id": "995c9a7a-509c-4114-9a74-4d1e8f9196c2",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-20",
+    "amount": 43223,
+    "positive": 1.79
+  },
+  {
+    "id": "e09b312d-b43a-4560-858e-0db2fbe1d510",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-21",
+    "amount": 15605,
+    "positive": 2.7
+  },
+  {
+    "id": "77cf0973-b0b6-4bd1-b6c4-a3ab982fdaae",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-22",
+    "amount": 34314,
+    "positive": 2.22
+  },
+  {
+    "id": "adce5856-9ff8-438a-8217-1ec8d61b3fff",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-23",
+    "amount": 52499,
+    "positive": 1.83
+  },
+  {
+    "id": "8a7d3ba0-b0fa-4962-a62e-69879311081d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-24",
+    "amount": 58725,
+    "positive": 1.46
+  },
+  {
+    "id": "73b7088d-da7a-42aa-ae56-92a34b767847",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-25",
+    "amount": 59641,
+    "positive": 1.81
+  },
+  {
+    "id": "e970832e-4c64-4383-a044-b0d0bef736fb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-26",
+    "amount": 53375,
+    "positive": 2.04
+  },
+  {
+    "id": "769bec3c-0e13-40dc-971f-0e8100c15c89",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-27",
+    "amount": 47971,
+    "positive": 2.15
+  },
+  {
+    "id": "a269ce3f-e3bd-470b-874c-901fe6ccd7c6",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-28",
+    "amount": 17181,
+    "positive": 3.39
+  },
+  {
+    "id": "07d5cc60-eec6-40bb-8def-047b111cf239",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-29",
+    "amount": 39521,
+    "positive": 2.59
+  },
+  {
+    "id": "4e504e08-33df-4bf3-a716-b456228f340a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-11-30",
+    "amount": 57533,
+    "positive": 2.18
+  },
+  {
+    "id": "812f6dc5-8b14-42cc-b85a-6676c7860ecd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-01",
+    "amount": 63979,
+    "positive": 1.87
+  },
+  {
+    "id": "9f5e8073-7d08-4fe9-a22b-a15d4f7fe249",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-02",
+    "amount": 71286,
+    "positive": 2.23
+  },
+  {
+    "id": "cb529b61-b011-4791-980c-3213be701a4a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-03",
+    "amount": 64183,
+    "positive": 2.26
+  },
+  {
+    "id": "c891ba08-abb6-42b6-8af8-e78448970125",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-04",
+    "amount": 60403,
+    "positive": 2.51
+  },
+  {
+    "id": "22ef2334-9646-4901-82e2-5331470ee422",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-05",
+    "amount": 25369,
+    "positive": 3.94
+  },
+  {
+    "id": "1139ad92-a9bf-4de6-9bff-db695913760d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-06",
+    "amount": 42066,
+    "positive": 3.24
+  },
+  {
+    "id": "61110871-a1a4-4a2d-b6c1-3809d28113c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-07",
+    "amount": 66092,
+    "positive": 2.81
+  },
+  {
+    "id": "60399634-a12e-4220-a79a-1416586bea58",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-08",
+    "amount": 69157,
+    "positive": 2.56
+  },
+  {
+    "id": "21f1ff2f-b51e-4908-b2d6-eca0305a3778",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-09",
+    "amount": 73871,
+    "positive": 2.53
+  },
+  {
+    "id": "9bad3015-1294-4aa9-a271-c9c8ffab2610",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-26",
+    "amount": 86623,
+    "positive": 0.84
+  },
+  {
+    "id": "3dd100b6-c787-4a67-be9a-f9c3fbd7637e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-04",
+    "amount": 69289,
+    "positive": 0.75
+  },
+  {
+    "id": "312dbe99-0bf7-4552-bd7a-359e41e6f1c5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-15",
+    "amount": 85793,
+    "positive": 0.61
+  },
+  {
+    "id": "addfb7f1-5af8-409f-a511-f86a3089043d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-17",
+    "amount": 76542,
+    "positive": 3.71
+  },
+  {
+    "id": "b868a8c9-b20f-4e5f-ac9f-8e94a415ea18",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-18",
+    "amount": 74002,
+    "positive": 3.79
+  },
+  {
+    "id": "61d16b76-b528-4f3c-930e-5c056663fc72",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-19",
+    "amount": 59489,
+    "positive": 3.19
+  },
+  {
+    "id": "708d4de8-38b2-4e79-b3d1-aa4125cfa4c9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-20",
+    "amount": 67140,
+    "positive": 4.62
+  },
+  {
+    "id": "ecc72630-cd08-4437-918a-369e1f583896",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-21",
+    "amount": 88966,
+    "positive": 4.35
+  },
+  {
+    "id": "0d0b499a-e603-4776-adac-0ed703d85330",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-22",
+    "amount": 90055,
+    "positive": 4.86
+  },
+  {
+    "id": "641996ae-7727-42f4-b759-4415e2223b09",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-23",
+    "amount": 93247,
+    "positive": 4.36
+  },
+  {
+    "id": "eaa41a2e-e533-424d-b1ed-67303471afc8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2020-12-24",
+    "amount": 93697,
+    "positive": 4.35
+  },
+  {
+    "id": "c96a048e-f8a1-429f-8fd0-10b9ae849bf4",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-19",
+    "amount": 126823,
+    "positive": 5.17
+  },
+  {
+    "id": "57210fac-9511-41a5-bee9-2ff39c106864",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-25",
+    "amount": 66901,
+    "positive": 3.95
+  },
+  {
+    "id": "bd7975d0-1682-4102-a6a0-c51e253a5fc3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-09-30",
+    "amount": 115260,
+    "positive": 3.8
+  },
+  {
+    "id": "cbe57313-d64b-4305-ae6a-fdf9d2399d63",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-06",
+    "amount": 104343,
+    "positive": 2.3
+  },
+  {
+    "id": "547ea555-ab0c-428e-8c0d-df6ceef2f215",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-10",
+    "amount": 79416,
+    "positive": 1.88
+  },
+  {
+    "id": "57210684-87cb-4584-9e56-06fbe955c2e0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-12",
+    "amount": 106993,
+    "positive": 1.68
+  },
+  {
+    "id": "1c10f4f6-0f1c-46e4-b5ba-e379b29eec54",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-27",
+    "amount": 79607,
+    "positive": 0.81
+  },
+  {
+    "id": "08224030-c136-436a-aea3-ed1f58d3ed95",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-05",
+    "amount": 73341,
+    "positive": 0.76
+  },
+  {
+    "id": "a3a6a718-fa85-4b4b-8196-cff958547da5",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-16",
+    "amount": 56983,
+    "positive": 0.62
+  },
+  {
+    "id": "3796b6df-6129-4b17-b4d7-45634c26da86",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-08",
+    "amount": 88147,
+    "positive": 8.89
+  },
+  {
+    "id": "e46374e2-ecd5-4191-b4a0-329c67a51c05",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-09",
+    "amount": 78897,
+    "positive": 7.81
+  },
+  {
+    "id": "b9ca6a12-d1ad-4c67-99ed-52248c1e5482",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-10",
+    "amount": 74853,
+    "positive": 7.58
+  },
+  {
+    "id": "791a58f5-d340-45ed-b1a2-3ca5a161acee",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-11",
+    "amount": 73974,
+    "positive": 6.77
+  },
+  {
+    "id": "bb52f404-8732-44e9-81b6-a4044d1d7c52",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-12",
+    "amount": 65477,
+    "positive": 7.11
+  },
+  {
+    "id": "6dad9e77-6252-4167-a266-e1bcdc687c0f",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-13",
+    "amount": 24128,
+    "positive": 7.82
+  },
+  {
+    "id": "68880131-357c-4a36-9b12-a779b818e74a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-14",
+    "amount": 45761,
+    "positive": 7.61
+  },
+  {
+    "id": "3915b5f0-54f4-4546-858b-643a8d14da30",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-15",
+    "amount": 68410,
+    "positive": 7.58
+  },
+  {
+    "id": "5277fff0-7fc9-46ee-9f59-bfbc08f3e56e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-16",
+    "amount": 71525,
+    "positive": 6.39
+  },
+  {
+    "id": "1e8a7eaf-d1b9-470d-a40c-23384dd8f14a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-17",
+    "amount": 62248,
+    "positive": 6.62
+  },
+  {
+    "id": "36ebeeac-6504-4a98-8a2b-09ed2991c9ce",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-18",
+    "amount": 50939,
+    "positive": 6.54
+  },
+  {
+    "id": "c0e27913-fe39-4539-9cd2-e6aebdba2df8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-19",
+    "amount": 61178,
+    "positive": 6.2
+  },
+  {
+    "id": "c98bcd08-4716-4b25-a154-f3db0bd74979",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-20",
+    "amount": 19023,
+    "positive": 6.6
+  },
+  {
+    "id": "69aeb576-b79f-4b6b-88c4-8646251465f3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-21",
+    "amount": 48718,
+    "positive": 6.38
+  },
+  {
+    "id": "2edbfd96-8592-4a42-ab72-b2d5c800ac39",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-22",
+    "amount": 68085,
+    "positive": 7.06
+  },
+  {
+    "id": "6fb0dbf7-97b0-4c8e-babd-a90f6954c51e",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-23",
+    "amount": 71820,
+    "positive": 6.19
+  },
+  {
+    "id": "6c376411-878f-48b6-8cf8-7512829a95d0",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-24",
+    "amount": 73754,
+    "positive": 5.92
+  },
+  {
+    "id": "9312b0c1-f220-4123-9ba2-1c63ae8f6f40",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-25",
+    "amount": 68163,
+    "positive": 5.59
+  },
+  {
+    "id": "645dcb70-3d7a-4588-9bc2-ae6c0fc5db01",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-26",
+    "amount": 64060,
+    "positive": 5.95
+  },
+  {
+    "id": "b2b3ef86-762f-4944-ac11-13c9a9ef6bec",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-27",
+    "amount": 23792,
+    "positive": 6.04
+  },
+  {
+    "id": "0f8acac9-45d5-46f8-aebc-3305c6926e47",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-28",
+    "amount": 53070,
+    "positive": 5.79
+  },
+  {
+    "id": "1f629bd2-4865-4549-8d55-d22dce51fa56",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-01",
+    "amount": 88491,
+    "positive": 5.49
+  },
+  {
+    "id": "c1573d3d-35d1-4387-863b-c8e324f5c10c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-02",
+    "amount": 90562,
+    "positive": 4.83
+  },
+  {
+    "id": "d2c62e45-1197-4970-9e73-7df8950f6137",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-03",
+    "amount": 92477,
+    "positive": 5.05
+  },
+  {
+    "id": "ab1336cf-ed8d-4391-aebf-8b912e8cd20b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-04",
+    "amount": 89799,
+    "positive": 4.07
+  },
+  {
+    "id": "7d9b9d71-1b0a-4940-863b-063ead061bdd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-05",
+    "amount": 99290,
+    "positive": 3.74
+  },
+  {
+    "id": "83ccfc93-ef5e-482e-b8c6-79a5aa5fbe51",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-06",
+    "amount": 40093,
+    "positive": 4.68
+  },
+  {
+    "id": "2c3d493a-b43c-47b2-a3c9-d2bbc10f18cd",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-07",
+    "amount": 62301,
+    "positive": 3.77
+  },
+  {
+    "id": "8dc4b5f9-a781-49f2-a004-013a8c83450a",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-08",
+    "amount": 95909,
+    "positive": 3.94
+  },
+  {
+    "id": "f72fddc1-6ed7-467f-a05d-86e8192b70ee",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-11",
+    "amount": 83011,
+    "positive": 3.07
+  },
+  {
+    "id": "e92cd6ab-ae44-45bb-b2ce-99b9299b5c8d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-18",
+    "amount": 51880,
+    "positive": 1.62
+  },
+  {
+    "id": "163a36e5-b8fd-402a-87a3-9190cfd9a060",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-07-27",
+    "amount": 100097,
+    "positive": 2.3
+  },
+  {
+    "id": "dfa12ab8-734f-46d4-8b14-97352a013672",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-17",
+    "amount": 143372,
+    "positive": 5.59
+  },
+  {
+    "id": "71594377-d51b-4f93-9209-a2efbeb90df8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-12",
+    "amount": 83290,
+    "positive": 2.9
+  },
+  {
+    "id": "78917333-247d-47a6-98a9-a15a6e1a8df8",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-11",
+    "amount": 131589,
+    "positive": 4.61
+  },
+  {
+    "id": "412bc720-c425-4e0b-8fe3-02660bf1716d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-13",
+    "amount": 26469,
+    "positive": 2.96
+  },
+  {
+    "id": "ac92bd8a-bad6-4696-a748-ba160ceca97c",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-08-23",
+    "amount": 153048,
+    "positive": 6.61
+  },
+  {
+    "id": "7fe58f10-e7ad-4d86-a78f-911d1269b582",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-09",
+    "amount": 92446,
+    "positive": 3.37
+  },
+  {
+    "id": "5ac092f7-2ca6-4395-a02a-bf9a491d6b49",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-03-10",
+    "amount": 95966,
+    "positive": 2.95
+  },
+  {
+    "id": "7ad5cf33-27c9-4a6e-92d1-c8414028223b",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-30",
+    "amount": 26058,
+    "positive": 10.04
+  },
+  {
+    "id": "126cb4f3-7733-4381-85aa-e6d2c9e6efdc",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-01-31",
+    "amount": 53406,
+    "positive": 9.82
+  },
+  {
+    "id": "011552d1-8162-4f5e-8d91-d33c790b36e3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-01",
+    "amount": 89839,
+    "positive": 9.95
+  },
+  {
+    "id": "39860bbf-6563-4050-9328-c77992377254",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-02",
+    "amount": 86221,
+    "positive": 9.32
+  },
+  {
+    "id": "2b422193-b012-416c-859f-392a83e1eedb",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-03",
+    "amount": 84073,
+    "positive": 8.9
+  },
+  {
+    "id": "85f3576c-8f8f-4d87-b5d5-1135790ab7f3",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-04",
+    "amount": 81975,
+    "positive": 8.87
+  },
+  {
+    "id": "5506f918-fe34-415d-932d-a7d838be64f9",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-05",
+    "amount": 81774,
+    "positive": 8.08
+  },
+  {
+    "id": "68933726-0132-4a4e-80ec-3f3347fd8303",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-06",
+    "amount": 28211,
+    "positive": 9.41
+  },
+  {
+    "id": "a6f3ac48-b9aa-4a38-a71f-462ea29f8f77",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-02-07",
+    "amount": 52327,
+    "positive": 8.81
+  },
+  {
+    "id": "4c23a962-5213-469a-8627-9849f04e7151",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-10-28",
+    "amount": 71685,
+    "positive": 0.92
+  },
+  {
+    "id": "83f7e16c-bc85-4331-b3e2-3ffb87457b3d",
+    "countryId": "0bcaf8ed-0287-4b2f-87a9-9723ebca9224",
+    "date": "2021-11-06",
+    "amount": 29150,
+    "positive": 0.68
+  }
+]
